@@ -1,0 +1,74 @@
+#container {
+  position: relative;
+  left: 45%;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background: blue;
+}
+.circle1 {
+  position: absolute;
+  top: 0px;
+  width: 120px;
+  height: 120px;
+  background: blue url(munstur.svg) no-repeat;
+  border-radius: 50%;
+  animation: spin 10s infinite linear;
+}
+
+/* animations */
+
+@keyframes spin {
+  0% { transform:rotate(0deg); }
+  100% { transform:rotate(360deg);}
+}
+
+/*
+.circle1 {
+  position: relative;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid #1ba7f2;
+  border-left: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  
+  transform:rotate(320deg);
+  animation: spin1 0.5s infinite linear;
+  
+}
+
+.circle2 {
+  position: absolute;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid #1ba7f2;
+  border-left: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+
+  animation: spin2 0.5s infinite linear;
+}
+.circle3 {
+  position: absolute;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid #1ba7f2;
+  border-left: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+
+  animation: spin3 0.5s infinite linear;
+}
+
+http://codepen.io/bernk/pen/thCkx/
+*/

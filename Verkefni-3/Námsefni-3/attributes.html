@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V4 Attribute Selectors</title>
+    <style>
+        ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        }
+        a {
+        background-position: 0 50%;
+        background-repeat: no-repeat;
+        color: #0087cc;
+        padding-left: 22px;
+        text-decoration: none;
+        }
+        a:hover {
+        color: #ff7b29;
+        }
+        a[href$=".pdf"] {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/pdf.png");
+        }
+        a[href$=".doc"] {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/doc.png");
+        }
+        a[href$=".jpg"] {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/image.png");
+        }
+        a[href$=".mp3"] {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/audio.png");
+        }
+        a[href$=".mp4"] {
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/video.png");
+        }
+    </style>
+</head>
+<body>
+    <h1>Eiginda veljari - Attribute Selectors</h1>
+    <ul>
+        <li><a href="#.pdf">PDF Document</a></li>
+        <li><a href="#.doc">Word Document</a></li>
+        <li><a href="#.jpg">Image File</a></li>
+        <li><a href="#.mp3">Audio File</a></li>
+        <li><a href="#.mp4">Video File</a></li>
+      </ul>
+      <a href="https://learn.shayhowe.com/advanced-html-css/complex-selectors/#attribute-selectors">Heimild.</a>
+</body>
+</html>
