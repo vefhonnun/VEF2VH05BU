@@ -19,10 +19,10 @@
 | 4  | Flókin stílbrögð (_Complex selectors_) | 3 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
 | 6  | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 7  | Vefur fyrir viðburð, undirbúningur. | 6 | 10 | -  |
-| 8 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
-| 9 | Vefur fyrir viðburð, _síðasti kennsludagur 28.02_. |  |  |  |
-| 10 | _Námsmat_. | samtals:  | 35 | 65 |
+| 7  | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
+| 8 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
+| 9 | Vefur fyrir viðburð |  |  |  |
+| 10 | _Námsmat_ | samtals:  | 35 | 65 |
 
 ### Vikuáætlun
 
