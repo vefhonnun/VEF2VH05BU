@@ -21,7 +21,7 @@
 | 6  | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
 | 7  | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
 | 8 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
-| 9 | Vefur fyrir viðburð |  |  |  |
+| 9 | Vefur fyrir viðburð, frágangur |  |  |  |
 | 10 | _Námsmat_ | samtals:  | 35 | 65 |
 
 ### Vikuáætlun
