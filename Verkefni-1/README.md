@@ -8,8 +8,8 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS 
 Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
 
 * [New CSS - Boilerplate](Námsefni-1/new-css-boilerplate/)
-  * [Verkefni 1 vinnugögn (.zip)](Námsefni-1/verkefni-1-nemendur.zip)
-* [Vefsíða New.css](https://github.com/xz/new.css)
+  * [Vefsíða New.css](https://github.com/xz/new.css)
+* [Verkefni 1 vinnugögn (.zip)](Námsefni-1/verkefni-1-nemendur.zip)
 
 ### Tvískipt litaþema
 
