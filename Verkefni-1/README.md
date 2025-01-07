@@ -7,11 +7,13 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS 
 
 Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
 
-* [Verkefni 1 vinnugögn (.zip)](Námsefni-1/verkefni-1-nemendur.zip)
-* [New CSS - Boilerplate](Námsefni-1/boilerplate/)
+* [New CSS - Boilerplate](Námsefni-1/new-css-boilerplate/)
+  * [Verkefni 1 vinnugögn (.zip)](Námsefni-1/verkefni-1-nemendur.zip)
 * [Vefsíða New.css](https://github.com/xz/new.css)
 
 ### Tvískipt litaþema
+
+Hér er dæmi um vefsíðu þar sem vafrinn velur litaþema eftir því hvort notandi er með ljóst eða dökkt litaþema valið í honum. 
 
 ![Mynd 1](synidaemi/verk-1L.jpg)
 ![Mynd 2](synidaemi/verk-1D.jpg)
