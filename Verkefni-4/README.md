@@ -21,7 +21,6 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
-- [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 - [Námsefni](Námsefni-4/README.md)
 
 ### Námsmat 10%:  
