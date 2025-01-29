@@ -29,8 +29,8 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 ### Tímaverkefni, lykilmatsþáttur 20%
 
 -	8% Spjallbox (staðsett fyrir utan skjáinn)
-  -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
-  -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
+    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
 -	4% Fellilisti í efnisyfirliti (_drop down menu_)
 -	3% Sprettigluggi (_popup menu_) er á vefsíðunni sem birtist þegar smellt er á tengil
 -	3% Harmonikkulisti (_details list_) 
