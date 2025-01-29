@@ -28,13 +28,15 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 ### Tímaverkefni, lykilmatsþáttur 20%
 
-* 4% Efnisyfirlit (_nav_) Mobile - iPad, 20rem - 60rem 
-  * [≡] Tákn sem birtir fellilista (_Drop down menu_) 
-* 4% Efnisyfirlit (_nav_) desktop, 60rem +
-  * Allir tenglar sýnilegir í einni línu efst í vefsíðu 
-* 4% Sprettigluggi (_Pop up menu_) 
-* 4% Harmonika (_Accordion menu_) 
-* 4% Spjallbox (_Chat box_)
+-	8% Spjallbox (staðsett fyrir utan skjáinn)
+  -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
+  -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+-	4% Fellilisti í efnisyfirliti (_drop down menu_)
+-	3% Sprettigluggi (_popup menu_) er á vefsíðunni sem birtist þegar smellt er á tengil
+-	3% Harmonikkulisti (_details list_) 
+-	1% Tafla og Form (Verkefni 2) 
+-	1% Vefsíða með tvískiptu litasniði (Verkefni 1)
+
 
   
 #### Verkefnaskil
