@@ -32,6 +32,8 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
     -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
     -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
 -	4% Fellilisti í efnisyfirliti (_drop down menu_)
+    -	[≡] Tákn sem birtir fellilista (Drop down menu)
+    -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
 -	4% Sprettigluggi (_popup menu_) er á vefsíðunni sem birtist þegar smellt er á tengil
 -	2% Harmonikkulisti (_details list_) 
 -	1% Tafla og Form (Verkefni 2) 
