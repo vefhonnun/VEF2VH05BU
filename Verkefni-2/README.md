@@ -1,6 +1,6 @@
 # Tafla  &lt;Table> 
 
-Búðu til töflu í vefsíðu, innhald töflunar getur verið dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta. Vefsíðan á að vera sú sama og þú gerðir í 1. verkefni.
+Búðu til töflu í vefsíðu, innhald töflunnar getur verið dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta. Vefsíðan á að vera sú sama og þú gerðir í 1. verkefni.
 
 Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
