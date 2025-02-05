@@ -1,17 +1,14 @@
 #container {
   position: relative;
   left: 45%;
-  height: 120px;
-  width: 120px;
-  border-radius: 50%;
-  background: blue;
+  background-color: black;
 }
 .circle1 {
   position: absolute;
   top: 0px;
-  width: 120px;
-  height: 120px;
-  background: blue url(munstur.svg) no-repeat;
+  width: 70mm;
+  height: 150mm;
+  /*background: url(munstur.svg) no-repeat;*/
   border-radius: 50%;
   animation: spin 10s infinite linear;
 }
