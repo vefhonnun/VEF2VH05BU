@@ -10,7 +10,7 @@
 
 ## Námsáætlun
 
-#### 2025 haust, vor 1.
+#### 2025 vor 1 spönn.
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
