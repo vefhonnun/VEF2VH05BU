@@ -10,6 +10,21 @@ Teiknaðu einfaldar grunnmyndir af mismunandi skjám og flæði notenda í gegnu
 
 ---
 
+Næsta skref er notendaviðmótshönnun (UI Design) en það gefst ekki tími til að gera frumgerð (_Prototype_):
+
+- Útlit og tilfinning: Hönnunin ætti að vera sjónrænt aðlaðandi og samræmast vörumerkinu þínu.
+- Notendaupplifun (UX): Tryggðu að notendur geti auðveldlega skilið og notað appið. Þetta felur í sér að huga að leiðsögn, hnöppum, og öðrum samskiptum.
+
+Prófanir og endurgjöf:
+
+- Notendaprófanir: Láttu raunverulega notendur prófa prototýpuna og gefa endurgjöf.
+- Endurbætur: Notaðu endurgjöfina til að bæta hönnunina og leysa vandamál sem koma upp.
+
+Lokahönnun:
+
+Þegar þú ert ánægður með prototýpuna og hefur fengið jákvæða endurgjöf, geturðu farið í að hanna lokahönnunina með öllum smáatriðum.
+Hönnunarferlið er oft ítrekað, þar sem þú gætir þurft að fara aftur og endurbæta ýmsa þætti eftir því sem þú færð meiri innsýn og endurgjöf.
+
 ### Bjargir
 
 #### Undirbúningur
