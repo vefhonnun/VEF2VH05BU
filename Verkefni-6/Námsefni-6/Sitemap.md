@@ -5,7 +5,7 @@ Dæmi um einfalt skipurit
 
 ```
   Forsíða (index)
-  |  |_ Dagskrá eða Vöru- þjónustulýsing í stuttu máli
+  |  |_ Dagskrá eða Vöru- þjónustulýsing
   |        |_ Kaupa vöru eða þjónustu
   |           
   |_ Um okkur
