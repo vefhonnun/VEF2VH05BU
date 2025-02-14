@@ -24,6 +24,6 @@ Dæmi um einfalt skipurit
     * Það á að vera hægt að panta / skrá sig á ....
 1. Vörukaup / Pöntun 
     * stutt lýsing á hvernig samskiptin eiga að vera
-1. Um okkur - stutt lýsing á hvað á að vera á síðunni
+1. Um okkur - stutt lýsing á fyrirtækinu sem er að birta vefinn
 
  
