@@ -6,5 +6,5 @@
 * Vistið gögnin í vinnumöppu í verkefnageymslu ykkar
 
 1. Hér eru hugmyndir um viðburð sem hægt er að nota sem grunn 
-   * [Hugmynd 1. Viðburður sumar](hugmyndavinna/Hugmyndavinna%20sumar.md)
-   * [Hugmynd 2. Viðburður vetur](hugmyndavinna/Hugmyndavinna%20vetur.md)
+   * [Hugmynd 1. Viðburður sumar](Hugmyndavinna%20sumar.md)
+   * [Hugmynd 2. Viðburður vetur](Hugmyndavinna%20vetur.md)
