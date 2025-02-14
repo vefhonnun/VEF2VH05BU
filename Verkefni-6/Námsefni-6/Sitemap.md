@@ -8,7 +8,7 @@ Dæmi um einfalt skipurit
   |  |_ Dagskrá eða Vöru- þjónustulýsing í stuttu máli
   |        |_ Kaupa vöru eða þjónustu
   |           
-  |_ Um okkur - stutt lýsing á hvað á að vera á síðunni
+  |_ Um okkur
   
 ```
 
