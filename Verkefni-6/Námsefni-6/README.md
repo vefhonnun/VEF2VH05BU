@@ -1,23 +1,16 @@
 # Undirbúningur og skipulagning vefs
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
-
-1. Komdu með hugmyndir um hvernig appið ætti að líta út og virka.
-   * [Hugmynd 1. Viðburður sumar](hugmyndavinna/Hugmyndavinna%20sumar.md)
-   * [Hugmynd 2. Viðburður vetur](hugmyndavinna/Hugmyndavinna%20vetur.md)
-
 Teiknaðu einfaldar grunnmyndir af mismunandi skjám og flæði notenda í gegnum vefsíðuna. Þetta hjálpar til við að sjá heildarmyndina áður en farið er í smáatriðin.
 
+1. [Hugmyndavinna](hugmyndavinna/README.md)
 1. [Skipurit (_Site map_)](sitemap/README.md)
 1. [Tengirammi (_Wireframe_)](wireframe/README.md)
-
-Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
-
-![Stílbragð](style-tyle/stílbragð.jpg) 
+1. [Stílbragð, Style-tyle](style-tyle/README.md)
 
 ---
 
-## Bjargir
+### Bjargir
 
 #### Undirbúningur
 
