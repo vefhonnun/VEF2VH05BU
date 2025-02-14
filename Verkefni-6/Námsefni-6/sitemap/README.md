@@ -17,12 +17,19 @@ Dæmi um einfalt skipurit
 
 #### Lýsið í stuttu máli hvað á að vera í vefnum og samaskipti við notendur vefsins
 
-1. Forsíða
-    * Vefsíðan á að fjalla um ....
+1. Forsíða - löndunarsíða (_Landing page_)
+    * Dagskrá eða vörulýsing (_Features_)
     * Á forsíðunni er kynning sem birtist með (lýsing á virkni/kvikun)
-    * Það á að vera hægt að panta / skrá sig á ....
-1. Vörukaup / Pöntun 
+    * Spjallform (_Chatbot_)
+    * Innskráning / nýskráning (ef það á við)
+1. Vörukaup / Pöntun (_Buy - Order_)
     * stutt lýsing á hvernig samskiptin eiga að vera
-1. Um okkur - stutt lýsing á fyrirtækinu sem er að birta vefinn
+1. Um okkur (_About Us_)
+    * stutt lýsing á fyrirtækinu sem er að birta vefinn
+
+#### Bjargir
+
+* [Draw.io](https://draw.io)
+
 
  

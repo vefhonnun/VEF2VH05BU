@@ -11,5 +11,7 @@ Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notuð 
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
 #### Bjargir
- 
+
+* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
+  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 * [Inkscape Custom Palette](https://manjitkarve.com/posts/inkscape-custom-palette/)

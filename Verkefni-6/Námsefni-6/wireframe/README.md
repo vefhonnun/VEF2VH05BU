@@ -1,5 +1,14 @@
-## Tengirit - _"Wireframe"_ 
+## Tengirammi (_Wireframe_)
 
-* Skissa sem sýna skipulag vefsins og virkni á milli síðna. Útfærslan er í ykkar höndum, t.d. getur hún verið teikning á blaði sem er ljósmynduð og skilað í vinnugögn möppuna.
+Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
 
-![Tengirit](Wireframe.svg)
+![Tengirammi](Wireframe.svg)
+
+* [Mermaid diagram chart](https://mermaid.js.org/)
+* [Draw.io](https://draw.io)
+
+### Flæðirit (_Flowchart_)
+
+Flæðirit sýnir hvernig samskipti notanda og netþjóns eiga að fara fram.
+
+![Fowchart](flowChart.drawio.svg)
