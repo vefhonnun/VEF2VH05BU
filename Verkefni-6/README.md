@@ -47,11 +47,12 @@
 
 ### Námsmat 10%
 
-* Hugmyndavinna 2%
-* Efnisöflun og Textavinna 2%
-* Efnisyfirlit - _Site Map_ 2%
-* Tengirit - _Wireframe_     2%
-* Stílbragð - _Style tyle_  2%
+* Hugmyndavinna 4%
+  * Efnisöflun og Textavinna 
+* Efnisyfirlit og tengirit 3%
+  *  _Site-map & Wireframe_
+* Stílbragð - _Style tyle_  3%
+  * Litaþema og leturval 
 
 ### Verkefnaskil
 
