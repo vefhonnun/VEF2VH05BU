@@ -8,15 +8,12 @@
 ### Undirbúningur og skipulagning
 
 1. Efni og umfjöllun er _frjáls*_. 
-1. Viðburður á einhverjum tilteknum tíma 
-   - Flytjendur, vara eða þjónusta er kynnt á ákveðnum degi 
-
-- Það á að vera möguleiki á að skrá sig á viðburð
-- Kynningarvefur um viðburð eða vöru
-  - Það á að vera möguleiki á að kaupa miða eða panta vöruna
-- Dagskrá eða þjónusta sem er í boði
-- Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
-  - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
+1. Viðburður á einhverjum tilteknum tíma
+   - Kynningarvefur um viðburð eða vöru 
+1.Það á að vera möguleiki á að kaupa miða eða panta vöruna
+1. Dagskrá eða þjónusta sem er í boði
+1. Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
+   - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
 
 > Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
 
