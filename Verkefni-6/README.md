@@ -12,28 +12,25 @@
 1. Flytjendur, vara eða þjónusta er kynnt á ákveðnum degi 
 
 - Það á að vera möguleiki á að skrá sig á viðburð
-- Kynningarvefur um vöru sem er á markaði
-  - Það á að vera möguleiki á að panta vöruna
-- Þjónusta sem fyrirtæki býður upp á
-  - Það á að vera möguleiki á að panta þjónustuna
-- Á vefnum er einhver söluhvati sem viðskiptavinir geta tekið þátt í
-  - Það þarf að vera form til að skrá sig til þátttöku í leik
+- Kynningarvefur um viðburð eða vöru
+  - Það á að vera möguleiki á að kaupa miða eða panta vöruna
+- Dagskrá eða þjónusta sem er í boði
+- Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
+  - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
 
 > Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
 
 ### Efnisöflun
 
-#### Innihaldslýsing
-
 Skrifaðu niður hvað á að koma fram á vefnum 
 
 * Upplýsingar um viðburði, vöru og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
-* Vörulisti, þjónusta í boði eða dagskrá (tafla)
+* Dagskrá, þjónusta eða vörulisti í boði (tafla)
 * Pöntunarform eða skráningarfom
-  * Hvernig samskipti eiga að vera á milli notanda og vefs.
-  * _aðeins útlit forms - engin virkni_
-* Samskiptaform - spjallrás
+  * Stutt lýsing á hvernig samskipti eiga að vera á milli notanda og vefs.
+  * _í lokaverkefninu á aðeins að hanna útlit forms - engin forritun_
+  * Samskiptaform - spjallrás
   * pop up rammi _aðeins útlit forms - engin virkni_
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
