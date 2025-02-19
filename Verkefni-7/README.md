@@ -12,7 +12,6 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
   * Upplýsingar um viðburð
   * Tímasetning
   * Dagskrá
-  * Upplýsingar um afurð fyrirtækisins
   * Skráning á viðburðinn (_aðeins útlit forms - engin virkni_)
   * Upplýsingar um fyrirtækið sem heldur viðburðinn
   * Kvikun (_Animation_) til að fanga athygli notanda
