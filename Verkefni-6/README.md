@@ -2,13 +2,14 @@
 
 ### Markmið:
 
-* Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs. Efni og umfjöllun er _frjáls_. 
+* Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs. 
 * Nemendur finna eigið efni og myndir til að nota í lokaverkefninu
 
 ### Undirbúningur og skipulagning
 
+1. Efni og umfjöllun er _frjáls_. 
 1. Viðburður á einhverjum tilteknum tíma 
-2. Varan og/eða þjónusta er kynnt á ákveðnum degi 
+1. Flytjendur, vara eða þjónusta er kynnt á ákveðnum degi 
 
 - Það á að vera möguleiki á að skrá sig á viðburð
 - Kynningarvefur um vöru sem er á markaði
