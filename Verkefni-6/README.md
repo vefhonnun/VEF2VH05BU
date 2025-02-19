@@ -9,7 +9,7 @@
 
 1. Efni og umfjöllun er _frjáls*_. 
 1. Viðburður á einhverjum tilteknum tíma 
-1. Flytjendur, vara eða þjónusta er kynnt á ákveðnum degi 
+  - Flytjendur, vara eða þjónusta er kynnt á ákveðnum degi 
 
 - Það á að vera möguleiki á að skrá sig á viðburð
 - Kynningarvefur um viðburð eða vöru
