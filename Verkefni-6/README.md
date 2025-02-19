@@ -7,7 +7,9 @@
 
 ### Undirbúningur og skipulagning
 
-### Þema (val)
+#### Þema (val)
+
+> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
 
 1. Viðburður á einhverjum tilteknum tíma 
 2. Varan og/eða þjónusta er kynnt á ákveðnum degi 
@@ -20,9 +22,7 @@
 - Á vefnum er einhver söluhvati sem viðskiptavinir geta tekið þátt í
   - Það þarf að vera form til að skrá sig til þátttöku í leik
 
-### Hugmyndavinna
 
-* Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
 
 ### Efnisöflun
 
