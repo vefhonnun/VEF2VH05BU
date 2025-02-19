@@ -9,8 +9,8 @@
 
 1. Efni og umfjöllun er _frjáls*_. 
 1. Viðburður á einhverjum tilteknum tíma
-   - Kynningarvefur um viðburð eða vöru 
-1.Það á að vera möguleiki á að kaupa miða eða panta vöruna
+   - Kynningarvefur um viðburð, þjónustu eða vöru
+1. Það á að vera möguleiki á að kaupa miða eða panta vöru
 1. Dagskrá eða þjónusta sem er í boði
 1. Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
    - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
