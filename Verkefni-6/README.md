@@ -26,7 +26,7 @@
 
 ### Efnisöflun
 
-### Innihald vefsins
+#### Innihald vefsins
 
 * Upplýsingar um viðburði, vöru og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
@@ -37,7 +37,7 @@
   * pop up rammi _aðeins útlit forms - engin virkni_
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
-### Undirbúningsvinna
+#### Undirbúningsvinna
 
 1. Skipurit - _"SiteMap"_
 1. Tengirit - _"WireFrame"_
