@@ -7,10 +7,6 @@
 
 ### Undirbúningur og skipulagning
 
-#### Þema (val)
-
-> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
-
 1. Viðburður á einhverjum tilteknum tíma 
 2. Varan og/eða þjónusta er kynnt á ákveðnum degi 
 
@@ -22,22 +18,25 @@
 - Á vefnum er einhver söluhvati sem viðskiptavinir geta tekið þátt í
   - Það þarf að vera form til að skrá sig til þátttöku í leik
 
-
+> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
 
 ### Efnisöflun
 
-#### Innihald vefsins
+#### Innihaldslýsing
+
+Skrifaðu niður hvað á að koma fram á vefnum 
 
 * Upplýsingar um viðburði, vöru og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
 * Vörulisti, þjónusta í boði eða dagskrá (tafla)
 * Pöntunarform eða skráningarfom
+  * Hvernig samskipti eiga að vera á milli notanda og vefs.
   * _aðeins útlit forms - engin virkni_
 * Samskiptaform - spjallrás
   * pop up rammi _aðeins útlit forms - engin virkni_
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
-#### Undirbúningsvinna
+#### Undirbúningsgögn
 
 1. Skipurit - _"SiteMap"_
 1. Tengirit - _"WireFrame"_
