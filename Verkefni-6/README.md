@@ -29,9 +29,8 @@ Skrifaðu niður hvað á að koma fram á vefnum
 * Dagskrá, þjónusta eða vörulisti í boði (tafla)
 * Pöntunarform eða skráningarfom
   * Stutt lýsing á hvernig samskipti eiga að vera á milli notanda og vefs.
+* Samskiptaform - spjallrás
   * _í lokaverkefninu á aðeins að hanna útlit forms - engin forritun_
-  * Samskiptaform - spjallrás
-  * pop up rammi _aðeins útlit forms - engin virkni_
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
 #### Undirbúningsgögn
