@@ -19,7 +19,7 @@
 
 ### Efnisöflun
 
-Skrifaðu niður hvað á að koma fram á vefnum 
+> Skrifaðu niður hvað á að koma fram á vefnum 
 
 * Upplýsingar um viðburði, vöru og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
