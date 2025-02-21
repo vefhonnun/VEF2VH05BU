@@ -27,7 +27,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
 -	**7%** Útlitshönnun  
-    * Litasamsetning
+    * Tvískipt litasamsetning (_Light & dark_) 
     * Leturval
 - **5%** Kvikun  
     * Kvikun (_Animation_) 
