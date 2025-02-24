@@ -40,8 +40,9 @@
 
 ### Námsmat 10%
 
-* Hugmyndavinna 4%
-  * Efnisöflun og Textavinna 
+* Hugmyndavinna og efnisöflun 4%
+  * Lýsing á verkefnavali
+  * Texti og myndir sem koma til greina að nota
 * Efnisyfirlit og tengirit 3%
   *  _Site-map & Wireframe_
 * Stílbragð - _Style tyle_  3%
