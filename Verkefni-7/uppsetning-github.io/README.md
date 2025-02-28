@@ -28,11 +28,11 @@ Ef við viljum búa til undirlén (_subdomain_) sem er með öðru skipulagi og 
 1. Hér getur þú valið geymsluna sem rót á undirléni
 1. Eftir smá stund (2-3 mínútur) getur þú endurhlaðið (_refresh_)  Settings síðuna
     * ![mynd 4.](images/mynd5.jpg)
-1. smelltu á tengilinn og skoðaðu vefinn inn
+1. smelltu á tengilinn og skoðaðu vefinn þinn
     * ![mynd 5.](images/mynd6.jpg)
 
 
-#### [Dæmi um undirlén](https://vefhonnun.github.io/sea-sport-travel/)
+#### [Dæmi um undirlén, vefhonnun.github.io/lokaverkefni/ ](https://vefhonnun.github.io/lokaverkefni/)
 
 ---
 
