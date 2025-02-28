@@ -17,7 +17,3 @@
 #### Vefur á Github.io
 * [Uppsetning vefs á github.io](../uppsetning-github.io/README.md)
 
----
-
-#### Git Bash innsetning 
-* [Git Bash innsetning á PC](https://vefhonnun.github.io/verkefnaskil/git_innsetning.html)
