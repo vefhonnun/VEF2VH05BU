@@ -14,8 +14,5 @@
 * Sækið viðbót (Extension) í Visual Studio Code sem heitir "CSS Compressor" 
 * Til að þjappa (_Compact_) kóðann saman, notið skipunina: `[shift]+[alt]+[f]`
 
-#### Git Bash innsetning 
-* [Git Bash innsetning á PC](https://vefhonnun.github.io/verkefnaskil/git_innsetning.html)
-
 #### Vefur á Github.io
 * [Uppsetning vefs á github.io](../uppsetning-github.io/README.md)
