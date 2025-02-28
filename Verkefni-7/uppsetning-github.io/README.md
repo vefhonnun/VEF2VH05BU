@@ -33,3 +33,8 @@ Ef við viljum búa til undirlén (_subdomain_) sem er með öðru skipulagi og 
 
 
 #### [Dæmi um undirlén](https://vefhonnun.github.io/sea-sport-travel/)
+
+---
+
+#### Git Bash innsetning 
+* [Git Bash innsetning á PC](https://vefhonnun.github.io/verkefnaskil/git_innsetning.html)
