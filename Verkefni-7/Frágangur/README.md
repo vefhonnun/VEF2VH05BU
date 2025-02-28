@@ -4,7 +4,7 @@
 
 1. Opna línuskipanaforritið _Command Promt_ í **PC** eða _Terminal_ í **Mac/Linux** 
 2. `cd ../css`  (_vísa CLI í css möppuna_)
-3. `dir *.css`  (_skoða allar css skrár_)
+3. PC `dir *.css` Mac `ls *.css` (_skoða allar css skrár_)
 4. `copy *.css styles.css`  (_afrita allar .css skrár í eina: styles.css_)
 5. [How To Merge Or Combine Multiple Files Into A Single File](https://www.youtube.com/watch?v=2VrfUyyqdEc)
 6. [BBedit Combine Files in Mac](https://www.cryan.com/blog/20210528.jsp)
