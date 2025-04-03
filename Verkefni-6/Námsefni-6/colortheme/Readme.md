@@ -12,12 +12,10 @@
 1. **Cosmic Artistry** <br> ![litaþema 10](10.jpg)
 1. **Vibrant but Calm** <br> ![litaþema 11](11.jpg)
 1. **Lively and Inviting** <br> ![litaþema 12](111.jpg)
-1. **Striking and Simple** <br> ![litaþema 13](13.jpg)
-1. **Red and Lively** <br> ![litaþema 14](14.jpg)
-1. **Artsy and Creative** <br> ![litaþema 15](15.jpg)
-1. **Elegant Yet Approachable** <br> ![litaþema 16](16.jpg)
-1. **Sleek and Futuristic** <br> ![litaþema 17](17.jpg)
+1. **Striking and Simple** <br> ![litaþema 12](12.jpg)
+1. **Red and Lively** <br> ![litaþema 13](13.jpg)
+1. **Artsy and Creative** <br> ![litaþema 14](14.jpg)
+1. **Elegant Yet Approachable** <br> ![litaþema 15](15.jpg)
+1. **Sleek and Futuristic** <br> ![litaþema 16](16.jpg)
 
-Heimild: https://visme.co/blog/website-color-schemes/
-
-undirbúningsvinna fyrir lokaverkefnið
+Heimild: https://visme.co/blog/website-color-schemes/ 
