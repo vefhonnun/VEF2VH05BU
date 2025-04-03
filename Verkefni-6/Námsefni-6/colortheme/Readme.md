@@ -2,15 +2,20 @@
 
 1. Hér eru litaþemu sem hægt er að hafa til hliðsjónar þegar efni vefs hefur verið valið. Rétt litaval getur aukið sjónræn áhrif vefsíðu.
 1. **Metallic Chic** <br> ![litaþema 2](2.jpg)
-1. ![litaþema 3](3.jpg)
-1. ![litaþema 4](4.jpg)
-1. ![litaþema 5](5.jpg)
-1. ![litaþema 6](6.gif)
-1. ![litaþema 7](7.jpg)
-1. ![litaþema 8](8.gif)
-1. ![litaþema 9](9.jpg)
-1. ![litaþema 10](10.jpg)
-1. ![litaþema 11](11.jpg)
+1. **Deep Vintage Mood** <br> ![litaþema 3](3.jpg)
+1. **Cool and Collected** <br> ![litaþema 4](4.jpg)
+1. **Earthy and Serene** <br> ![litaþema 5](5.jpg)
+1. **Texture and Contrastc** <br> ![litaþema 6](6.gif)
+1. **Mechanical and Floaty** <br> ![litaþema 7](7.jpg)
+1. **Pixel Intensity** <br> ![litaþema 8](8.gif)
+1. **Metallic Chic** <br> ![litaþema 9](9.jpg)
+1. **Metallic Chic** <br> ![litaþema 10](10.jpg)
+1. **Metallic Chic** <br> ![litaþema 11](11.jpg)
+1. **Metallic Chic** <br> ![litaþema 12](12.jpg)
+1. **Metallic Chic** <br> ![litaþema 13](13.jpg)
+1. **Metallic Chic** <br> ![litaþema 14](14.jpg)
+1. **Metallic Chic** <br> ![litaþema 15](15.jpg)
+1. **Metallic Chic** <br> ![litaþema 16](16.jpg)
 
 Heimild: https://visme.co/blog/website-color-schemes/
 
