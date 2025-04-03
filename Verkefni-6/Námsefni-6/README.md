@@ -4,6 +4,7 @@
 Teiknaðu einfaldar grunnmyndir af mismunandi skjám og flæði notenda í gegnum vefsíðuna. Þetta hjálpar til við að sjá heildarmyndina áður en farið er í smáatriðin.
 
 1. [Hugmyndavinna](hugmyndavinna/README.md)
+1. [Litaþema fyrir vef](colortheme/Readme.md)
 1. [Skipurit (_Site map_)](sitemap/README.md)
 1. [Tengirammi (_Wireframe_)](wireframe/README.md)
 1. [Stílbragð, Style-tyle](style-tyle/README.md)
