@@ -1,6 +1,6 @@
 # Stílbragð (_Style tyle_)
 
-Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notuð í vefnum okkar. 
+Við byrjum á að ákveða hvaða [litaþema](../colortheme/Readme.md) á að nota, tákn og leturgerðir eru notuð í vefnum okkar. 
 
 (Það má nota Photoshop eða Photopea til að sýna stílbragðið.)
 
