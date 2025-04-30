@@ -2,12 +2,34 @@
 
 #### Hvernig á að sameina margar CSS skrár í eina skrá
 
-1. Opna línuskipanaforritið _Command Promt_ í **PC** eða _Terminal_ í **Mac/Linux** 
-2. `cd ../css`  (_vísa CLI í css möppuna_)
-3. PC `dir *.css` Mac `ls *.css` (_skoða allar css skrár_)
-4. `copy *.css styles.css`  (_afrita allar .css skrár í eina: styles.css_)
-5. [How To Merge Or Combine Multiple Files Into A Single File](https://www.youtube.com/watch?v=2VrfUyyqdEc)
-6. [BBedit Combine Files in Mac](https://www.cryan.com/blog/20210528.jsp)
+[How to merge multiple files in Python](https://stackoverflow.com/questions/68516922/how-to-merge-multiple-files-in-python)
+
+```python
+
+
+files_names = [
+   "new",
+   "grid",
+   "table",
+   "form",
+   "menues",
+   "popup",
+   "icomoon",
+   "chatbox",
+   "kvikun",
+   "accordion",
+   "custom" ]
+data = ""
+
+for file_name in files_names :
+   with open(file_name+".css" ,"r") as file_handle :
+      temp_data = file_handle.read()
+      data = data + temp_data 
+
+with open ('styles.min.css', 'w') as file_handle : 
+  file_handle.write(data)
+
+```
 
 ##### Þjöppun CSS kóða _CSS Compressor_
 
