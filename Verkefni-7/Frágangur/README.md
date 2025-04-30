@@ -2,6 +2,10 @@
 
 #### Hvernig á að sameina margar CSS skrár í eina skrá
 
+Búðu til python skrá (t.d merge.py) í VSC og vistaðu hana í CSS möppunni. Opnaðu _Terminal_ og vísaðu cli á css skjalamöppuna
+
+
+
 [How to merge multiple files in Python](https://stackoverflow.com/questions/68516922/how-to-merge-multiple-files-in-python)
 
 ```python
