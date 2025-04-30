@@ -6,8 +6,6 @@ Búðu til python skrá (t.d merge.py) í VSC og vistaðu hana í CSS möppunni.
 
 
 
-[How to merge multiple files in Python](https://stackoverflow.com/questions/68516922/how-to-merge-multiple-files-in-python)
-
 ```python
 
 
@@ -34,6 +32,8 @@ with open ('styles.min.css', 'w') as file_handle :
   file_handle.write(data)
 
 ```
+
+[How to merge multiple files in Python](https://stackoverflow.com/questions/68516922/how-to-merge-multiple-files-in-python)
 
 ##### Þjöppun CSS kóða _CSS Compressor_
 
