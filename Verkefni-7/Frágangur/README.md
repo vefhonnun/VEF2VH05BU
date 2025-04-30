@@ -4,7 +4,7 @@
 
 Búðu til python skrá (t.d merge.py) í VSC og vistaðu hana í CSS möppunni. Opnaðu _Terminal_ og vísaðu cli á css skjalamöppuna
 
-
+![skýringarmynd](v7-merge-css.jpg)
 
 ```python
 
