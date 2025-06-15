@@ -35,7 +35,7 @@
 | 38 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
 | 39 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
 | 40 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
-| 41 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 16/05 KL. 23:59** | 
+| 41 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 13/10. Kl. 23:59** | 
 
 ### Verklýsing
 
