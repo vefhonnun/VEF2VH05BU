@@ -10,34 +10,32 @@
 
 ## Námsáætlun
 
-#### 2025 vor 2 spönn.
+#### 2025 haust, spönn 1.
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 10 - 11 | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | - |
-| 12 | Töflur og form  | 2 |  10 | - |  
-| 13 | Flókin stílbrögð (_Complex selectors_) | 3 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 14 | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
-| 15 | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 16 | _Páskafrí_ | - | - | -  |
-| 17 | _Páskafrí_ | - | - | -  |
-| 18 | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
-| 19 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
-| 20 | Vefur fyrir viðburð, frágangur |  |  |  |
-| 21 | _Námsmat_ | samtals:  | 35 | 65 |
+| 34 | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | - |
+| 35 | Töflur og form  | 2 |  10 | - |  
+| 36 | Flókin stílbrögð (_Complex selectors_) | 3 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
+| 37 | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
+| 38 | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
+| 39 | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
+| 40 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
+| 41 | Vefur fyrir viðburð, frágangur |  |  |  |
+| 42 | _Námsmat_ | samtals:  | 35 | 65 |
 
 ### Vikuáætlun
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 10 - 11 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
-| 12 | Töflur RWD | Form | Form validation | Complex selectors |
-| 13 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
-| 14 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
-| 15 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
-| 18 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
-| 19 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
-| 20 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 16/05 KL. 23:59** | 
+| 34 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
+| 35 | Töflur RWD | Form | Form validation | Complex selectors |
+| 36 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
+| 37 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
+| 38 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
+| 39 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
+| 40 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
+| 41 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 16/05 KL. 23:59** | 
 
 ### Verklýsing
 
