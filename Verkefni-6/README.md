@@ -74,13 +74,6 @@
 #### Tól fyrir skipulagningu <br> _(Wireframe)_ og frumhönnun _(Prototype)_
 
 * [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ)
-* Inkscape
-  * [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
-    * [Inkscape custom palette](https://manjitkarve.com/posts/inkscape-custom-palette/)
-  * [Inkscape Custom Palette (YouTube video)](https://www.youtube.com/watch?v=Y1E8YWOB_Yc)
-  * [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
-  * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
-  * [Inkscape leiðbeiningar](https://thepixelproducer.com/category/inkscape/)
 * [Frumhönnun vefs](https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/)
 * [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)
 
