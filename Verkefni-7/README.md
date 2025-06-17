@@ -48,4 +48,11 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 _Gangi þér vel_ 😊
 
+---
+
+#### CSS þjöppun (_Compressed CSS_)
+
+* [How To Merge Or Combine Multiple Files Into A Single File](https://www.youtube.com/watch?v=2VrfUyyqdEc)
+* Visual Studio Code -> Extensions -> **CSS Compressor**
+
 
