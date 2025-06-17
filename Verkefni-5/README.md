@@ -1,5 +1,10 @@
 # Kvikun 
 
+* Notið eftirfarandi CSS eigindi eftir þörfum
+  * _„transition“_  
+  * _„transform“_ 
+  * _„animation“_
+
 ## Áríðandi tilkynning
 
 Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
@@ -11,13 +16,6 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 ## kviktákn (_animated symbol_) Í vinnslu ....
 
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
-
----
-
-* Notið eftirfarandi CSS eigindi eftir þörfum
-  * _„transition“_  
-  * _„transform“_ 
-  * _„animation“_
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
