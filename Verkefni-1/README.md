@@ -9,7 +9,7 @@ Meðfylgjandi verkefni er HTML og CSS grunnsíða sem þú getur notað til að 
 
 * [New CSS - Boilerplate](Námsefni-1/new-css-boilerplate/)
   * [Vefsíða New.css](https://github.com/xz/new.css)
-* [Verkefni 1 vinnugögn (.zip)](Námsefni-1/verkefni-1-nemendur.zip)
+* [Verkefni 1 vinnugögn (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)
 
 ### Tvískipt litaþema
 
@@ -59,9 +59,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 
 #### Einkunn verður birt í Innu
 
-#### Bjargir 
-
-- [Námsefni 1. Grunnsíða til að vinna með (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)
+---
 
 ####  _CSS mini framework_
 
