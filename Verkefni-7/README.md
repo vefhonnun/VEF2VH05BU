@@ -50,9 +50,9 @@ _Gangi þér vel_ 😊
 
 ---
 
-#### CSS þjöppun (_Compressed CSS_)
+#### Frágagnur og uppsetning á Github.io
 
-* [How To Merge Or Combine Multiple Files Into A Single File](https://www.youtube.com/watch?v=2VrfUyyqdEc)
-* Visual Studio Code -> Extensions -> **CSS Compressor**
+* [Frágangur](Frágangur)
+* [Uppsetning vefs á Github.io](uppsetning-github.io)
 
 
