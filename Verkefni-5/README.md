@@ -24,7 +24,7 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 ![skýringarmynd](Námsefni-5/4g-trottling.jpg)
 
-- [Dæmi  spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-5/img-loader.html)
+- [Dæmi um spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-5/img-loader.html)
 - [Dæmi um hvernig hægt er að búa til spinner í SVG skjali](https://www.fffuel.co/svg-spinner/)
 
 
