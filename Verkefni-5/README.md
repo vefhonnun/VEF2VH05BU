@@ -74,8 +74,6 @@ _Gangi þér vel_
 * [CSS Tricks - SVG kvikun](https://css-tricks.com/animating-svg-css/)
 * [SVG Icons](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658)
 
-#### HTMX
-
 
 
 
