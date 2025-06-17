@@ -65,8 +65,6 @@ Formið á að vera í tvískiptu litaþema
 * input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
-- **[Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#t%C3%B6flur)**
-
 ### Námsmat: 10%
 
 * Tafla	5%
@@ -80,4 +78,25 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í **.zip** sk
 #### Einkunn verður birt í Innu
 
 _Gangi þér vel_
+
+---
+
+#### Töflur 	
+
+* [Skipulagning gagna](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
+* [Scope eigindið](https://www.w3schools.com/tags/att_scope.asp)
+* [RWD tafla, Smitty](http://allthingssmitty.com/2016/10/03/responsive-table-layout/)
+* [RWD tafla, CSS-tricks](https://css-tricks.com/responsive-data-tables/)
+
+#### Form
+
+*   [Building Forms](http://learn.shayhowe.com/html-css/building-forms/)
+*   [Form moz:lla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+
+#### Form validation
+
+* [HTML &lt;input> pattern Attribute](https://www.w3schools.com/tags/att_input_pattern.asp)
+* [W3Schools Form attributes](http://www.w3schools.com/html/html_form_attributes.asp)
+* [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
+* [input date, time fix](https://stackoverflow.com/questions/14946091/are-there-any-style-options-for-the-html5-date-picker?newreg=23b233a466f14c6e851d6e948e96d7ee)
 
