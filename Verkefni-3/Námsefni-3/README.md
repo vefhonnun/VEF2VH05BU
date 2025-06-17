@@ -34,14 +34,4 @@
 | a[rel~="tag"] | Attribute Spaced Selector | Selects an element if the given attribute value is whitespace-separated with one word being exactly as stated |
 | a[lang="en"] | Attribute Hyphenated Selector | Selects an element if the given attribute value is hyphen-separated and begins with the word stated |
 
-
-
-#### Bjargir
-
-* [Harmonikkulisti](https://code-boxx.com/simple-responsive-accordion-pure-css/)
-* [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
-
-
-#### Lesefni
-
 * [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
