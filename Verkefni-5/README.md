@@ -59,7 +59,7 @@ _Gangi þér vel_
   * [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
   * [Hleðslutákn (_loader symbol_)](https://www.codingnepalweb.com/animated-loader-in-html-css/)
   * [Mælistika (_progress bar_)](https://www.codingnepalweb.com/button-progress-bar-html-css-javascript/)
-* Code Pen
+* Code Pen dæmi um kvikun
   * [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
   * [Code pen](https://codepen.io/maheshambure21/pen/qZZrxy)
   * [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
