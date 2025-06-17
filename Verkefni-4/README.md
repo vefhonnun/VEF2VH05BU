@@ -47,6 +47,13 @@ _Gangi þér vel_
 * [InkScape teikniforritið](https://inkscape.org/)
   * [InkScape leiðbeiningar](https://liljaeysteinn.weebly.com/inkscape/ymsar-goar-leibeiningar-fyrir-inkscape/)
   * [InkScape Trace Bitmap Image](https://www.youtube.com/watch?v=aVPV6AtjGBg)
+  * * Inkscape
+
+    * [Inkscape custom palette](https://manjitkarve.com/posts/inkscape-custom-palette/)
+  * [Inkscape Custom Palette (YouTube video)](https://www.youtube.com/watch?v=Y1E8YWOB_Yc)
+  * [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
+  * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
+  * [Inkscape leiðbeiningar](https://thepixelproducer.com/category/inkscape/)
  
 
 #### Leturtákn - Iconfont
