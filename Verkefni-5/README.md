@@ -15,19 +15,17 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 ## Kviktákn (_animated symbol_) 
 
-> Í vinnslu ....
-
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með SVG tákni sem hreyfist. 
 
-Búðu til þitt eigið SVG spunatákn (_Spinner_), það er hægt að nota CSS eða 
+Búðu til þitt eigið SVG spunatákn (_Spinner_), þú getur notað CSS kvikun til að koma hreyfingu á SVG tákn eða sett kvikun inn í SVG skjalið.
 
 Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
 Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að sjá kvikáknið verðum við að stilla vafrann á **"Slow 4G"** tengingu til að líkja eftir lélegu netsambandi. Farðu í ` Inspector > Network >` og veldu  [Slow 4G] úr [ _No trottling_ ] fellilistanum.
 
 ![skýringarmynd](Námsefni-5/4g-trottling.jpg)
 
-- [Sjá einfalt dæmi um spunatákn (_spinner_)](Námsefni-5/img-loader.html)
-- [Dæmi um hvernig á að búa til spinner](https://www.fffuel.co/svg-spinner/)
+- [Dæmi  spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-5/img-loader.html)
+- [Dæmi um hvernig á að búa til spinner í SVG skjali](https://www.fffuel.co/svg-spinner/)
 
 
 #### Námsmat 20% _Lykilmatsþáttur_
