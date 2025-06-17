@@ -15,7 +15,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 ## Kviktákn (_animated symbol_) Í vinnslu ....
 
-Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. Til að sjá Táknið verðum við að stilla vafrann á 3G tengingu í ` Inspector > Network > [3G] `
+Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. Til að sjá kvikáknið verðum við að stilla vafrann á 3G tengingu í ` Inspector > Network > [3G] `
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
