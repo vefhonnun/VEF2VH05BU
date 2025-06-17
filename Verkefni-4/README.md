@@ -35,6 +35,10 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 - SVG tákn  
 - Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá.
 
+#### Einkunn verður birt í Innu
+
+_Gangi þér vel_
+
 ---
 
 #### Skalanleg vigurteikning - Scalable Vector Graphics
@@ -51,11 +55,4 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 * [How to use Icomoon fonts](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
 * [SVG tákn safn](https://www.svgrepo.com/)
 * [6 táknletur tól](https://www.webfx.com/blog/web-design/icon-font-generators/)
-
-
-
-
-#### Einkunn verður birt í Innu
-
-_Gangi þér vel_
 
