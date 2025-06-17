@@ -48,6 +48,7 @@ _Gangi þér vel_
 
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
+* [Hulduklasar (_Pseudo classes_)]()
 
 #### Flóknir stílar - Complex Selectors
 
