@@ -13,7 +13,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
-## Kviktákn (_animated symbol_) 
+## Spunatákn (_spinner_) 
 
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með SVG tákni sem hreyfist. 
 
