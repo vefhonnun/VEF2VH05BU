@@ -48,10 +48,10 @@ _Gangi þér vel_
 
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
-* [Hulduklasar (_Pseudo classes_)]()
+* [Hulduklasar (_Pseudo classes_)](Námsefni-3/pseudo-classes.md)
 
-#### Flóknir stílar - Complex Selectors
+#### Flóknir stílar - _Complex Selectors_
 
 * [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
 * [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
+* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
