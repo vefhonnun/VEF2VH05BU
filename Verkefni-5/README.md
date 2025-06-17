@@ -8,13 +8,11 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
-## kviktákn (_animated symbol_)
+## kviktákn (_animated symbol_) Í vinnslu ....
 
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
 
-#### HTMX lausn til að sjá hleðslutáknið (í vinnslu)
-
-Í vinnslu ....
+---
 
 * Notið eftirfarandi CSS eigindi eftir þörfum
   * _„transition“_  
