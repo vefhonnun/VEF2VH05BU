@@ -32,7 +32,7 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 - 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
 - 6% Myndasýning (_slideshow_) 
-- 8% kviktákn sem birtist þegar stór mynd er hlaðið inn (_vafri er stilltur á hæga tengingu (3G)_)
+- 8% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
 
 #### Vekefnaskil
 
