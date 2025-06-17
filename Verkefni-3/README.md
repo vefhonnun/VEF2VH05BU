@@ -52,6 +52,6 @@ _Gangi þér vel_
 
 #### Flóknir stílar - _Complex Selectors_
 
-* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+* [Shayhowe, Flóknar stílsetningar (_Complex Selectors_)](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 * [Sprettigluggi (_Pop up Modal_)](https://codepen.io/imprakash/pen/GgNMXO)
 * [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
