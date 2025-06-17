@@ -76,6 +76,7 @@
 * [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ)
 * [Frumhönnun vefs](https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/)
 * [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)
+* [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
 
 #### Notendaupplifun
 
