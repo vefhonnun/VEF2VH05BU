@@ -57,10 +57,20 @@ Fatölvur. Græni bakgrunnurinn teygist yfir skjáinn (_sérsnið - custom css_)
 
 Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
 
-
 #### Einkunn verður birt í Innu
 
 #### Bjargir 
 
 - [Námsefni 1. Grunnsíða til að vinna með (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)
-- [Demo frá New CSS (_Boilerplate_)](new-css-boilerplate)
+
+####  _CSS mini framework_
+
+* [New.css](https://github.com/xz/new.css)
+* [Portal - Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
+
+#### CSS breytur (_CSS Variables_)
+
+* [CSS breytur W3Schools](https://www.w3schools.com/css/css3_variables.asp)
+* [Moz:lla, CSS eigindi - CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+* [Breytilegt litaþema](https://dev.to/fabiogiolito/create-a-color-theme-with-these-upcoming-css-features-4o83)
+* [Create better themes with css variables](https://blog.logrocket.com/create-better-themes-with-css-variables/)
