@@ -50,8 +50,6 @@ _Gangi þér vel_
 * [Cubic Bezier](https://cubic-bezier.com/)
 * [Using Cubic Besier](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
 * [CSS Scrolling text](https://blog.hubspot.com/website/scrolling-text-css)
-* [Skjáskvetta - Splash!](https://speckyboy.com/splash-screen-design/)
-* [Animating number counters](http://css-tricks.com/animating-number-counters/#aa-the-new-school-css-solution)
 * Kviktákn (_animated symbol_)
   * [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
   * [Hleðslutákn (_loader symbol_)](https://www.codingnepalweb.com/animated-loader-in-html-css/)
