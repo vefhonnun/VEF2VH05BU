@@ -26,7 +26,7 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
 
-### Tímaverkefni, lykilmatsþáttur 20%
+### Námsmat, lykilmatsþáttur 20%
 
 -	8% Spjallbox (staðsett fyrir utan skjáinn)
     -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
@@ -39,8 +39,6 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 -	1% Tafla og Form (Verkefni 2) 
 -	1% Vefsíða með tvískiptu litasniði (Verkefni 1)
 
-
-  
 #### Verkefnaskil
 
 -  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá. 
@@ -48,3 +46,12 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 #### Einkunn verður birt í Innu
 
 _Gangi þér vel_
+
+---
+
+#### Flóknir stílar - Complex Selectors
+
+* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+* [Harmonikkulisti](https://code-boxx.com/simple-responsive-accordion-pure-css/)
+* [Can I Use **Details & Summary** elements?](https://caniuse.com/?search=details)
+* [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
