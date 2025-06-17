@@ -20,7 +20,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 Búðu til þitt eigið SVG spunatákn (_Spinner_), þú getur notað CSS kvikun til að koma hreyfingu á SVG tákn eða sett kvikun inn í SVG skjalið.
 
 Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
-Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að sjá kvikáknið verðum við að stilla vafrann á **"Slow 4G"** tengingu til að líkja eftir lélegu netsambandi. Farðu í ` Inspector > Network >` og veldu  [Slow 4G] úr [ _No trottling_ ] fellilistanum.
+Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að sjá spunatáknið verðum við að stilla vafrann á **"Slow 4G"** tengingu til að líkja eftir lélegu netsambandi. Farðu í ` Inspector > Network >` og veldu  [Slow 4G] úr [ _No trottling_ ] fellilistanum.
 
 ![skýringarmynd](Námsefni-5/4g-trottling.jpg)
 
@@ -30,9 +30,10 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
-- 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
-- 6% Myndasýning (_slideshow_) 
-- 8% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- 4% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
+- 4% Myndasýning (_slideshow_) 
+- 4% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- 8% Tímaverkefni
 
 #### Vekefnaskil
 
