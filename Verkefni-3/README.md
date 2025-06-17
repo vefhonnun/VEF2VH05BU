@@ -52,6 +52,5 @@ _Gangi þér vel_
 #### Flóknir stílar - Complex Selectors
 
 * [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-* [Harmonikkulisti](https://code-boxx.com/simple-responsive-accordion-pure-css/)
-* [Can I Use **Details & Summary** elements?](https://caniuse.com/?search=details)
+* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
 * [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
