@@ -33,7 +33,27 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 #### Verkefnaskil
 
 - SVG tákn  
-- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá. 
+- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá.
+
+---
+
+#### Skalanleg vigurteikning - Scalable Vector Graphics
+
+* [W3schools, SVG in HTML](https://www.w3schools.com/graphics/svg_intro.asp)
+* [InkScape teikniforritið](https://inkscape.org/)
+  * [InkScape leiðbeiningar](https://liljaeysteinn.weebly.com/inkscape/ymsar-goar-leibeiningar-fyrir-inkscape/)
+  * [InkScape Trace Bitmap Image](https://www.youtube.com/watch?v=aVPV6AtjGBg)
+ 
+
+#### Leturtákn - Iconfont
+
+* [Icomoon táknletur](https://icomoon.io/)
+* [How to use Icomoon fonts](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
+* [SVG tákn safn](https://www.svgrepo.com/)
+* [6 táknletur tól](https://www.webfx.com/blog/web-design/icon-font-generators/)
+
+
+
 
 #### Einkunn verður birt í Innu
 
