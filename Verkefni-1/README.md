@@ -60,4 +60,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 
 #### Einkunn verður birt í Innu
 
-#### [Námsefni]()
+#### Bjargir 
+
+- [Námsefni 1. Grunnsíða til að vinna með (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)
+- [Demo frá New CSS (_Boilerplate_)](new-css-boilerplate)
