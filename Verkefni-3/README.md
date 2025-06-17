@@ -13,18 +13,13 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
  
 Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
-Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
+Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 ### Sprettigluggi (_Pop up menu_)
 
 Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-* [Sýnidæmi](https://github.com/vefhonnun/24H-verkefni/wiki#fl%C3%B3knir-st%C3%ADlar---complex-selectors)
-
-#### Námsefni
-
-* [Complex Selectors](Námsefni-3/README.md)
-* [Transition og transform](Námsefni-3/Transition-Transform.md)
+Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
 ### Námsmat, lykilmatsþáttur 20%
 
@@ -48,6 +43,11 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 _Gangi þér vel_
 
 ---
+
+#### Námsefni
+
+* [Complex Selectors](Námsefni-3/README.md)
+* [Transition og transform](Námsefni-3/Transition-Transform.md)
 
 #### Flóknir stílar - Complex Selectors
 
