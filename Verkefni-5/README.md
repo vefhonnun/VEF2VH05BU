@@ -13,15 +13,15 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
-## kviktákn (_animated symbol_) Í vinnslu ....
+## Kviktákn (_animated symbol_) Í vinnslu ....
 
-Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
+Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist. Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. Til að sjá Táknið verðum við að stilla vafrann á 3G tengingu í ` Inspector > Network > [3G] `
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
 - 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
 - 6% Myndasýning (_slideshow_) 
-- 8% kviktákn sem birtist þegar stór mynd er hlaðið inn (_vafri er stilltur á hæg tengingu (3G)_)
+- 8% kviktákn sem birtist þegar stór mynd er hlaðið inn (_vafri er stilltur á hæga tengingu (3G)_)
 
 #### Vekefnaskil
 
