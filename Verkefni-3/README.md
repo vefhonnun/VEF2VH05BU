@@ -31,7 +31,7 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
  -	4% Spjallbox (staðsett fyrir utan skjáinn)
     -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
     -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
--	2%  Harmonikkulisti (_details list_)
+-	2%  Sprettigluggi (_pop up modal_)
        
  #### Tímaverkefni  10% 
 
