@@ -23,16 +23,22 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
 ### Námsmat, lykilmatsþáttur 20%
 
--	8% Spjallbox (staðsett fyrir utan skjáinn)
-    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
-    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+#### Æfingaverkefni 10%
+
 -	4% Fellilisti í efnisyfirliti (_drop down menu_)
     -	[≡] Tákn sem birtir fellilista (Drop down menu)
     -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
--	4% Sprettigluggi (_popup menu_) er á vefsíðunni sem birtist þegar smellt er á tengil
--	2% Harmonikkulisti (_details list_) 
--	1% Tafla og Form (Verkefni 2) 
--	1% Vefsíða með tvískiptu litasniði (Verkefni 1)
+ -	4% Spjallbox (staðsett fyrir utan skjáinn)
+    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
+    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+-	2%  Harmonikkulisti (_details list_)
+       
+ #### Tímaverkefni  10% 
+
+ - Tímaverkefnið er unnið í lok 3. verkefnis (2 kennslustundir)
+ - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
+ - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 til 3. 
+
 
 #### Verkefnaskil
 
