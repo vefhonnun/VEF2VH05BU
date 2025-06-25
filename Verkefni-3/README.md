@@ -42,7 +42,8 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
 #### Verkefnaskil
 
--  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá. 
+-  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá.
+   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefninu og æfingaverkefninu. 
 
 #### Einkunn verður birt í Innu
 
