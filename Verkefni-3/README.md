@@ -35,7 +35,7 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
        
  #### Tímaverkefni  10% 
 
- - Tímaverkefnið er unnið í lok 3. verkefnis (2 kennslustundir)
+ - Tímaverkefnið er lagt fyrir og unnið í lok 3. verkefnis (2 kennslustundir)
  - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
  - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 til 3. 
 
