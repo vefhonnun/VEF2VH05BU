@@ -64,7 +64,7 @@
 6. Undirbúningur vefs 10% 
 7. Framleiðsla vefs 25% _Lykilmatsþáttur_
 
-> _Lágmarkseinkun lykilmatsþáttar er 4. Ef einkunn er undir 4 þá stendur hún sem lokaeinkun úr áfanganum_
+> _Lágmarkseinkun lykilmatsþáttar er 5. Ef einkunn er undir 4.5 þá stendur hún sem lokaeinkun úr áfanganum_
 
 <p>&nbsp;</p>
 
