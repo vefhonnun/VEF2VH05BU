@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | --- | 
 | 42 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
 | 43 | Töflur RWD | Form | Form validation | Complex selectors |
-| 44 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
+| 44 |  Drop down menu | -- | Pop up menu | **Tímaverkefni 1** |  
 | 45 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
 | 46 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
 | 47 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
