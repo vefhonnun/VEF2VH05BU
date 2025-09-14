@@ -28,14 +28,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 34 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
-| 35 | Töflur RWD | Form | Form validation | Complex selectors |
-| 36 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
-| 37 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
-| 38 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
-| 39 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
-| 40 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
-| 41 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 13/10. Kl. 23:59** | 
+| 42 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
+| 43 | Töflur RWD | Form | Form validation | Complex selectors |
+| 44 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
+| 45 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
+| 46 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
+| 47 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
+| 48 - 49 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
+| 50 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 13/10. Kl. 23:59** | 
 
 ### Verklýsing
 
