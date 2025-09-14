@@ -20,7 +20,7 @@
 | 45 | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
 | 46 | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
 | 47 | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
-| 48 -49 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
+| 48 - 49 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
 | 50 | Vefur fyrir viðburð, frágangur |  |  |  |
 | 51 | _Námsmat_ | samtals:  | 35 | 65 |
 
