@@ -1,5 +1,5 @@
 # CSS grunnsíða - _CSS boilerplate_
-
+ 
 ### Markmið:
 Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS-grunnsíðu (Boilerplate) til að hanna betri vefsíður.
 
@@ -61,8 +61,6 @@ Taflan á að vera í tvískiptu litaþema
 #### Viðmið 80rem + (1280px).
 
 ![Mynd 4.](synidaemi/tafla-laptop.jpg)
-
-
 
 Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
