@@ -1,93 +1,51 @@
-# HTML & CSS3 Kvikun
+# Skalanleg vigurteikning  - Scalable Vector Graphics
 
-```HTML
-<div class="kvikun"></div>
-```
-### CSS
+![Vigrar](myndir/pen_tool_usage.webp)
 
-```CSS
-.kvikun {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  position: relative;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
+- [What is Vector Art](https://www.linearity.io/blog/what-is-vector-art/)
+- [Inkscape - The Pen Tool](https://inkscape-manuals.readthedocs.io/en/latest/pen-tool.html)
+- Breyta tungumáli viðmóts í Inkscape (_File > Preferences_)
+  - ![stillingar](myndir/kjorstillingar-preferences.jpg)<br>
+  Forritið notar tungumálið sem tölvan þín er stillt á. Það er hægt að breyta því hér.
 
-@keyframes example {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-  50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
-}
-```
+#### GH Wiki
 
-| Value  |  Description |
-| ---- | ---- |
-| animation-name: | Specifies the name of the keyframe you want to bind to  the selector   |
-| animation-duration  | Specifies how many seconds or milliseconds an animation takes to complete  |
-| animation-timing-function	| Specifies the speed curve of the animation  |
-| animation-delay  | Specifies a delay before the animation will start  |
-| animation-iteration-count	| Specifies how many times an animation should be played  |
-| animation-direction  | Specifies whether or not the animation should play in reverse on alternate cycles  |
-| animation-fill-mode  | Specifies what values are applied by the animation outside the time it is executing  |
-| animation-play-state  | Specifies whether the animation is running or paused  |
+- [Vigurteikningar](https://github.com/vefhonnun/24H-verkefni/wiki#skalanleg-vigurteikning---scalable-vector-graphics)
 
-**Animation** is actually a shorthand for eight subproperties:
+#### Lesefni
 
-` animation: duration timing delay iteration direction fill play name; `
-
-```CSS
-  /* @keyframes duration | easing-function | delay |
-  iteration-count | direction | fill-mode | play-state | name */
-  animation: 3s ease-in 1s 2 reverse both paused slide-in;
-  
-  /* @keyframes duration | easing-function | delay | name */
-  animation: 3s linear 1s slide-in;
-  
-  /* two animations */
-  animation:
-    3s linear slide-in,
-    3s ease-out 5s slide-out;
-```
-
-Note: for the shorthand to work properly, make sure you list the values in the same order as listed above.
-As you're using the shorthand, there's no need to list the subproperties – you just need to define the values you need. You don't need to use all of the subproperties, but animation-name and animation-duration are necessary for the CSS animation property to work as intended.
-
-
-heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+* [Wikipedia - SVG](https://en.wikipedia.org/wiki/SVG)
+* [SVG on the Web](https://svgontheweb.com/)
+* [Using SVG](https://css-tricks.com/using-svg/)
 
 ---
 
-### Sýnidæmi
+## Leturtákn - Iconfont
 
-1. [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
-1.  [Code pen](https://codepen.io/maheshambure21/pen/qZZrxy)
-1.  [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
-1.  [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav)
+* [What is an Icon Font?](https://designshack.net/articles/typography/what-is-an-icon-font/)
+* [Icomoon táknletur](https://icomoon.io/)
+* [How to use Icomoon fonts](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
 
-#### Kvikun - Animation
+Þegar vefsíða Icomoon er opnuð veldu þá ` IcoMoon App `, þá ferðu inn á vefapp þar sem þú getur valið tákn sem þú villt nota. 'Vefappið' geymir upplýsingarnar sem þú hefur valið í vinnsluminni vafrans (_cache_). Upplýsingarnar eru ekki geymdar á öðrum tölvum eða netþjóni.
 
-* [W3Schools CSS Animation](https://www.w3schools.com/css/css3_animations.asp)
-* [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-* [Animate Style](https://animate.style/)
-* [Slideshow w3.org](https://www.w3.org/Style/Examples/007/slideshow.en.html#top)
-* [Slideshow CSS](https://css-tricks.com/css-only-carousel/)
-* [CSS Scrolling text](https://blog.hubspot.com/website/scrolling-text-css)
-* [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
-* [Cubic Bezier](https://cubic-bezier.com/)
-* Safnsíður
-  * [CSS Text Animations](https://freefrontend.com/css-text-animations/)
-  * [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
-  * [28 Slideshow dæmi](https://freefrontend.com/css-slideshows/)
-  * [skjá-skvettur (Splash-screens)](https://speckyboy.com/splash-screen-design/)
+![icomoon](myndir/icomoon1.jpg)
 
-#### SVG kvikun (_Animation_)
+ Einnig getur þú sótt (_Import Icons_) eigin vektor tákn í appið. Valin tákn eru merkt með gulri útlínu.
 
-* [Góð byrjun í SVG kvikun](https://artificial.design/archives/2018/05/23/svg-animation.html)
-* [CSS Tricks - SVG kvikun](https://css-tricks.com/animating-svg-css/)
-* [SVG Icons](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658)
+![icomoon](myndir/icomoon.jpg)
+
+Þegar táknin sem þú villt nota eru valin þá smellir þú á ` Generate Font F `
+
+![icomoon](myndir/icomoon2.jpg)
+
+þá sérðu táknin með ID auðkenni og þar er sýnt hvernig hægt er að birta táknin á vefsíðu í gegnum CSS `<> Get Code `. Því næst sækir (_Download_) þú táknletrið á tölvuna þína.
+
+![icomoon](myndir/icomoon3.jpg)
+
+Við notum síðan leturgerðina sem er í _fonts_ möppunni og stílsíðuna _style.css_.
+
+![icomoon](myndir/icomoon4.jpg)
+
+
+
 

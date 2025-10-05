@@ -1,39 +1,49 @@
-# SVG vigurteikning - _Scalable Vector Graphics_
+# Fellilistar og sprettigluggi
 
-Vigurteikning er XML vektormyndasnið til að skilgreina tvívíddar grafík. Vigurteikningar eru notaðar í öllum leturgerðum (_fonts_) í tölvunni þinni og flest táknin sem þú sérð í símanum þínum eru vigurteikningar.
+### Markmið:
+Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
 
-![SVG lógó](Námsefni-4/SVG-symbol/Nlogo.svg)
+### Fellilisti í efnisyfirliti (_Drop down menu_)
 
-Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
+Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
+ 
+Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
 
-Lógóið er hægt að teikna í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
+Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
+ 
+Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
-## Icomoon táknletur
+Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
-Táknletur er safn tákna sem hefur verið sett í leturgerð (_font_) og hægt er að nota á sama hátt og aðrar leturgerðir í vafra. Helstu ástæðurnar fyrir því að nota táknletur eru að þú getur breytt stærð, lit, lögun á auðveldan hátt, `font-size:` og `color:`. 
+### Sprettigluggi (_Pop up menu_)
 
-Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og &lt;footer> félagsmiðlatengla (_Social Media_).  
+Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-* Sækið táknletrið með því að smella á „Generate Font“
-* Mappan sem Icomoon hleður inn á tölvuna þína inniheldur „style.css“ og „font“ möppu með leturtáknunum sem þú valdir. Afritaðu „style.css“ og „font“ möppuna
-* Demo.html síðan sýnir þér hvernig hægt er að setja táknin á vefsíðu.
-* Það er hægt að meðhöndla táknin eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. 
+Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
-_Veljið tákn sem passa við ykkar efnisyfirlit_
+### Námsmat, lykilmatsþáttur 20%
 
-- ![sýnidæmi](Námsefni-4/myndir/taknletur.JPG)
-- [Námsefni](Námsefni-4/README.md)
+#### Æfingaverkefni 10%
 
-### Námsmat 10%:  
+-	4% Fellilisti í efnisyfirliti (_drop down menu_)
+    -	[≡] Tákn sem birtir fellilista (Drop down menu)
+    -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
+ -	4% Spjallbox (staðsett fyrir utan skjáinn)
+    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
+    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+-	2%  Sprettigluggi (_pop up modal_)
+       
+ #### Tímaverkefni  10% 
 
-- 5% SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
-- 2.5% Icomoon táknletur (_iconfont_) með innfluttu tákni
-- 2.5% Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
+ - Tímaverkefnið er lagt fyrir og unnið í lok 3. verkefnis (2 kennslustundir)
+ - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
+ - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 til 3. 
+
 
 #### Verkefnaskil
 
-- SVG tákn  
-- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá.
+-  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá.
+   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefninu og æfingaverkefninu. 
 
 #### Einkunn verður birt í Innu
 
@@ -41,20 +51,14 @@ _Gangi þér vel_
 
 ---
 
-#### Skalanleg vigurteikning - Scalable Vector Graphics
+#### Námsefni
 
-* [W3schools, SVG in HTML](https://www.w3schools.com/graphics/svg_intro.asp)
-* [InkScape teikniforritið](https://inkscape.org/)
-  * [InkScape leiðbeiningar](https://liljaeysteinn.weebly.com/inkscape/ymsar-goar-leibeiningar-fyrir-inkscape/)
-  * [InkScape Trace Bitmap Image](https://www.youtube.com/watch?v=aVPV6AtjGBg)
-  * [Inkscape custom palette](https://manjitkarve.com/posts/inkscape-custom-palette/)
-  * [Inkscape Custom Palette (YouTube video)](https://www.youtube.com/watch?v=Y1E8YWOB_Yc)
-  * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
+* [Complex Selectors](Námsefni-2/README.md)
+* [Transition og transform](Námsefni-2/Transition-Transform.md)
+* [Hulduklasar (_Pseudo classes_)](Námsefni-2/pseudo-classes.md)
 
-#### Leturtákn - Iconfont
+#### Flóknir stílar - _Complex Selectors_
 
-* [Icomoon táknletur](https://icomoon.io/)
-* [How to use Icomoon fonts](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
-* [SVG tákn safn](https://www.svgrepo.com/)
-* [6 táknletur tól](https://www.webfx.com/blog/web-design/icon-font-generators/)
-
+* [Shayhowe, Flóknar stílsetningar (_Complex Selectors_)](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+* [Sprettigluggi (_Pop up Modal_)](https://codepen.io/imprakash/pen/GgNMXO)
+* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)

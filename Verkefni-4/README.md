@@ -1,49 +1,43 @@
-# Fellilistar og sprettigluggi
+# Kvikun 
 
-### Markmið:
-Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
+* Notið eftirfarandi CSS eigindi eftir þörfum
+  * _„transition“_  
+  * _„transform“_ 
+  * _„animation“_
 
-### Fellilisti í efnisyfirliti (_Drop down menu_)
+## Áríðandi tilkynning
 
-Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
- 
-Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
+Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
 
-Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
- 
-Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
+## Myndasýning (_Slideshow_)
 
-Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
+Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
-### Sprettigluggi (_Pop up menu_)
+## Spunatákn (_spinner_) 
 
-Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
+Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með SVG tákni sem hreyfist. 
 
-Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
+Búðu til þitt eigið SVG spunatákn (_Spinner_), þú getur notað CSS kvikun til að koma hreyfingu á SVG tákn eða sett kvikun inn í SVG skjalið.
 
-### Námsmat, lykilmatsþáttur 20%
+Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
+Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að sjá spunatáknið verðum við að stilla vafrann á **"Slow 4G"** tengingu til að líkja eftir lélegu netsambandi. Farðu í ` Inspector > Network >` og veldu  [Slow 4G] úr [ _No trottling_ ] fellilistanum.
 
-#### Æfingaverkefni 10%
+![skýringarmynd](Námsefni-4/4g-trottling.jpg)
 
--	4% Fellilisti í efnisyfirliti (_drop down menu_)
-    -	[≡] Tákn sem birtir fellilista (Drop down menu)
-    -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
- -	4% Spjallbox (staðsett fyrir utan skjáinn)
-    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
-    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
--	2%  Sprettigluggi (_pop up modal_)
-       
- #### Tímaverkefni  10% 
-
- - Tímaverkefnið er lagt fyrir og unnið í lok 3. verkefnis (2 kennslustundir)
- - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
- - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 til 3. 
+- [Dæmi um spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-4/img-loader.html)
+- [Dæmi um hvernig hægt er að búa til spinner í SVG skjali](https://www.fffuel.co/svg-spinner/)
 
 
-#### Verkefnaskil
+#### Námsmat 20% _Lykilmatsþáttur_
 
--  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá.
-   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefninu og æfingaverkefninu. 
+- 4% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
+- 4% Myndasýning (_slideshow_) 
+- 4% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- 8% Tímaverkefni
+
+#### Vekefnaskil
+
+Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ2VH05AU/Verkefni-5_ í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
@@ -51,14 +45,45 @@ _Gangi þér vel_
 
 ---
 
-#### Námsefni
+#### Lesefni
 
-* [Complex Selectors](Námsefni-3/README.md)
-* [Transition og transform](Námsefni-3/Transition-Transform.md)
-* [Hulduklasar (_Pseudo classes_)](Námsefni-3/pseudo-classes.md)
+* [Kvikun (_Bókin um vefforitun_)](https://bok.vefforritun.is/19.kvikun)
 
-#### Flóknir stílar - _Complex Selectors_
+#### Kvikun (_Animation_)
 
-* [Shayhowe, Flóknar stílsetningar (_Complex Selectors_)](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-* [Sprettigluggi (_Pop up Modal_)](https://codepen.io/imprakash/pen/GgNMXO)
-* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
+* [W3Schools CSS Animation](https://www.w3schools.com/css/css3_animations.asp)
+* [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+* [Animation timing funtion](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+* [Animate Style](https://animate.style/)
+* [Slideshow w3.org](https://www.w3.org/Style/Examples/007/slideshow.en.html#top)
+* [Slideshow CSS](https://css-tricks.com/css-only-carousel/)
+* [Cubic Bezier](https://cubic-bezier.com/)
+* [Using Cubic Besier](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
+* [CSS Scrolling text](https://blog.hubspot.com/website/scrolling-text-css)
+* Kviktákn (_animated symbol_)
+  * [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
+  * [Hleðslutákn (_loader symbol_)](https://www.codingnepalweb.com/animated-loader-in-html-css/)
+  * [Mælistika (_progress bar_)](https://www.codingnepalweb.com/button-progress-bar-html-css-javascript/)
+* Code Pen dæmi um kvikun
+  * [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
+  * [Code pen](https://codepen.io/maheshambure21/pen/qZZrxy)
+  * [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
+  * [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav) 
+* [Upptalning með CSS](https://css-tricks.com/animating-number-counters/#aa-the-new-school-css-solution) 
+* Safnsíður
+  * [CSS Text Animations](https://freefrontend.com/css-text-animations/)
+  * [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
+  * [28 Slideshow dæmi](https://freefrontend.com/css-slideshows/)
+  * [skjá-skvettur (Splash-screens)](https://speckyboy.com/splash-screen-design/)
+
+#### SVG kvikun (_Animation_)
+
+* [Góð byrjun í SVG kvikun](https://artificial.design/archives/2018/05/23/svg-animation.html)
+* [CSS Tricks - SVG kvikun](https://css-tricks.com/animating-svg-css/)
+* [SVG Icons](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658)
+
+
+
+
+
+

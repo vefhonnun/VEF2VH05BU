@@ -36,7 +36,7 @@
 1. Tengirit - _"WireFrame"_
 1. Stílbragð - _Style tyle_
 
-[Sjá nánar](Námsefni-6/README.md)
+[Sjá nánar](Námsefni-5/README.md)
 
 ### Námsmat 10%
 
