@@ -13,13 +13,13 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 42 | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | - |
-| 43 | Töflur og form  | 2 |  10 | - |  
-| 44 | Flókin stílbrögð (_Complex selectors_) | 3 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 45 | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
-| 46 | CSS kvikun (_Transform, transition & animation_) | 5 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 47 | Vefur fyrir viðburð, undirbúningur | 6 | 10 | -  |
-| 48 - 49 | Vefur fyrir viðburð, framleiðsla | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
+| 42 | HTML & CSS vinnurammi (_framework_)  | 1 | - | - |
+| 43 | Töflur og form  | 1 |  15 | - |  
+| 44 | Flókin stílbrögð (_Complex selectors_) | 2 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
+| 45 | SVG vigurteikningar (_Vector graphics_) | 3 | 10 | - |
+| 46 | CSS kvikun (_Transform, transition & animation_) | 4 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
+| 47 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | -  |
+| 48 - 49 | Vefur fyrir viðburð, framleiðsla | 6 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
 | 50 | Vefur fyrir viðburð, frágangur |  |  |  |
 | 51 | _Námsmat_ | samtals:  | 35 | 65 |
 
@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | --- | 
 | 42 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
 | 43 | Töflur RWD | Form | Form validation | Complex selectors |
-| 44 |  Drop down menu | -- | Pop up menu | **Tímaverkefni 1** |  
+| 44 | Drop down menu | Accordion menu | Pop up menu | **Tímaverkefni 1** |  
 | 45 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
 | 46 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
 | 47 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
