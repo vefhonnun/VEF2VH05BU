@@ -1,86 +1,58 @@
+# Verkefni 7 
+
 # Vefur fyrir viðburð
 
 ### Markmið:
+Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-* Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs. 
-* Nemendur finna eigið efni og myndir til að nota í lokaverkefninu
+### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
 
-### Undirbúningur og skipulagning
+Það sem á að vera á vefnum:
 
-1. Efni og umfjöllun er _frjáls*_. 
-1. Viðburður á einhverjum tilteknum tíma
-   - Kynningarvefur um viðburð, þjónustu eða vöru
-1. Það á að vera möguleiki á að kaupa miða eða panta vöru
-1. Dagskrá eða þjónusta sem er í boði
-1. Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
-   - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
+  * Upplýsingar um viðburð
+  * Tímasetning
+  * Dagskrá
+  * Skráning á viðburðinn (_aðeins útlit forms - engin virkni_)
+  * Upplýsingar um fyrirtækið sem heldur viðburðinn
+  * Kvikun (_Animation_) til að fanga athygli notanda
 
-> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
+> Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
-### Efnisöflun
+### Námsmat 25% - _Lykilmatsþáttur_
 
-> Skrifaðu niður hvað á að koma fram á vefnum 
+-	**7%** Skipulag - innihald  
+   	* SVG lógo er í &lt;header>
+    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
+    * Form - með skilyrtum innsláttareitum
+    * Tafla - Sýnileg í öllum skjástærðum
+    * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
+-	**7%** Útlitshönnun  
+    * Tvískipt litasamsetning (_Light & dark_) 
+    * Leturval
+- **5%** Kvikun  
+    * Kvikun (_Animation_) 
+    * Myndasýning (_Slideshow_) ef það á við
+- **3%** Frágangur 
+    * Ein þjöppuð stílsíða tengd við html síður
+    * Allar myndir í sérmöppu 
+    * HTML5 og CSS ritháttur í lagi
+- **3%** Vefurinn birtur á internetinu 
+    * https://(_notandi_).github.io/(_undirlén_)
 
-* Upplýsingar um viðburði, vöru og/eða þjónustu
-* Söluhvati, leikur eða happadrætti
-* Dagskrá, þjónusta eða vörulisti í boði (tafla)
-* Pöntunarform eða skráningarfom
-  * Stutt lýsing á hvernig samskipti eiga að vera á milli notanda og vefs.
-* Samskiptaform - spjallrás
-  * _í lokaverkefninu á aðeins að hanna útlit forms - engin forritun_
-* Upplýsingar um fyrirtækið sem stendur að sýningunni
+#### Verkefnaskil
 
-#### Undirbúningsgögn
+- Öllum vinnugögnum skal skilað í Verkefni 7 í Innu 
+- Tengill á vefinn https://(_notandi_).github.io/(_undirlén_) skráð í _athugasemd til kennara_
 
-1. Skipurit - _"SiteMap"_
-1. Tengirit - _"WireFrame"_
-1. Stílbragð - _Style tyle_
+#### Einkunn verður birt í Innu
 
-[Sjá nánar](Námsefni-6/README.md)
-
-### Námsmat 10%
-
-* Hugmyndavinna og efnisöflun 4%
-  * Lýsing á verkefnavali
-  * Texti og myndir sem koma til greina að nota
-* Efnisyfirlit og tengirit 3%
-  *  _Site-map & Wireframe_
-* Stílbragð - _Style tyle_  3%
-  * Litaþema og leturval 
-
-### Verkefnaskil
-
-- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 6
-
-#### _Einkunn verður birt í Innu_
-
-#### [Lokaverkefni nemenda](https://vefhonnun.github.io/synidaemi/)
+_Gangi þér vel_ 😊
 
 ---
 
-#### Undirbúningur
+#### Frágagnur og uppsetning á Github.io
 
-* [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
-* [Vefhönnun í 3 þáttum](https://webflow.com/blog/3-tools-to-power-your-design-review-process)
-* [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
+* [Frágangur](Frágangur)
+* [Uppsetning vefs á Github.io](uppsetning-github.io)
 
-#### Skipulagning 
 
-* [Gloomap skipurit](https://www.gloomaps.com/)
-* [Flæðirit - Diagram](https://www.drawio.com/)
-
----
-
-#### Tól fyrir skipulagningu <br> _(Wireframe)_ og frumhönnun _(Prototype)_
-
-* [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ)
-* [Frumhönnun vefs](https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/)
-* [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)
-* [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
-
-#### Notendaupplifun
-
-* [7 Interactive Elements That Will Help You Get Users Attention](https://bamboolab.eu/blog/development/7-interactive-elements-that-will-help-you-get-users-attention)
-* [How to Create a Landing Page That Will Sell Your Software Product](https://bamboolab.eu/blog/development/how-to-create-a-landing-page-that-will-sell-your-software-product)
-* [UX Checklist](https://uxchecklist.github.io/)
-* [52 weeks of UX](http://52weeksofux.com/post/475093254/10-principles-of-ux) 

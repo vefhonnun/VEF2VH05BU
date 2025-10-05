@@ -1,79 +1,49 @@
-# Tafla  &lt;Table> 
+# Fellilistar og sprettigluggi
 
-Búðu til töflu í vefsíðu, innhald töflunnar getur verið dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta. Vefsíðan á að vera sú sama og þú gerðir í 1. verkefni.
+### Markmið:
+Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
 
-Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
+### Fellilisti í efnisyfirliti (_Drop down menu_)
 
-#### Viðmið 0 – 48rem (0 – 768px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
+ 
+Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
 
-![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileL.jpg)
+Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
+ 
+Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
-Taflan á að vera í tvískiptu litaþema
+Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
-#### Viðmið 48rem + (768px).
+### Sprettigluggi (_Pop up menu_)
 
-![Mynd 3.](synidaemi/tafla-ipad.jpg)
+Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-#### Viðmið 80rem + (1280px).
+Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
-![Mynd 4.](synidaemi/tafla-laptop.jpg)
+### Námsmat, lykilmatsþáttur 20%
+
+#### Æfingaverkefni 10%
+
+-	4% Fellilisti í efnisyfirliti (_drop down menu_)
+    -	[≡] Tákn sem birtir fellilista (Drop down menu)
+    -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
+ -	4% Spjallbox (staðsett fyrir utan skjáinn)
+    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
+    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
+-	2%  Sprettigluggi (_pop up modal_)
+       
+ #### Tímaverkefni  10% 
+
+ - Tímaverkefnið er lagt fyrir og unnið í lok 3. verkefnis (2 kennslustundir)
+ - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
+ - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 til 3. 
 
 
+#### Verkefnaskil
 
-Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
-
-Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
-
----
-
-## Skráningarform 
-
-Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
-  
-![Mynd 5.](synidaemi/form-mobileD.jpg) ![Mynd 6.](synidaemi/form-mobileL.jpg)
-
-Formið á að vera í tvískiptu litaþema
-
-#### Viðmið 48rem + (768px).
-
-![Mynd 7.](synidaemi/form-ipad.jpg)
-
-#### Viðmið 80rem + (1280px).
-
-![Mynd 7.](synidaemi/form-laptop.jpg)
-
-#### Réttritun (_validation_)
-Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
-
-` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
-
-* Ekki er hægt að skilja nafnareit auðan 		
-* Símanúmer verður að vera tölur (numbers)
-* Tölvupóstfang verður að vera með @	      	
-* Notið „input date“
-* Notið „select option, checkbox og radio“. 	
-* Notið aðra leturgerð og stærð í „textarea“
-
-#### Tafla 
-
-* Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
-á litlum skjáum.
-
-#### Form 
-* input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
-* Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
-
-### Námsmat: 10%
-
-* Tafla	5%
-  * aðlagast skjástærðum
-* Form	5%				
-  * aðlagast skjástærðum
-  * innsláttarreitir eru skilyrtir (_required_)	
-
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í **.zip** skrá. 
+-  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá.
+   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefninu og æfingaverkefninu. 
 
 #### Einkunn verður birt í Innu
 
@@ -81,22 +51,14 @@ _Gangi þér vel_
 
 ---
 
-#### Töflur 	
+#### Námsefni
 
-* [Skipulagning gagna](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
-* [Scope eigindið](https://www.w3schools.com/tags/att_scope.asp)
-* [RWD tafla, Smitty](http://allthingssmitty.com/2016/10/03/responsive-table-layout/)
-* [RWD tafla, CSS-tricks](https://css-tricks.com/responsive-data-tables/)
+* [Complex Selectors](Námsefni-3/README.md)
+* [Transition og transform](Námsefni-3/Transition-Transform.md)
+* [Hulduklasar (_Pseudo classes_)](Námsefni-3/pseudo-classes.md)
 
-#### Form
+#### Flóknir stílar - _Complex Selectors_
 
-*   [Building Forms](http://learn.shayhowe.com/html-css/building-forms/)
-*   [Form moz:lla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-
-#### Form validation
-
-* [HTML &lt;input> pattern Attribute](https://www.w3schools.com/tags/att_input_pattern.asp)
-* [W3Schools Form attributes](http://www.w3schools.com/html/html_form_attributes.asp)
-* [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
-* [input date, time fix](https://stackoverflow.com/questions/14946091/are-there-any-style-options-for-the-html5-date-picker?newreg=23b233a466f14c6e851d6e948e96d7ee)
-
+* [Shayhowe, Flóknar stílsetningar (_Complex Selectors_)](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+* [Sprettigluggi (_Pop up Modal_)](https://codepen.io/imprakash/pen/GgNMXO)
+* [Harmonikkulisti **Details & Summary** tögin](https://www.w3schools.com/tags/tag_details.asp)
