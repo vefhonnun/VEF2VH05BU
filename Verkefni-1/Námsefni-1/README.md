@@ -19,7 +19,6 @@ Hér er dæmi um hvernig hægt er að stíla eigindi þannig að líkja má við
   --footerbg: linear-gradient(rgb(183, 232, 236),rgb(125, 221, 230));
 }
 
-
 body {
   color: var(--body);
 }
@@ -44,11 +43,6 @@ Mörg fyrirtæki velja sér lita- og letursamsetningu til að aðgreina sig frá
 Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
 
-####  _CSS mini framework_
-
-* [New.css](https://github.com/xz/new.css)
-* [Portal - Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
-
 #### CSS breytur
 
 * [CSS breytur W3Schools](https://www.w3schools.com/css/css3_variables.asp)
@@ -56,14 +50,15 @@ Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en
 * [Breytilegt litaþema](https://web.dev/articles/prefers-color-scheme)
 * [CSS calc('litaskali)](https://blog.jim-nielsen.com/2021/css-relative-colors/)
 
-#### CSS _Grid_ skipulag 
-
-* [Moz:lla - CSS Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
-* [W3Schools - CSS Grid template](https://www.w3schools.com/cssref/pr_grid-template.asp)
-* [CSS grid dæmi](https://gridbyexample.com/)
-* [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
 #### Lesefni
 
 * [CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni) (_Bókin um vefforritun, ÓSK_)
 
+#### Annað efni
+
+* [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
+* [Portal - Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
+* [Moz:lla - CSS Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
+* [W3Schools - CSS Grid template](https://www.w3schools.com/cssref/pr_grid-template.asp)
+* [CSS grid dæmi](https://gridbyexample.com/)
+* [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)

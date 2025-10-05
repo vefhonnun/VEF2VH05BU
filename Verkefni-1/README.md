@@ -63,8 +63,6 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * Tölvupóstfang verður að vera með @	      	
 * Notið „input date“
 * Notið „select option, checkbox og radio“. 	
-* Notið aðra leturgerð og stærð í „textarea“
-
 
 #### Form 
 * input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
@@ -79,9 +77,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   * 2% CSS breytur - Litasamsetning
   * 1% Leturval - leturnotkun	
 * Tafla	5%
-  * aðlagast skjástærðum
 * Form	5%				
-  * aðlagast skjástærðum
   * innsláttarreitir eru skilyrtir (_required_)	
 
 Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í **.zip** skrá. 
