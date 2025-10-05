@@ -40,6 +40,9 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 > Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
 
+* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
+* Taflan skemmir ekki skipulag vefsíðu (Overflow auto) í litlum skjáum. 
+
 ## Skráningarform 
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
@@ -68,12 +71,6 @@ Formið á að vera í tvískiptu litaþema
 * Notið „select option, checkbox og radio“. 	
 * Notið aðra leturgerð og stærð í „textarea“
 
-#### Tafla 
-
-* Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
-á litlum skjáum.
 
 #### Form 
 * input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
