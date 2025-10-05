@@ -56,7 +56,6 @@ Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en
 
 #### Annað efni
 
-* [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
 * [Portal - Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
 * [Moz:lla - CSS Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
 * [W3Schools - CSS Grid template](https://www.w3schools.com/cssref/pr_grid-template.asp)

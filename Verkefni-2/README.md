@@ -42,8 +42,8 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 
 #### Verkefnaskil
 
--  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá.
-   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefninu og æfingaverkefninu. 
+-  _Inna/VEFÞ2VH05BU/Verkefni-2_  í **.zip** skrá.
+   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefni og æfingaverkefni. 
 
 #### Einkunn verður birt í Innu
 
@@ -53,6 +53,7 @@ _Gangi þér vel_
 
 #### Námsefni
 
+* [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
 * [Complex Selectors](Námsefni-2/README.md)
 * [Transition og transform](Námsefni-2/Transition-Transform.md)
 * [Hulduklasar (_Pseudo classes_)](Námsefni-2/pseudo-classes.md)
