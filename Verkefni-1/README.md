@@ -12,19 +12,21 @@ Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniði
 
 ## Verkefni 1
 
-Búum til vefsíðu þar sem vafrinn velur litaþema eftir því hvort notandi er með ljóst eða dökkt litaþema valið í vafranum. 
-
-- [Litaþema í vafra](https://picocss.com/docs/color-schemes)
-
-Hægt er að velja mismunandi litagrunna í Picosafninu 
+Búum til vefsíðu og veljum sér litaþema  
 
 - [Litaval](https://picocss.com/docs/colors)
+
+Pico velur ljóst eða dökkt litaþema eftir því hvernig notandi stillir vafrann sinn
+
+- [Ljóst eða dökkt litaþema](https://picocss.com/docs/color-schemes)
+
+![litavalmynd]()
 
 ### Grid dálkakerfi (_layout_)
 
 Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_). Setjum texta (_dummy_ lorem ipsum) í dálka eins og sýnt er hér.
 
-![Dálakmynd]()
+![dálkakmynd]()
 
 Notum eftirfarandi clasa til að búa til dálkaskipulagið
 
@@ -35,6 +37,8 @@ Notum eftirfarandi clasa til að búa til dálkaskipulagið
 
 Búðu til töflu í vefsíðunni, innhald töflunnar getur verið dagskrá af einhverju tagi.  
 Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðnar lausnir. Í Pico er hægt að nota [Overflow auto](https://picocss.com/docs/overflow-auto) til að taflan riðli ekki skipulagi vefsíðunnar í litlum skjáum.
+
+![töflumynd]()
 
 > Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
@@ -47,17 +51,7 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
   
-![Mynd 5.](synidaemi/form-mobileD.jpg) ![Mynd 6.](synidaemi/form-mobileL.jpg)
-
-Formið á að vera í tvískiptu litaþema
-
-#### Viðmið 48rem + (768px).
-
-![Mynd 7.](synidaemi/form-ipad.jpg)
-
-#### Viðmið 80rem + (1280px).
-
-![Mynd 7.](synidaemi/form-laptop.jpg)
+![formmynd]() 
 
 #### Réttritun (_validation_)
 Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 

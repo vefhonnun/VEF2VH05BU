@@ -1,9 +1,9 @@
 #  VEFÞ2VH05AU - verkefni
 
 1. [Verkefni](Verkefni-1/) Vinnurammi, töflur og form
+1. [Verkefni](Verkefni-2/) SVG vigurteikningar
+1. [Verkefni](Verkefni-3/) CSS kvikun
 1. [Verkefni](Verkefni-3/) Flókin stílbrögð
-1. [Verkefni](Verkefni-4/) SVG vigurteikningar
-1. [Verkefni](Verkefni-5/) CSS kvikun
 1. [Verkefni](Verkefni-6/) Undirbúningur vefs
 1. [Verkefni](Verkefni-7/) Framleiðsla vefs
 
