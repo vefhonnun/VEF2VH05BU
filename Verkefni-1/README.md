@@ -7,14 +7,19 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS-
 
 Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniðinna klasa. Við kynnum okkur safnið og aðlögum að okkar eigin hönnun. Skoðum fyrst hvernig er hægt að nota safnið.
 
-<!--* [Verkefni 1 vinnugögn (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)-->
-1. [Pico stílsíðusafn (_CSS Framework_)](https://picocss.com/docs)
+- [Pico stílsíðusafn (_CSS Framework_)](https://picocss.com/docs)
 
 ## Verkefni 1
 
-Búum til vefsíðu og veljum sér litaþema  
+Búum til vefsíðu og tengjum Pico safnið við síðuna
+
+` <link rel="stylesheet" href="css/pico.min.css"> `
+
+Veljum sér litaþema  
 
 - [Litaval](https://picocss.com/docs/colors)
+
+` <link rel="stylesheet" href="css/pico.colors.min.css"> `
 
 Pico velur ljóst eða dökkt litaþema eftir því hvernig notandi stillir vafrann sinn
 
@@ -22,16 +27,27 @@ Pico velur ljóst eða dökkt litaþema eftir því hvernig notandi stillir vafr
 
 ![litavalmynd]()
 
+### Letur
+
+- [Leturstillingar](https://picocss.com/docs/typography)
+- [Tenglar](https://picocss.com/docs/link)
+- [Hnappar](https://picocss.com/docs/button)
+- [Tafla](https://picocss.com/docs/table)
+
 ### Grid dálkakerfi (_layout_)
 
 Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_). Setjum texta (_dummy_ lorem ipsum) í dálka eins og sýnt er hér.
-
-![dálkakmynd]()
 
 Notum eftirfarandi clasa til að búa til dálkaskipulagið
 
 - [Container](https://picocss.com/docs/container)
 - [Grid](https://picocss.com/docs/grid)
+
+![dálkakmynd]()
+
+### Sérstillingar
+
+- [CSS variables](https://picocss.com/docs/css-variables)
 
 #### Tafla  &lt;Table> 
 
