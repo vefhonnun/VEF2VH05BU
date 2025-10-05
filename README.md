@@ -39,8 +39,10 @@
 
 ### Verklýsing
 
-1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
-1. verkefni. Sveigjanleg tafla og form sett í veframmann
+1. verkefni. Nemendur setja upp veframma (_web framework_) 
+   - grid dálkaskipulag
+   - töflur
+   - form 
 1. verkefni. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til 
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
 1. verkefni. Kvikun, CSS _transition, transform & @keyframe_ 
