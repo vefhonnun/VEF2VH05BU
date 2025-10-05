@@ -5,68 +5,40 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS-
 
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, litaval og leturnotkun.
 
-Meðfylgjandi verkefni er HTML og CSS grunnsíða sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins.
+Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniðinna klasa. Við kynnum okkur safnið og aðlögum að okkar eigin hönnun. Skoðum fyrst hvernig er hægt að nota safnið.
 
-* [New CSS - Boilerplate](Námsefni-1/new-css-boilerplate/)
-  * [Vefsíða New.css](https://github.com/xz/new.css)
-* [Verkefni 1 vinnugögn (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)
+<!--* [Verkefni 1 vinnugögn (.zip skrá)](Námsefni-1/verkefni-1-nemendur.zip)-->
+1. [Pico stílsíðusafn (_CSS Framework_)](https://picocss.com/docs)
 
-### Tvískipt litaþema
+## Verkefni 1
 
-Hér er dæmi um vefsíðu þar sem vafrinn velur litaþema eftir því hvort notandi er með ljóst eða dökkt litaþema valið í honum. 
+Búum til vefsíðu þar sem vafrinn velur litaþema eftir því hvort notandi er með ljóst eða dökkt litaþema valið í vafranum. 
 
-![Mynd 1](synidaemi/verk-1L.jpg)
-![Mynd 2](synidaemi/verk-1D.jpg)
+- [Litaþema í vafra](https://picocss.com/docs/color-schemes)
 
-Litir í mynd eru settir í CSS litaþemað og gulur litur búinn til og settur í það.
+Hægt er að velja mismunandi litagrunna í Picosafninu 
 
-### Grid dálkakerfi
+- [Litaval](https://picocss.com/docs/colors)
 
-![Mynd 3](synidaemi/verk-12L.jpg)
-![Mynd 3](synidaemi/verk-13L.jpg)
+### Grid dálkakerfi (_layout_)
 
-![Mynd 4](synidaemi/verk-12D.jpg)
-![Mynd 4](synidaemi/verk-13D.jpg)
+Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_). Setjum texta (_dummy_ lorem ipsum) í dálka eins og sýnt er hér.
 
-### Svegjanleg hönnun
+![Dálakmynd]()
 
-Farsímar (_Mobile_). Ein dálkabreidd á öllum grid klösum (1fr).
+Notum eftirfarandi clasa til að búa til dálkaskipulagið
 
-![mynd 5](synidaemi/mobile.JPG) 
+- [Container](https://picocss.com/docs/container)
+- [Grid](https://picocss.com/docs/grid)
 
-Spjaldtölvur (_laptops_). 6 dálkar skiptast rétt.
+#### Tafla  &lt;Table> 
 
-![mynd 6](synidaemi/ipads.jpg)
+Búðu til töflu í vefsíðunni, innhald töflunnar getur verið dagskrá af einhverju tagi.  
+Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðnar lausnir. Í Pico er hægt að nota [Overflow auto](https://picocss.com/docs/overflow-auto) til að taflan riðli ekki skipulagi vefsíðunnar í litlum skjáum.
 
-Fatölvur. Græni bakgrunnurinn teygist yfir skjáinn (_sérsnið - custom css_).
+> Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
-![mynd 7](synidaemi/laptops.jpg)
-
-# Tafla  &lt;Table> 
-
-Búðu til töflu í vefsíðu, innhald töflunnar getur verið dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta. Vefsíðan á að vera sú sama og þú gerðir í 1. verkefni.
-
-Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
-
-#### Viðmið 0 – 48rem (0 – 768px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
-
-![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileL.jpg)
-
-Taflan á að vera í tvískiptu litaþema
-
-#### Viðmið 48rem + (768px).
-
-![Mynd 3.](synidaemi/tafla-ipad.jpg)
-
-#### Viðmið 80rem + (1280px).
-
-![Mynd 4.](synidaemi/tafla-laptop.jpg)
-
-Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
-
-Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
-
----
+> Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
 
 ## Skráningarform 
 
@@ -138,7 +110,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 ### Bjargir
 
 * [Pico _CSS mini framework_](https://picocss.com/docs)
-
+* [Github Pico css](https://github.com/picocss/pico)
 
 #### CSS breytur (_CSS Variables_)
 
