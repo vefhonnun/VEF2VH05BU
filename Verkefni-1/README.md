@@ -69,6 +69,8 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   
 ![formmynd]() 
 
+* input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
+
 #### Réttritun (_validation_)
 Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
 
@@ -77,12 +79,9 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * Ekki er hægt að skilja nafnareit auðan 		
 * Símanúmer verður að vera tölur (numbers)
 * Tölvupóstfang verður að vera með @	      	
-* Notið „input date“
 * Notið „select option, checkbox og radio“. 	
 
-#### Form 
-* input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
-* Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+---
 
 ### Námsmat: 15%
 
