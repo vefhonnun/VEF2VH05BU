@@ -11,7 +11,7 @@ Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniði
 
 ## Verkefni 1
 
-Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_Pico_ pakkann](https://github.com/picocss/pico/archive/refs/heads/main.zip) af vefnum þeirra. Setjum innihaldið á okkar þróunarsvði og skoðum hvað hægt er að gera með stílsafninu. 
+Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_Pico_ pakkann](https://github.com/picocss/pico/archive/refs/heads/main.zip) af vefnum þeirra. Setjum innihaldið á okkar þróunarsvæði  og skoðum hvað hægt er að gera með stílsafninu. 
 
 1. Veljum sér litaþema  
   - [Litaval](https://picocss.com/docs/colors)
