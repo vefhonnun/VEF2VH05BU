@@ -76,11 +76,6 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 ` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
 
-* Ekki er hægt að skilja nafnareit auðan 		
-* Símanúmer verður að vera tölur (numbers)
-* Tölvupóstfang verður að vera með @	      	
-* Notið „select option, checkbox og radio“. 	
-
 ---
 
 ### Námsmat: 15%
