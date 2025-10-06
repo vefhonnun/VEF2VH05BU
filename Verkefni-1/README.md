@@ -90,12 +90,6 @@ _Gangi þér vel_
 
 ---
 
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
-
-#### Einkunn verður birt í Innu
-
----
-
 ### Bjargir
 
 * [Pico _CSS mini framework_](https://picocss.com/docs)
