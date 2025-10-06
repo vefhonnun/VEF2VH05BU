@@ -94,7 +94,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
     - Litasamsetning
     - Leturval - leturnotkun
   * 1% Forsíðumynd
-    - í 3 mismunandi stærðir L, M, S.
+    - í 3 mismunandi stærðum L, M, S.
 * Tafla	5%
 * Form	5%				
   * innsláttarreitir eru skilyrtir (_required_)	
