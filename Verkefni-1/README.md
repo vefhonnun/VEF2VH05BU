@@ -1,7 +1,7 @@
 # CSS grunnsíða - _CSS boilerplate_
  
 ### Markmið:
-Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS-grunnsíðu (Boilerplate) til að hanna betri vefsíður.
+Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun grunnvefsíðu (_Boilerplate_).
 
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, litaval og leturnotkun.
 
@@ -11,9 +11,8 @@ Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniði
 
 ## Verkefni 1
 
-Búum til vefsíðu og tengjum Pico safnið við síðuna
+Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_Pico_ pakkann](https://github.com/picocss/pico/archive/refs/heads/main.zip) af vefnum þeirra. Setjum innihaldið á okkar þróunarsvði og skoðum hvað hægt er að gera með stílsafninu. 
 
-` <link rel="stylesheet" href="css/pico.min.css"> `
 
 Veljum sér litaþema  
 
