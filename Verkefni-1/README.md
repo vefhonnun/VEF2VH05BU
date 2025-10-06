@@ -30,9 +30,7 @@ Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_
 
 ### Grid dálkakerfi (_layout_)
 
-Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_). Setjum texta (_dummy_ lorem ipsum) í dálka eins og sýnt er hér.
-
-Notum eftirfarandi clasa til að búa til dálkaskipulagið
+Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_). Notum eftirfarandi clasa til að búa til dálkaskipulagið.
 
 - [Container](https://picocss.com/docs/container)
 - [Grid](https://picocss.com/docs/grid)
@@ -58,8 +56,6 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 ## Skráningarform 
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
-  
-![formmynd]() 
 
 * input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 
