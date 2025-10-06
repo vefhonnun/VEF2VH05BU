@@ -13,18 +13,13 @@ Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniði
 
 Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_Pico_ pakkann](https://github.com/picocss/pico/archive/refs/heads/main.zip) af vefnum þeirra. Setjum innihaldið á okkar þróunarsvði og skoðum hvað hægt er að gera með stílsafninu. 
 
+1. Veljum sér litaþema  
+  - [Litaval](https://picocss.com/docs/colors)
+  - ` <link rel="stylesheet" href="css/pico.<litaval>.css"> `
+1. Pico velur ljóst eða dökkt litaþema eftir því hvernig notandi stillir vafrann sinn
+  - [Ljóst eða dökkt litaþema](https://picocss.com/docs/color-schemes)
 
-Veljum sér litaþema  
-
-- [Litaval](https://picocss.com/docs/colors)
-
-` <link rel="stylesheet" href="css/pico.colors.min.css"> `
-
-Pico velur ljóst eða dökkt litaþema eftir því hvernig notandi stillir vafrann sinn
-
-- [Ljóst eða dökkt litaþema](https://picocss.com/docs/color-schemes)
-
-![litavalmynd]()
+![dæmi](myndir/laptops.jpg)
 
 ### Letur
 
