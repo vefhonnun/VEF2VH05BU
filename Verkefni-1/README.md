@@ -88,10 +88,13 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 * Skipulag – Layout				
   * 2% Dálkaskipulag - Grid 
-  *	1% Myndir aðlagast skjástærðum
+  *	1% Svegjanleg hönnun
 * Útlit					
-  * 2% CSS breytur - Litasamsetning
-  * 1% Leturval - leturnotkun	
+  * 2% CSS breytur
+    - Litasamsetning
+    - Leturval - leturnotkun
+  * 1% Forsíðumynd
+    - í 3 mismunandi stærðir L, M, S.
 * Tafla	5%
 * Form	5%				
   * innsláttarreitir eru skilyrtir (_required_)	
