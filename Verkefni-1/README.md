@@ -37,8 +37,6 @@ Notum eftirfarandi clasa til að búa til dálkaskipulagið
 - [Container](https://picocss.com/docs/container)
 - [Grid](https://picocss.com/docs/grid)
 
-![dálkakmynd]()
-
 ### Sérstillingar
 
 - [CSS variables](https://picocss.com/docs/css-variables)
@@ -48,7 +46,7 @@ Notum eftirfarandi clasa til að búa til dálkaskipulagið
 Búðu til töflu í vefsíðunni, innhald töflunnar getur verið dagskrá af einhverju tagi.  
 Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðnar lausnir. Í Pico er hægt að nota [Overflow auto](https://picocss.com/docs/overflow-auto) til að taflan riðli ekki skipulagi vefsíðunnar í litlum skjáum.
 
-![töflumynd]()
+![töflumynd](myndir/laptops2.jpg)
 
 > Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
