@@ -72,7 +72,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 ### Námsmat: 15%
 
 * Skipulag – Layout				
-  * 2% Dálkaskipulag - Grid 
+  * 1% Dálkaskipulag - Grid 
   *	1% Svegjanleg hönnun
 * Útlit					
   * 2% CSS breytur
