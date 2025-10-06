@@ -71,15 +71,13 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 ### Námsmat: 15%
 
-* Skipulag – Layout				
-  * 1% Dálkaskipulag - Grid 
-  *	1% Svegjanleg hönnun
-* Útlit					
-  * 2% CSS breytur
+* Skipulag – Layout	2%			
+  * Dálkaskipulag - Grid 
+  *	Svegjanleg hönnun
+* Útlithönnun 3%
     - Litasamsetning
     - Leturval - leturnotkun
-  * 1% Forsíðumynd
-    - í 3 mismunandi stærðum L, M, S.
+    - Forsíðumynd í 3 mismunandi stærðum L, M, S.
 * Tafla	5%
 * Form	5%				
   * innsláttarreitir eru skilyrtir (_required_)	
