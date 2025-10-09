@@ -5,6 +5,9 @@
 - Hvernig hægt er að nota breytur í CSS stílsíðu.
 - Hanna form og töflur í HTML
 
+> Athugið að PICO er ekki með nein sérsnið fyrir myndvinnslu eða aðrar sérþarfir. Til að nota sérniðna CSS stíla þá búum við til auka stílsíðu **_custom.css_** sem við tengjum við Html síðuna ásamt Pico safninu. 
+  - Tengið (_link_) Pico safnið á undan _"custom.html"_
+
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, litaval og leturnotkun.
 
 Fyrir valinu er **Pico** stílsíðusafnið sem hægt er að nota án sérsniðinna klasa. Við kynnum okkur safnið og aðlögum að okkar eigin hönnun. Skoðum fyrst hvernig er hægt að nota safnið.
