@@ -1,6 +1,6 @@
 # Upplýsingasíða og dæmi, Pico CSS
 
-* Á vefsíðu Pico CSS er hægt að less um alla þætti, íhluti og grunnstíla (leturfræði, eyðublöð, töflur o.s.frv.) bæði í **ljósum og dökkum ham** sem er beitt á stöðluðum merkingarfræðilegum HTML einingum.
+* Á vefsíðu Pico CSS er hægt að less um alla þætti, íhluti og grunnstíla (leturfræði, form, töflur o.s.frv.) bæði í **ljósum og dökkum ham** sem er beitt á stöðluðum merkingarfræðilegum HTML einingum.
 * **Grunnsniðmát**:** [Dæmi sem sýna flesta íhluti](https://picocss.com/examples/preview/)
 * **Grunnsniðmát án klasa:** Dæmi sem notar lágmarks eða enga klasa, sem undirstrikar áherslu rammans á „merkingarfræðilegt HTML“. [picocss.com/examples/classless/](https://picocss.com/examples/classless/)
 * **Tengill á Pico CSS GitHub:** [https://github.com/picocss/pico](https://github.com/picocss/pico)
