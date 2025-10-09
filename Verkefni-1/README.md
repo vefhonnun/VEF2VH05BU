@@ -1,8 +1,9 @@
 # CSS grunnsíða - _CSS boilerplate_
  
 ### Markmið:
-- Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun grunnvefsíðu (_Boilerplate_).
-- Nemendur eiga að öðlast skilning á hvernig hægt er að nota breytur og aðrar flóknar aðgerðir í CSS stílsíðu.
+- Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun grunnvefsíðu (_Boilerplate_). 
+- Hvernig hægt er að nota breytur í CSS stílsíðu.
+- Hanna form og töflur í HTML
 
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, litaval og leturnotkun.
 
