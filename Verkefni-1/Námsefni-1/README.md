@@ -2,10 +2,8 @@
 
 * Á vefsíðu Pico CSS er hægt að less um alla þætti, íhluti og grunnstíla (leturfræði, eyðublöð, töflur o.s.frv.) bæði í **ljósum og dökkum ham** sem er beitt á stöðluðum merkingarfræðilegum HTML einingum.
 * **Tengill á vefsíðu Pico CSS:** [https://picocss.com/](https://picocss.com/)
-* **Opinber dæmi:** Dæmihluti opinberu vefsíðunnar inniheldur byrjendasniðmát og sérstök notkunartilvik:
-* **Dæmi:** [https://picocss.com/examples](https://picocss.com/examples)
 * **Grunnsniðmát** / **Forskoðun:** Hreint HTML dæmi sem sýnir flesta íhluti. ([Forskoðunartengill aðgengilegur á dæmasíðunni](https://picocss.com/examples/preview/))
-* **Forskoðun án flokka:** Dæmi sem notar lágmarks eða enga flokka, sem undirstrikar áherslu rammans á „merkingarfræðilegt HTML“. ([Forskoðunartengill aðgengilegur á dæmasíðunni](https://picocss.com/examples/classless/))
+* **Forskoðun án klasa:** Dæmi sem notar lágmarks eða enga klasa, sem undirstrikar áherslu rammans á „merkingarfræðilegt HTML“. ([Forskoðunartengill aðgengilegur á dæmasíðunni](https://picocss.com/examples/classless/))
 * **Samþættingar:** Dæmi sem sýna Pico CSS notað með tækni eins og **React** eða **Angular**, oft með eiginleikum eins og litasamsetningarskiptingu og breytingum.
 
 * **Tengill á Pico CSS GitHub:** [https://github.com/picocss/pico](https://github.com/picocss/pico)
