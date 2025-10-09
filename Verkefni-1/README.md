@@ -43,6 +43,11 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 
 - [CSS variables](https://picocss.com/docs/css-variables)
 
+#### Mynd á forsíðu
+
+- Veldu mynd úr myndasafni (frjálst val) og hafðu hana í þremur mismunandi stærðum, Large, Medium og Small. 
+  - Í VEFÞ1VG verkefni 6 var farið í hvernig vinna á myndir fyrir vef og þessi mynd á að setja í **&lt;picture>** tagið
+
 #### Tafla  &lt;Table> 
 
 Búðu til töflu í vefsíðunni, innhald töflunnar getur verið dagskrá af einhverju tagi.  
