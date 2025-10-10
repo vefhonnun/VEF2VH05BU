@@ -56,7 +56,8 @@ Athugið að PICO er ekki með nein sérsnið fyrir myndvinnslu eða aðrar sér
 
 - Til að nota sérniðna CSS stíla þá búum við til auka stílsíðu **_custom.css_** sem við tengjum við Html síðuna ásamt Pico safninu. 
 - Pico stílsíðan á að vera á undan _"custom.css"_ í HTML/Head
-  - ``` link ```
+  - ` <link rel="stylesheet" href="css/pico.<litaval>.css"> `
+  - ` <link rel="stylesheet" href="css/custom.css"> `
 
 #### Tafla  &lt;Table> 
 
