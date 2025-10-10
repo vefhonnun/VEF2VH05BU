@@ -46,7 +46,10 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 
 #### Mynd á forsíðu
 
-- Veldu mynd úr myndasafni (frjálst val) og hafðu hana í þremur mismunandi stærðum, **Large, Medium og Small**. 
+- Veldu mynd úr myndasafni (frjálst val) og hafðu hana í þremur mismunandi stærðum,
+  - **Large**
+  - **Medium**
+  - **Small**. 
   - Í VEFÞ1VG verkefni 6 var farið í myndvinnslu fyrir vef og þessa mynd á að setja í **&lt;picture>** tagið
 
 Athugið að PICO er ekki með nein sérsnið fyrir myndvinnslu eða aðrar sérþarfir. 
