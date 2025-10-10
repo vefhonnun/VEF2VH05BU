@@ -55,7 +55,8 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 Athugið að PICO er ekki með nein sérsnið fyrir myndvinnslu eða aðrar sérþarfir. 
 
 - Til að nota sérniðna CSS stíla þá búum við til auka stílsíðu **_custom.css_** sem við tengjum við Html síðuna ásamt Pico safninu. 
-- Tengið (_link_) Pico stílsíðuna á undan _"custom.css"_ í HTML/Head
+- Pico stílsíðuna á að vera á undan _"custom.css"_ í HTML/Head
+  - ``` link ```
 
 #### Tafla  &lt;Table> 
 
