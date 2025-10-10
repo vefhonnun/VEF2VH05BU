@@ -46,7 +46,7 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 
 #### Mynd á forsíðu
 
-- Veldu mynd úr myndasafni (frjálst val) og hafðu hana í þremur mismunandi stærðum, í VEFÞ1VG var farið í myndvinnslu fyrir vef verkefni 6
+- Veldu mynd úr myndasafni (_frjálst val_) og hafðu hana í þremur mismunandi stærðum (í VEFÞ1VG var farið í myndvinnslu - verkefni 6)
   - **Large**
   - **Medium**
   - **Small**
