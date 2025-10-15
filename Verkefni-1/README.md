@@ -65,6 +65,10 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 ![töflumynd](myndir/laptops2.jpg)
 
+Í farsímaskjáum á taflan að aðlagast skjástærð
+
+![töflumynd 2](myndir/smallTable.jpg)
+
 > Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
 > Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
