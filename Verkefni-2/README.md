@@ -11,7 +11,7 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 - Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
 - Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 - ![fellilisti - drop down menu](images/fellilisti.jpg)
-- Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
+- Dæmi: [https://tolvubraut.is](https://tolvubraut.is/)
 
 ### Sprettigluggi (_Modal_)
 
