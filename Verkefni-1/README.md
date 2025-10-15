@@ -73,14 +73,17 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 > Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
 
-* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* Taflan skemmir ekki skipulag vefsíðu (Overflow auto) í litlum skjáum. 
-
 ## Skráningarform 
 
-Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
+Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins (_sjá mynd_).  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
 
-* input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
+* input 
+  - text
+  - email
+  - radio 
+  - checkbox 
+  - option select 
+  - textarea  
 
 #### Réttritun (_validation_)
 Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
