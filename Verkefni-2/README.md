@@ -18,14 +18,17 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 - Í efnisyfirlitinu (_nav_) á að vera tengill sem ber heitið **Innskráning**
 - Þegar smellt er á tengilinn þá birtist sprettigluggi (_Modal_). 
 - Í glugganum á að vera form með innsláttarreitum fyrir nafn og lykilorð
-
-![pop up modal](images/modal.jpg)
-
-Sjá nánar: [Pop up Modal](https://picocss.com/docs/modal)
-
+- ![pop up modal](images/modal.jpg)
+- Sjá nánar: [Pop up Modal](https://picocss.com/docs/modal)
 - Það á ekki að vera hægt að senda formið án þess að fylla út innsláttarreitina
 - þegar smellt er á **innskráning** þá förum við á nýja vefsíðu
 - ` <form action="admin.html" method="get"> ` (_í VEFÞ2VF05CU verður formið notað með réttum hætti_)
+- ![control panel](images/controlpanel.jpg)
+
+### Stjórnborð
+
+- Á "admin.html" á að útlitshanna viðmót á umsjónarkerfi vefs
+- 
 
 ### Námsmat, lykilmatsþáttur 20%
 
