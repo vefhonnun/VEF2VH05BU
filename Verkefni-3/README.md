@@ -21,7 +21,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
-- ![sýnidæmi](Námsefni-3/myndir/taknletur.JPG)
+<!-- mynd hér í vinnslu -->
 - [Námsefni](Námsefni-3/README.md)
 
 ### Námsmat 10%:  
