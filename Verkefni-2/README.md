@@ -7,17 +7,18 @@ Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að
 
 Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
  
-Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
-
-Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
- 
-Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
-
-Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
+- Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
+- Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
+- Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
+- Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 ### Sprettigluggi (_Modal_)
 
-Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
+- Í efnisyfirlitinu (_nav_) á að vera tengill sem ber heitið **Innskráning**
+- Þegar smellt er á tengilinn þá birtist sprettigluggi (_Modal_). 
+- Í glugganum á að vera form með innsláttarreitum fyrir nafn og lykilorð
+
+![pop up modal](images/modal.jpg)
 
 Dæmi: [Pop up Modal](https://picocss.com/docs/modal)
 
