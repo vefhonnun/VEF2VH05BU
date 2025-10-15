@@ -40,17 +40,16 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 ### Sérstillingar
 
 1. Náðu í aðra leturgerð af fonts.google.com og settu hana í staðinn fyrir leturgerðina en notuð er í Pico safninu. 
-2. Settu forsíðumynd að eigin vali í vefsíðuna í ` picture ` tagið og hafðu myndina í þremur stærðum: litla (_small_), miðlungs (_medium_) og stóra mynd (_large_).
 
 - [CSS variables](https://picocss.com/docs/css-variables)
 
 #### Mynd á forsíðu
 
-- Veldu mynd úr myndasafni (_frjálst val_) og hafðu hana í þremur mismunandi stærðum (í VEFÞ1VG var farið í myndvinnslu - verkefni 6)
+- Veldu mynd úr myndasafni (_frjálst val_) og hafðu hana í þremur mismunandi stærðum (í VEFÞ1VG05AU, verkefni 6 var farið í myndvinnslu með Photopea appinu )
+- Settu forsíðumyndina í vefsíðuna í ` picture ` tagið og hafðu myndina í þremur stærðum
   - **Large**
   - **Medium**
   - **Small**
-  - setjið myndirnar í **&lt;picture>** tagið
 
 Athugið að PICO er ekki með nein sérsnið fyrir myndvinnslu eða aðrar sérþarfir. 
 
