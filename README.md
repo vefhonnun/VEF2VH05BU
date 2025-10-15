@@ -58,7 +58,7 @@
 1. Vinnurammi, töflur og form 15% 
 1. Flókin stílbrögð 20% _Lykilmatsþáttur_
 1. SVG vigurteikningar 10%
-1. CSS kvikun 20% _Lykilmatsþáttur_ 
+1. CSS kvikun 20%
 1. Undirbúningur vefs 10% 
 1. Framleiðsla vefs 25% _Lykilmatsþáttur_
 
