@@ -1,4 +1,4 @@
-# Flókin stílbrögð - í endurskoðun
+# Flókin stílbrögð 
 
 ### Markmið:
 Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
