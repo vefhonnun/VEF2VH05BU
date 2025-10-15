@@ -1,4 +1,4 @@
-# Fellilistar og sprettigluggi
+# Flókin stílbrögð - í endurskoðun
 
 ### Markmið:
 Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
@@ -19,7 +19,7 @@ Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
+Dæmi: [Pop up Modal](https://picocss.com/docs/modal)
 
 ### Námsmat, lykilmatsþáttur 20%
 
@@ -28,10 +28,8 @@ Dæmi: [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
 -	4% Fellilisti í efnisyfirliti (_drop down menu_)
     -	[≡] Tákn sem birtir fellilista (Drop down menu)
     -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
- -	4% Spjallbox (staðsett fyrir utan skjáinn)
-    -	Hnappur sem er staðsettur neðst í hægra horni vafrans og er alltaf sýnilegur
-    -	þegar smellt er á hnappinn birtist spjallboxið og þegar smellt er aftur á hnappinn dregst boxið af skjánum
--	2%  Sprettigluggi (_pop up modal_)
+- 3% Details list (_Accordion list_)
+-	3%  Sprettigluggi (_Modal_)
        
  #### Tímaverkefni  10% 
 
