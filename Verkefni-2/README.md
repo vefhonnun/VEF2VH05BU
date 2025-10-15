@@ -28,7 +28,9 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 ### Stjórnborð
 
 - Á "admin.html" á að útlitshanna viðmót á umsjónarkerfi vefs
-- 
+- Upplýsingar um hvern flokk á að setja í tagið `details` 
+- Upplýsingar um Notendur eru í `summary` taginu í `table`
+- [notendatafla](images/controlpanelOpen.jpg)
 
 ### Námsmat, lykilmatsþáttur 20%
 
