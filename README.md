@@ -17,7 +17,7 @@
 | 43 | Töflur og form  | 1 |  15 | - |  
 | 44 | Flókin stílbrögð (_Complex selectors_) | 2 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
 | 45 | SVG vigurteikningar (_Vector graphics_) | 3 | 10 | - |
-| 46 | CSS kvikun (_Transform, transition & animation_) | 4 |  <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
+| 46 | CSS kvikun (_Transform, transition & animation_) | 4 |  | 20 |
 | 47 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | -  |
 | 48 - 49 | Vefur fyrir viðburð, framleiðsla | 6 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
 | 50 | Vefur fyrir viðburð, frágangur |  |  |  |
