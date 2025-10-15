@@ -23,6 +23,10 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 
 Sjá nánar: [Pop up Modal](https://picocss.com/docs/modal)
 
+- Það á ekki að vera hægt að senda formið án þess að fylla út innsláttarreitina
+- þegar smellt er á **innskráning** þá förum við á nýja vefsíðu
+- ` <form action="admin.html" method="get"> ` (_í VEFÞ2VF05CU verður formið notað með réttum hætti_)
+
 ### Námsmat, lykilmatsþáttur 20%
 
 #### Æfingaverkefni 10%
