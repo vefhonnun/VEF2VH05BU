@@ -31,6 +31,8 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 - Upplýsingar um hvern flokk á að setja í tagið `details` 
 - Upplýsingar um Notendur eru í `summary` taginu í `table`
 - ![notendatafla](images/controlpanelOpen.jpg)
+- Taflan á að vera sveigjanleg 
+- ![notendatafla 2](images/controlpanelSmall.jpg)
 
 ### Námsmat, lykilmatsþáttur 20%
 
