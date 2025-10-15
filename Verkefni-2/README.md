@@ -15,7 +15,7 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 
 Dæmi: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
-### Sprettigluggi (_Pop up menu_)
+### Sprettigluggi (_Modal_)
 
 Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
@@ -35,7 +35,7 @@ Dæmi: [Pop up Modal](https://picocss.com/docs/modal)
 
  - Tímaverkefnið er lagt fyrir og unnið í lok 2. verkefnis (2 kennslustundir)
  - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
- - Nemendur búa til vefsíðu og nota allar tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 og 2. 
+ - Nemendur nýta sér tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 og 2. 
 
 
 #### Verkefnaskil
