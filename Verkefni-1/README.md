@@ -28,7 +28,6 @@ Búum til vefsíðu og tengjum Pico safnið við síðuna. Við sækjum allan [_
 - [Leturstillingar](https://picocss.com/docs/typography)
 - [Tenglar](https://picocss.com/docs/link)
 - [Hnappar](https://picocss.com/docs/button)
-- [Tafla](https://picocss.com/docs/table)
 
 ### Grid dálkakerfi (_layout_)
 
@@ -36,6 +35,10 @@ Pico kemur með einfalt dálkakerfi og viðmiðunarkerfi (_@media breakpoints_).
 
 - [Container](https://picocss.com/docs/container)
 - [Grid](https://picocss.com/docs/grid)
+
+### Efnisyfirlit
+
+- [Efnisyfirlit (Nav)](https://picocss.com/docs/nav)
 
 ### Sérstillingar
 
@@ -69,6 +72,8 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 ![töflumynd 2](myndir/smallTable.JPG)
 
+- [Tafla](https://picocss.com/docs/table)
+
 > Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
 > Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
@@ -83,8 +88,10 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   - radio 
   - checkbox 
   - option select 
-  - textarea  
-
+  - textarea
+ 
+- [Sjá nánar á Pico CSS Form](https://picocss.com/docs/forms)
+  
 #### Réttritun (_validation_)
 Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
 
