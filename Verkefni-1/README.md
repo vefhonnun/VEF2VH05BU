@@ -109,6 +109,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
     - Leturval - leturnotkun
     - Forsíðumynd í 3 mismunandi stærðum L, M, S.
 * Tafla	5%
+  * Taflan aðlagast skjástærð
 * Form	5%				
   * innsláttarreitir eru skilyrtir (_required_)	
 
