@@ -70,7 +70,7 @@ Skipulag html  töflu er með ósveigjanlegu sniði nema farið sé í sérniðn
 
 ![töflumynd](myndir/laptops2.jpg)
 
-Í farsímaskjáum á taflan að aðlagast skjástærð
+Í farsímaskjáum á taflan að aðlagast skjástærð. [Tafla gerð sveigjanleg með CSS](Námsefni-1/tablemix.css)
 
 ![töflumynd 2](myndir/smallTable.JPG)
 
