@@ -2,7 +2,7 @@
 
 Vigurteikning er XML vektormyndasnið til að skilgreina tvívíddar grafík. Vigurteikningar eru notaðar í öllum leturgerðum (_fonts_) í tölvunni þinni og flest táknin sem þú sérð í símanum þínum eru vigurteikningar.
 
-![SVG lógó](Námsefni-3/SVG-symbol/Logo-1.svg)
+![SVG lógó](Námsefni-3/SVG-symbol/Logo-200.svg)
 
 Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
 
