@@ -5,16 +5,16 @@
   * _„transform“_ 
   * _„animation“_
 
-## Áríðandi tilkynning
+### Áríðandi tilkynning
 
 Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
 [Sjá nánar hér](https://www.w3schools.com/css/css3_animations.asp)
 
-## Myndasýning (_Slideshow_)
+### Myndasýning (_Slideshow_)
 
 Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
-## Spunatákn (_spinner_) 
+### Spunatákn (_spinner_) 
 
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með SVG tákni sem hreyfist. 
 
@@ -27,6 +27,12 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 - [Dæmi um spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-4/img-loader.html)
 - [Dæmi um hvernig hægt er að búa til spinner í SVG skjali](https://www.fffuel.co/svg-spinner/)
+
+### Viðbragðshreyfing - Transform animation
+
+Settu viðbragðshreyfingu á hnapp í formi
+
+- [Sjá dæmi hér]()
 
 
 #### Námsmat 20% _Lykilmatsþáttur_
