@@ -8,6 +8,7 @@
 ## Áríðandi tilkynning
 
 Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
+[Sjá nánar hér](https://www.w3schools.com/css/css3_animations.asp)
 
 ## Myndasýning (_Slideshow_)
 
