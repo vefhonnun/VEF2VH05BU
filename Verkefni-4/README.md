@@ -30,16 +30,17 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 ### Viðbragðshreyfing - Transform animation
 
-Settu viðbragðshreyfingu á hnapp í formi
+Settu viðbragðshreyfingu á hnapp í formið á forsíðunni
 
 - [Sjá dæmi hér](https://animate.style/)
 
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
-- 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
+- 4% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
 - 8% Myndasýning (_slideshow_) 
-- 6% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- 4% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- 4% Viðbragsðshreyfing á hnapp (_Transform animation_)
 
 
 #### Vekefnaskil
