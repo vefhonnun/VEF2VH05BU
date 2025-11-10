@@ -31,10 +31,10 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
-- 4% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
-- 4% Myndasýning (_slideshow_) 
-- 4% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
-- 8% Tímaverkefni
+- 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
+- 8% Myndasýning (_slideshow_) 
+- 6% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+
 
 #### Vekefnaskil
 
