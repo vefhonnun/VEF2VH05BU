@@ -9,23 +9,23 @@
 
 Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
 [Sjá nánar hér](https://www.w3schools.com/css/css3_animations.asp)
-
-<style> 
-.aText {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  animation-name: myText;
-  animation-duration: 4s;
-}
-
-@keyframes myText {
-  from {background-color: red;}
-  to {background-color: yellow;}
-}
-</style>
-<p class="aText">Texti sem er með litaðan bakgrunn</p>
-
+<canvas>
+ <style> 
+ .aText {
+   width: 100px;
+   height: 100px;
+   background-color: red;
+   animation-name: myText;
+   animation-duration: 4s;
+ }
+ 
+ @keyframes myText {
+   from {background-color: red;}
+   to {background-color: yellow;}
+ }
+ </style>
+ <p class="aText">Texti sem er með litaðan bakgrunn</p>
+</canvas>
 ## Myndasýning (_Slideshow_)
 
 Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
