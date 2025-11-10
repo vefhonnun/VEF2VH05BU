@@ -32,7 +32,7 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 Settu viðbragðshreyfingu á hnapp í formi
 
-- [Sjá dæmi hér]()
+- [Sjá dæmi hér](https://animate.style/)
 
 
 #### Námsmat 20% _Lykilmatsþáttur_
