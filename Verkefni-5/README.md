@@ -15,8 +15,6 @@
 1. Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
    - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
 
-> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
-
 ### Efnisöflun
 
 > Skrifaðu niður hvað á að koma fram á vefnum 
@@ -50,7 +48,7 @@
 
 ### Verkefnaskil
 
-- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 6
+- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 5
 
 #### _Einkunn verður birt í Innu_
 
