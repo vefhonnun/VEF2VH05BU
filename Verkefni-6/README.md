@@ -1,11 +1,11 @@
-# Verkefni 7 
+# Verkefni 6
 
 # Vefur fyrir viðburð
 
 ### Markmið:
 Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
+### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 5. verkefnis
 
 Það sem á að vera á vefnum:
 
@@ -41,7 +41,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 #### Verkefnaskil
 
-- Öllum vinnugögnum skal skilað í Verkefni 7 í Innu 
+- Öllum vinnugögnum skal skilað í Verkefni 6 í Innu 
 - Tengill á vefinn https://(_notandi_).github.io/(_undirlén_) skráð í _athugasemd til kennara_
 
 #### Einkunn verður birt í Innu
