@@ -4,12 +4,12 @@
 Dæmi um einfalt skipurit
 
 ```
-  Forsíða (index)
-  |  |_ Vöru- eða þjónustulýsing 
-  |       |_ Kaupa vöru eða þjónustu (form)
-  |       |  |_ Takk skilaboð :)
-  |       |_ Spjallbox
-  |_ Um okkur
+  :. Forsíða (index)
+  :  |_ Vöru- eða þjónustulýsing 
+  :       |_ Kaupa vöru eða þjónustu (form)
+  :       |  |_ Takk skilaboð :)
+  :       |_ Spjallbox
+  :. Um okkur
       |_ helstu upplýsingar
       |_ staðsetning ofl
   
