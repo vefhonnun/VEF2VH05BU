@@ -8,6 +8,8 @@ Dæmi um einfalt skipurit
   |  |_ Vöru- eða þjónustulýsing
   |        |_ Kaupa vöru eða þjónustu    
   |_ Um okkur
+    |_ helstu upplýsingar
+    |_ staðsetning ofl
   
 ```
 
