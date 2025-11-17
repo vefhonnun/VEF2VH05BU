@@ -6,12 +6,12 @@ Dæmi um einfalt skipurit
 ```
   Forsíða (index)
   |  |_ Vöru- eða þjónustulýsing 
-  |        |_ Kaupa vöru eða þjónustu (form)
-  |           |_ Takk skilaboð :)
-  |        |_ Spjallbox
+  |       |_ Kaupa vöru eða þjónustu (form)
+  |       |  |_ Takk skilaboð :)
+  |       |_ Spjallbox
   |_ Um okkur
-    |_ helstu upplýsingar
-    |_ staðsetning ofl
+      |_ helstu upplýsingar
+      |_ staðsetning ofl
   
 ```
 
