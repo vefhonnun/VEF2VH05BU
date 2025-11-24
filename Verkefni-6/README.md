@@ -26,7 +26,8 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
     * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
--	**7%** Útlitshönnun  
+-	**7%** Útlitshönnun
+    * Pico stílsíðusafn
     * Tvískipt litasamsetning (_Light & dark_) 
     * Leturval
 - **5%** Kvikun  
