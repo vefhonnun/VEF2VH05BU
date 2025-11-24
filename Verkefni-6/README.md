@@ -20,16 +20,17 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 ### Námsmat 25% - _Lykilmatsþáttur_
 
--	**7%** Skipulag - innihald  
+-	**7%** Innihald  
    	* SVG lógo er í &lt;header>
-    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
+    * Myndir og texti
     * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
--	**7%** Útlitshönnun
+-	**7%** Skipulag og útlitshönnun
     * Pico stílsíðusafn
     * Tvískipt litasamsetning (_Light & dark_) 
     * Leturval
+    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
 - **5%** Kvikun  
     * Kvikun (_Animation_) 
     * Myndasýning (_Slideshow_) ef það á við
