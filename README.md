@@ -64,7 +64,7 @@
 1. CSS kvikun 5%
    - stöðumat 25%
 1. Undirbúningur vefs 10% 
-1. Framleiðsla vefs 25% _Lykilmatsþáttur_
+1. Framleiðsla vefs 20% _Lykilmatsþáttur_
 
 > _Lágmarkseinkun lykilmatsþáttar er 5. Ef einkunn er undir 4.5 þá stendur hún sem lokaeinkun úr áfanganum_
 
