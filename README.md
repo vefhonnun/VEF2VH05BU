@@ -11,17 +11,19 @@
 
 #### 2025 haust, spönn 1.
 
-| Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
+| Vika  | Verkefni  | Nr. | % |
 |---|---|---|---|---|
-| 42 | HTML & CSS vinnurammi (_framework_)  | 1 | - | - |
-| 43 | Töflur og form  | 1 |  15 | - |  
-| 44 | Flókin stílbrögð (_Complex selectors_) | 2 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 45 | SVG vigurteikningar (_Vector graphics_) | 3 | 10 | - |
-| 46 | CSS kvikun (_Transform, transition & animation_) | 4 |  | 20 |
-| 47 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | -  |
-| 48 - 49 | Vefur fyrir viðburð, framleiðsla | 6 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
-| 50 | Vefur fyrir viðburð, frágangur |  |  |  |
-| 51 | _Námsmat_ | samtals:  | 35 | 65 |
+| 2 | HTML & CSS vinnurammi (_framework_)  | 1 | - |
+| 3 | Töflur og form  | 1 |  5 |  
+| 4 | Flókin stílbrögð (_Complex selectors_) | 2 | 5 |
+| 4 | **_Stöðumat_** | - | 25% |  
+| 5 | SVG vigurteikningar (_Vector graphics_) | 3 | 5 |
+| 6 | CSS kvikun (_Transform, transition & animation_) | 4 | 5 |
+| 6 | **_Stöðumat - lykilmatsþáttur_** | - | 25% | 
+| 7 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | 
+| 8 | Vefur fyrir viðburð, framleiðsla | 6  |   |
+| 9 | Vefur fyrir viðburð, frágangur | 6 | 20 | 
+| 10 | _Námsmat_ | samtals:  |  | 100 |
 
 ### Vikuáætlun
 
