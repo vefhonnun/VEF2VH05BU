@@ -23,7 +23,7 @@
 | 7 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | 
 | 8 | Vefur fyrir viðburð, framleiðsla | 6  |   |
 | 9 | Vefur fyrir viðburð, frágangur | 6 | 20 | 
-| 10 | _Námsmat_ | samtals:  |  | 100 |
+| 10 | _Námsmat_ | samtals:  | 100 |
 
 ### Vikuáætlun
 
