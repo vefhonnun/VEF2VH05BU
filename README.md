@@ -14,7 +14,7 @@
 | Vika  | Verkefni  | Nr. | % |
 |---|---|---|---|
 | 2 | HTML & CSS vinnurammi (_framework_)  | 1 | - |
-| 3 | Töflur og form  | 1 |  5 |  
+| 3 | Töflur og form  | 1 & 2 |  5 |  
 | 4 | Flókin stílbrögð (_Complex selectors_) | 2 | 5 |
 | 4 | **_Stöðumat_** | - | 25% |  
 | 5 | SVG vigurteikningar (_Vector graphics_) | 3 | 5 |
