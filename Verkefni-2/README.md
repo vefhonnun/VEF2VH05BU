@@ -34,27 +34,18 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
 - Taflan á að vera sveigjanleg 
 - ![notendatafla 2](images/controlpanelSmall.jpg)
 
-### Námsmat, lykilmatsþáttur 20%
+### Námsmat 5%
 
-#### Æfingaverkefni 10%
-
--	4% Fellilisti í efnisyfirliti (_drop down menu_)
+- Fellilisti í efnisyfirliti (_drop down menu_)
     -	[≡] Tákn sem birtir fellilista (Drop down menu)
     -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
-- 3% Details list (_Accordion list_)
--	3%  Sprettigluggi (_Modal_)
-       
- #### Tímaverkefni  10% 
-
- - Tímaverkefnið er lagt fyrir og unnið í lok 2. verkefnis (2 kennslustundir)
- - Lagt er fyrir texti og myndir sem á að nota í tímaverkefninu.
- - Nemendur nýta sér tæknilegar lausnir sem búið er að fara yfir í verkefnum 1 og 2. 
+- Details list (_Accordion list_)
+- Sprettigluggi (_Modal_)
 
 
 #### Verkefnaskil
 
--  _Inna/VEFÞ2VH05BU/Verkefni-2_  í **.zip** skrá.
-   -  Í **.zip** skránni eiga að vera 2 möppur, með tímaverkefni og æfingaverkefni. 
+-  Inna/VEFÞ2VH05BU/Verkefni-2  í **.zip** skrá.
 
 #### Einkunn verður birt í Innu
 
@@ -64,10 +55,11 @@ _Gangi þér vel_
 
 #### Námsefni
 
-* [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
+* [Pico CSS](https://picocss.com/)
 * [Complex Selectors](Námsefni-2/README.md)
 * [Transition og transform](Námsefni-2/Transition-Transform.md)
 * [Hulduklasar (_Pseudo classes_)](Námsefni-2/pseudo-classes.md)
+* [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
 
 #### Flóknir stílar - _Complex Selectors_
 

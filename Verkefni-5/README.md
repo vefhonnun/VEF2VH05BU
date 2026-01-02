@@ -36,14 +36,14 @@
 
 [Sjá nánar](Námsefni-5/README.md)
 
-### Námsmat 10%
+### Námsmat 5%
 
-* Hugmyndavinna og efnisöflun 4%
+* Hugmyndavinna og efnisöflun 
   * Lýsing á verkefnavali
   * Texti og myndir sem koma til greina að nota
-* Efnisyfirlit og tengirit 3%
+* Efnisyfirlit og tengirit 
   *  _Site-map & Wireframe_
-* Stílbragð - _Style tyle_  3%
+* Stílbragð - _Style tyle_  
   * Litaþema og leturval 
 
 ### Verkefnaskil

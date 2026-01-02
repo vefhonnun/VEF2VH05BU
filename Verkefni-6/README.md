@@ -52,7 +52,7 @@ _Gangi þér vel_ 😊
 
 ---
 
-#### Frágagnur og uppsetning á Github.io
+#### Bjargir
 
 * [Frágangur](Frágangur)
 * [Uppsetning vefs á Github.io](uppsetning-github.io)

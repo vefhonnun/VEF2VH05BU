@@ -24,16 +24,16 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 <!-- mynd hér í vinnslu -->
 - [Námsefni](Námsefni-3/README.md)
 
-### Námsmat 10%:  
+### Námsmat 5%:  
 
-- 5% SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
-- 2.5% Icomoon táknletur (_iconfont_) með innfluttu tákni
-- 2.5% Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
+- SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
+- Icomoon táknletur (_iconfont_) með innfluttu tákni
+- Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
 
 #### Verkefnaskil
 
 - SVG tákn  
-- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá.
+- Vefsíðu og stílsíðum er skilað í Innu/VEFÞ1VG/Verkefni-3 í **.zip** skrá.
 
 #### Einkunn verður birt í Innu
 

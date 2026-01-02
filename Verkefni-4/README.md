@@ -35,17 +35,17 @@ Settu viðbragðshreyfingu á hnapp í formið á forsíðunni
 - [Sjá dæmi hér](https://animate.style/)
 
 
-#### Námsmat 20% _Lykilmatsþáttur_
+#### Námsmat 5%
 
-- 4% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
-- 8% Myndasýning (_slideshow_) 
-- 4% Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
-- 4% Viðbragsðshreyfing á hnapp (_Transform animation_)
+- Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
+- Myndasýning (_slideshow_) 
+- Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
+- Viðbragsðshreyfing á hnapp (_Transform animation_)
 
 
 #### Vekefnaskil
 
-Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ2VH05AU/Verkefni-5_ í **.zip** skrá. 
+Vefsíðu og stílsíðum er skilað í Innu/VEFÞ2VH05AU/Verkefni-4 í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
