@@ -41,6 +41,7 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
     -	Allir tenglar sýnilegir í einni línu efst í vefsíðu í 60rem + skjástærð
 - Details list (_Accordion list_)
 - Sprettigluggi (_Modal_)
+- Admin html síða
 
 
 #### Verkefnaskil
