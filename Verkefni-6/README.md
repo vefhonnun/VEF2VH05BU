@@ -1,11 +1,11 @@
-# Verkefni 7 
+# Verkefni 6
 
 # Vefur fyrir viðburð
 
 ### Markmið:
 Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
+### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 5. verkefnis
 
 Það sem á að vera á vefnum:
 
@@ -20,15 +20,17 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 ### Námsmat 25% - _Lykilmatsþáttur_
 
--	**7%** Skipulag - innihald  
+-	**7%** Innihald  
    	* SVG lógo er í &lt;header>
-    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
+    * Myndir og texti
     * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
--	**7%** Útlitshönnun  
+-	**7%** Skipulag og útlitshönnun
+    * Pico stílsíðusafn
     * Tvískipt litasamsetning (_Light & dark_) 
     * Leturval
+    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
 - **5%** Kvikun  
     * Kvikun (_Animation_) 
     * Myndasýning (_Slideshow_) ef það á við
@@ -41,7 +43,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 #### Verkefnaskil
 
-- Öllum vinnugögnum skal skilað í Verkefni 7 í Innu 
+- Öllum vinnugögnum skal skilað í Verkefni 6 í Innu 
 - Tengill á vefinn https://(_notandi_).github.io/(_undirlén_) skráð í _athugasemd til kennara_
 
 #### Einkunn verður birt í Innu
@@ -50,7 +52,7 @@ _Gangi þér vel_ 😊
 
 ---
 
-#### Frágagnur og uppsetning á Github.io
+#### Bjargir
 
 * [Frágangur](Frágangur)
 * [Uppsetning vefs á Github.io](uppsetning-github.io)

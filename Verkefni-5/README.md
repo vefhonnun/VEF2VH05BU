@@ -15,8 +15,6 @@
 1. Það er kostur ef einhver söluhvati er á vefnum sem viðskiptavinir geta tekið þátt í
    - gerið ráð fyrir samskiptaformi til að skrá sig til þátttöku í leik
 
-> Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
-
 ### Efnisöflun
 
 > Skrifaðu niður hvað á að koma fram á vefnum 
@@ -38,19 +36,19 @@
 
 [Sjá nánar](Námsefni-5/README.md)
 
-### Námsmat 10%
+### Námsmat 5%
 
-* Hugmyndavinna og efnisöflun 4%
+* Hugmyndavinna og efnisöflun 
   * Lýsing á verkefnavali
   * Texti og myndir sem koma til greina að nota
-* Efnisyfirlit og tengirit 3%
+* Efnisyfirlit og tengirit 
   *  _Site-map & Wireframe_
-* Stílbragð - _Style tyle_  3%
+* Stílbragð - _Style tyle_  
   * Litaþema og leturval 
 
 ### Verkefnaskil
 
-- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 6
+- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 5
 
 #### _Einkunn verður birt í Innu_
 

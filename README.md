@@ -9,32 +9,34 @@
 
 ## Námsáætlun
 
-#### 2025 haust, spönn 1.
+#### 2026 vor, spönn 1.
 
-| Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
-|---|---|---|---|---|
-| 42 | HTML & CSS vinnurammi (_framework_)  | 1 | - | - |
-| 43 | Töflur og form  | 1 |  15 | - |  
-| 44 | Flókin stílbrögð (_Complex selectors_) | 2 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
-| 45 | SVG vigurteikningar (_Vector graphics_) | 3 | 10 | - |
-| 46 | CSS kvikun (_Transform, transition & animation_) | 4 |  | 20 |
-| 47 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | -  |
-| 48 - 49 | Vefur fyrir viðburð, framleiðsla | 6 | <sub> **_Lykilmatsþáttur_** </sub>  | 25  |
-| 50 | Vefur fyrir viðburð, frágangur |  |  |  |
-| 51 | _Námsmat_ | samtals:  | 35 | 65 |
+| Vika  | Verkefni  | Nr. | % |
+|---|---|---|---|
+| 2 | HTML & CSS vinnurammi (_framework_)  | 1 | - |
+| 3 | Töflur og form  | 1 & 2 |  5 |  
+| 4 | Flókin stílbrögð (_Complex selectors_) | 2 | 5 |
+| 4 | **_Stöðumat_** | - | 25% |  
+| 5 | SVG vigurteikningar (_Vector graphics_) | 3 | 5 |
+| 6 | CSS kvikun (_Transform, transition & animation_) | 4 | 5 |
+| 6 | **_Stöðumat - lykilmatsþáttur_** | - | 25% | 
+| 7 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | 
+| 8 | Vefur fyrir viðburð, framleiðsla | 6  |   |
+| 9 | Vefur fyrir viðburð, frágangur | 6 | 20 | 
+| 10 | _Námsmat_ | samtals:  | 100 |
 
 ### Vikuáætlun
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 42 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
-| 43 | Töflur RWD | Form | Form validation | Complex selectors |
-| 44 | Drop down menu | Accordion menu | Pop up menu | **Tímaverkefni 1** |  
-| 45 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
-| 46 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
-| 47 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
-| 48 - 49 | Vefhönnun | Framleiðsla | Framleiðsla |  **_Lykilmatsþáttur_** |  
-| 50 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 12/12. Kl. 23:59** | 
+| 2 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
+| 3 | Töflur RWD | Form | Form validation | Complex selectors |
+| 4 | Drop down menu | Accordion menu | Pop up menu | **Stöðumat** |  
+| 5 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
+| 6 | Kvikun | Transform - transition | @keyframe animation | **Stöðumat** |
+| 7 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
+| 8 - 9 | Vefhönnun | Framleiðsla | Framleiðsla | Framleiðsla |  
+| 10 | Lokaverkefni |Frágangur | Vefur á Github.io | **Skil 04/03. Kl. 23:59** | 
 
 ### Verklýsing
 
@@ -55,12 +57,14 @@
 
  ### Námsmat
 
-1. Vinnurammi, töflur og form 15% 
-1. Flókin stílbrögð 20% _Lykilmatsþáttur_
-1. SVG vigurteikningar 10%
-1. CSS kvikun 20%
+1. Vinnurammi, töflur og form 5% 
+1. Flókin stílbrögð 5%
+   - stöðumat 25%
+1. SVG vigurteikningar 5%
+1. CSS kvikun 5%
+   - stöðumat 25%
 1. Undirbúningur vefs 10% 
-1. Framleiðsla vefs 25% _Lykilmatsþáttur_
+1. Framleiðsla vefs 20% _Lykilmatsþáttur_
 
 > _Lágmarkseinkun lykilmatsþáttar er 5. Ef einkunn er undir 4.5 þá stendur hún sem lokaeinkun úr áfanganum_
 
@@ -69,8 +73,6 @@
 ### Verkefnaskil 
 
 -  Æfingaverkefnum er skilað í lok hvers verkefnis í Innu/VEFÞ2VH05AU/verkefni{n} (_í .zip skrá_)
-
--  Tímaverkefnin eru unnin í kennslustund og skilað í lok kennslustundar (_í .zip skrá_) 
 
 -  Einkunn fyrir verkefnin birtast í Innu
    

@@ -99,21 +99,21 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 ---
 
-### Námsmat: 15%
+### Námsmat: 5%
 
-* Skipulag – Layout	2%			
+* Skipulag – Layout	
   * Dálkaskipulag - Grid 
   *	Svegjanleg hönnun
-* Útlithönnun 3%
+* Útlithönnun 
     - Litasamsetning
     - Leturval - leturnotkun
     - Forsíðumynd í 3 mismunandi stærðum L, M, S.
-* Tafla	5%
+* Tafla	
   * Taflan aðlagast skjástærð
-* Form	5%				
+* Form	
   * innsláttarreitir eru skilyrtir (_required_)	
 
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í **.zip** skrá. 
+Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ2VH05BU/Verkefni-2_ í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
