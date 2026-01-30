@@ -64,11 +64,11 @@ heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation
 
 Þó svo að hreyfing hluta á vefsíðu skapi hrifningu og aðstoði notendur þá þarf alltaf að fara meðalveginn og vera ekki með of mikið áreiti á skjánum.  Auglýsingar sem blikka eða með ágengu myndefni truflar fólk.  
 
-Nú er hægt að stjórna því hvort kvikun sé í gangi í vöfrum eða ekki í notendastillingum tölvunnar. CSS staðallinn styður það eins og litaþema og skjástærðir með @media reglu sem nefnist **` @media (prefers-reduced-motion: reduce) {...} `**. Í PICO stílsíðusafninu er er þessi regla neðst í kóðanaum.
+Nú er hægt að stjórna því hvort kvikun sé í gangi í vöfrum eða ekki í notendastillingum tölvunnar. CSS staðallinn styður það eins og litaþema og skjástærðir með @media reglu sem nefnist **` @media (prefers-reduced-motion: reduce) {...} `**. Í PICO stílsíðusafninu er er þessi regla neðst í kóðanum.
 
 Í Windows 11 er hægt að velja um hvort kvikun sé virk eða ekki
 
-![Win 11 ](Námsefni-4/Accessibility-VisualEffects.png)
+![Win-11](Accessibility-VisualEffects.png)
 
 Sjá nánar á: https://web.dev/articles/prefers-reduced-motion
 
