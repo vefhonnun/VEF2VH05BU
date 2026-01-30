@@ -41,24 +41,36 @@
 ` animation: duration timing delay iteration direction fill play name; `
 
 ```CSS
-  /* @keyframes duration | easing-function | delay |
-  iteration-count | direction | fill-mode | play-state | name */
-  animation: 3s ease-in 1s 2 reverse both paused slide-in;
-  
-  /* @keyframes duration | easing-function | delay | name */
-  animation: 3s linear 1s slide-in;
-  
-  /* two animations */
-  animation:
-    3s linear slide-in,
-    3s ease-out 5s slide-out;
+    /* @keyframes duration | easing-function | delay |
+    iteration-count | direction | fill-mode | play-state | name */
+    animation: 3s ease-in 1s 2 reverse both paused slide-in;
+    
+    /* @keyframes duration | easing-function | delay | name */
+    animation: 3s linear 1s slide-in;
+    
+    /* two animations */
+    animation:
+      3s linear slide-in,
+      3s ease-out 5s slide-out;
 ```
 
-Note: for the shorthand to work properly, make sure you list the values in the same order as listed above.
-As you're using the shorthand, there's no need to list the subproperties – you just need to define the values you need. You don't need to use all of the subproperties, but animation-name and animation-duration are necessary for the CSS animation property to work as intended.
-
+> Note: for the shorthand to work properly, make sure you list the values in the same order as listed above. As you're using the shorthand, there's no need to list the subproperties – you just need to define the values you need. You don't need to use all of the subproperties, but animation-name and animation-duration are necessary for the CSS animation property to work as intended.
 
 heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+
+---
+
+### Aðgengi, til umhugsunar
+
+Þó svo að hreyfing hluta á vefsíðu skapi hrifningu og aðstoði notendur þá þarf alltaf að fara meðalveginn og vera ekki með of mikið áreiti á skjánum.  Auglýsingar sem blikka eða með ágengu myndefni truflar fólk.  
+
+Nú er hægt að stjórna því hvort kvikun sé í gangi í vöfrum eða ekki í notendastillingum tölvunnar. CSS staðallinn styður það eins og litaþema og skjástærðir með @media reglu sem nefnist **` @media (prefers-reduced-motion: reduce) {...} `**. Í PICO stílsíðusafninu er er þessi regla neðst í kóðanaum.
+
+Í Windows 11 er hægt að velja um hvort kvikun sé virk eða ekki
+
+![Win 11 ](Námsefni-4/Accessibility-VisualEffects.png)
+
+Sjá nánar á: https://web.dev/articles/prefers-reduced-motion
 
 ---
 
