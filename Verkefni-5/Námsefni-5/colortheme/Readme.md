@@ -1,5 +1,7 @@
 # Litaþemu fyrir vefsíður
 
+Pico stílsíðusafnið býður upp á litaþemu sem hægt er að nýta í lokaverkefninu, [sjá nánar hér.](https://picocss.com/docs/colors)
+
 1. Hér eru litaþemu sem hægt er að hafa til hliðsjónar þegar efni vefs hefur verið valið. Rétt litaval getur aukið sjónræn áhrif vefsíðu.
 1. **Metallic Chic** <br> ![litaþema 2](2.jpg)
 1. **Deep Vintage Mood** <br> ![litaþema 3](3.jpg)
