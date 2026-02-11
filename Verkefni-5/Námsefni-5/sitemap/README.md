@@ -12,7 +12,8 @@ Dæmi um einfalt skipurit
   :. Um okkur
       |_ helstu upplýsingar
       |_ staðsetning ofl
-  
+  :       |_ Spjallbox
+
 ```
 
 #### Skipurit unnið í Draw.io
