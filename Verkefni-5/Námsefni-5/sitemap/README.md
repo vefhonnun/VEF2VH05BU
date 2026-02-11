@@ -5,7 +5,8 @@ Dæmi um einfalt skipurit
 
 ```
   :. Forsíða (index)
-  :   |_ Vöru- eða þjónustulýsing 
+  :  Kynning á vöru eða þjónustu
+  :   |_ Nánari upplýsingar um vöru / þjónustu 
   :       |_ Kaupa vöru eða þjónustu (form)
   :       |  |_ Takk skilaboð :)
   :       |_ Spjallbox
