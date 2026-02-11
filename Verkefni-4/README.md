@@ -39,7 +39,6 @@ Settu viðbragðshreyfingu á hnapp í formið á forsíðunni
 
 - Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
 - Myndasýning (_slideshow_) 
-- Spunatákn (_spinner) birtist á meðan stór mynd er hlaðið inn í vafra (_vafri er stilltur á hæga 4G tengingu_)
 - Viðbragsðshreyfing á hnapp (_Transform animation_)
 
 
