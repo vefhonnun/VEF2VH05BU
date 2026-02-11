@@ -6,11 +6,10 @@ Dæmi um einfalt skipurit
 ```
   :.. Forsíða (index) - Kynning á vöru eða þjónustu
       |_ Nánari upplýsingar um vöru / þjónustu 
-          |_ Kaupa vöru eða þjónustu (form)
-          :  |_ Takk skilaboð :)
-  :..   |_ Spjallbox
-  :.. Um okkur - helstu upplýsingar, staðsetning ofl.
-  :..   |_ Spjallbox
+         |_ Kaupa vöru eða þjónustu (form)
+         :  |_ Takk skilaboð :)
+  :.. |_ Spjallbox
+  :.. |_ Um okkur - helstu upplýsingar, staðsetning ofl.
 
 ```
 
