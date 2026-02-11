@@ -4,13 +4,12 @@
 Dæmi um einfalt skipurit
 
 ```
-  :. Forsíða (index)
-  :  Kynning á vöru eða þjónustu
+  :.. Forsíða (index) - Kynning á vöru eða þjónustu
   :   |_ Nánari upplýsingar um vöru / þjónustu 
   :       |_ Kaupa vöru eða þjónustu (form)
   :       |  |_ Takk skilaboð :)
   :       |_ Spjallbox
-  :. Um okkur
+  :.. Um okkur
       |_ helstu upplýsingar
       |_ staðsetning ofl
   :       |_ Spjallbox
