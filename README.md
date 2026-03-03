@@ -78,3 +78,6 @@
 
 -  Einkunn fyrir verkefnin birtast í Innu
    
+#### Bjargir
+
+[Vefhönnun wiki](https://github.com/vefhonnun/VEF2VH05BU/wiki)
