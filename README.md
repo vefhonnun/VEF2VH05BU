@@ -9,7 +9,7 @@
 
 ## Námsáætlun
 
-#### 2026 vor, spönn 1.
+#### 2026 vor, spönn 2.
 
 | Vika  | Verkefni  | Nr. | % |
 |---|---|---|---|
