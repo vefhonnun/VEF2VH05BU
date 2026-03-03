@@ -21,10 +21,10 @@
 | 15 | SVG vigurteikningar (_Vector graphics_) | 3 |  |
 | 16 | Leturtákn (_Icomoon font_) | 3 | 5 |
 | 17 | CSS kvikun (_Transform, transition & animation_) | 4 | 5 |
-| - | **_Stöðupróf - lykilmatsþáttur_** | - | 25 | 
-| 18 | Vefur fyrir viðburð, undirbúningur | 5 | 10 | 
+| -  | **_Stöðupróf - lykilmatsþáttur_** | - | 25 | 
+| 18 | Vefur fyrir viðburð, undirbúningur | 5 | 5 | 
 | 19 | Vefur fyrir viðburð, framleiðsla | 6  |   |
-| 20 | Vefur fyrir viðburð, frágangur | 6 | 20 | 
+| 20 | Vefur fyrir viðburð, frágangur | 6 | 25 | 
 | 21 | Síðasti kennsludagur 18/05. _Námsmat_ | Samtals | 100 |
 
 ### Vikuáætlun
