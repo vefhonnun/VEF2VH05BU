@@ -16,7 +16,7 @@
 | 11 | HTML & CSS vinnurammi (_framework_)  | 1 | - |
 | 12 | Töflur og form  | 1 & 2 |  5 |  
 | 13 | Flókin stílbrögð (_Complex selectors_) | 2 | 5 |
-| -  | **_Stöðupróf_** | - | 25% |  
+| -  | **_Stöðupróf_** | - | 25 |  
 | 14 | Páskafrí |  |  | 
 | 15 | SVG vigurteikningar (_Vector graphics_) | 3 |  |
 | 16 | Leturtákn (_Icomoon font_) | 3 | 5 |
