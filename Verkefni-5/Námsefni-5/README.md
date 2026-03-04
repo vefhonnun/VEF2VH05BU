@@ -49,13 +49,7 @@ Hönnunarferlið er oft ítrekað, þar sem þú gætir þurft að fara aftur og
 * [Figma](https://www.figma.com/)
 * [Sketch - Mac](https://www.sketch.com/)
 * [Webflow](https://webflow.com/)
-* Inkscape
-  * [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
-    * [Inkscape custom palette](https://manjitkarve.com/posts/inkscape-custom-palette/)
-  * [Inkscape Custom Palette (YouTube video)](https://www.youtube.com/watch?v=Y1E8YWOB_Yc)
-  * [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
-  * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
-  * [Inkscape leiðbeiningar](https://thepixelproducer.com/category/inkscape/)
+* [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
 
 #### Notendaupplifun
 
