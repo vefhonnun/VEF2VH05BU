@@ -4,6 +4,7 @@
 
 - Verktaki og verkkaupi gera með sér samkomulag
   - innihald vefs (texti og myndefni) er tilbúið
+  - Leiðarkerfi og flæðirit klárt
   - Fyrirmynd er til staðar (_prototype_)
   - Litaval og letur er í lagi
 
