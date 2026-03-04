@@ -18,7 +18,7 @@
 
 ---
 
-Næsta skref er notendaviðmótshönnun (UI Design) en það gefst ekki tími til að gera frumgerð (_Prototype_):
+Næsta skref er notendaviðmótshönnun (UI Design, _Prototype_):
 
 - Útlit og tilfinning: Hönnunin ætti að vera sjónrænt aðlaðandi og samræmast vörumerkinu þínu.
 - Notendaupplifun (UX): Tryggðu að notendur geti auðveldlega skilið og notað appið. Þetta felur í sér að huga að leiðsögn, hnöppum, og öðrum samskiptum.
