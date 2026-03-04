@@ -7,9 +7,7 @@
   - Fyrirmynd er til staðar (_prototype_)
   - Litaval og letur er í lagi
 
-! Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
-
-Teiknaðu einfaldar grunnmyndir af mismunandi skjám og flæði notenda í gegnum vefsíðuna. Þetta hjálpar til við að sjá heildarmyndina áður en farið er í smáatriðin.
+> Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
 
 1. [Hugmyndavinna](hugmyndavinna/README.md)
 1. [Litaþema fyrir vef](colortheme/Readme.md)
