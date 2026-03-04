@@ -16,10 +16,6 @@
   * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
   * [Inkscape leiðbeiningar](https://thepixelproducer.com/category/inkscape/)
 
-#### GH Wiki
-
-- [Vigurteikningar](https://github.com/vefhonnun/24H-verkefni/wiki#skalanleg-vigurteikning---scalable-vector-graphics)
-
 #### Lesefni
 
 * [Wikipedia - SVG](https://en.wikipedia.org/wiki/SVG)
