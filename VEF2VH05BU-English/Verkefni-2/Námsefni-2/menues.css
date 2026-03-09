@@ -1,0 +1,167 @@
+.topnav {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin:0;
+    padding: 0 1rem;
+}
+.logo {
+    padding-top: 1rem;
+    text-align: center;
+    margin: 0;
+}
+/* fellilisti */
+#toggle {      
+    display: none;        /* checkbox */
+}
+.topnav label {          /* takki */
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+    font-size: 1.5rem;
+    border: 1px solid var(--pico-color);
+    border-radius: 3px;
+    padding: 0 6px;
+    background-color: var(--pico-color-cyan-50);
+    z-index: 99;
+}
+#toggle:checked ~ label {
+    background-color: var(--pico-color);
+    color: var(--pico-color-cyan-50);
+}
+.topmenu {              /* efnisyfirlit tenglar */
+    position: fixed; 
+    top: 3.5rem;
+    right: -40rem;
+    width: 92%;
+    border: 1px solid;
+    border-radius: 4px;
+    background-color: var(--pico-color-cyan-50);
+    z-index: 9;
+    transition: right 0.5s ease-out;
+}
+.topnav #toggle:checked ~ .topmenu {
+    right: 1rem;
+    transition: right 0.5s ease-in;
+}
+.topmenu a {
+    display: block;
+    text-align: center;
+    padding: .5rem 1rem;
+    border-bottom: 1px solid var(--pico-color);
+    text-decoration: none;
+}
+/* tákn í einni línu */
+.socialbutts {
+    text-align: center;
+}
+.socialbutts a {
+    display: inline-block;
+    text-decoration: none;
+    border: 0;
+    padding: 8px;
+}
+.searchLogin button {
+    display: block;
+    width: 80%;
+    margin: 1rem auto;
+}
+.topmenu input[type="search"] {
+    display: block;
+    margin: 1rem auto;
+    width: 80%;
+}
+/* footer veljara eigindi - selector attributes */
+footer ul{
+    margin: 0;
+    padding: 0;
+}
+footer li{
+    list-style-type: none;
+}
+footer a {
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    padding-left: 22px;
+    text-decoration: none;
+}
+footer a[href$=".pdf"] {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/pdf.png");
+}
+footer a[href$=".doc"] {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/doc.png");
+}
+footer a[href$=".jpg"] {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/image.png");
+}
+footer a[href$=".mp3"] {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/audio.png");
+}
+footer a[href$=".mp4"] {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/video.png");
+}
+
+/* Viðmið @media ipad */
+@media screen and (min-width: 960px) {
+    .topnav {
+        grid-template-columns: 1fr 6fr;
+        align-items: center;
+        border: none;
+    }
+    .logo {
+        padding: 0;
+    }
+    /* ath! */
+    .topnav label {
+        display: none;
+    }
+    .topmenu {
+        transition: none; /* engin hreyfing */
+        position: relative;
+        top: 0;
+        right: 0;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        align-items: center;
+        background-color: transparent;
+        border: 0;
+        width: 100%;
+    }
+    .topmenu section {
+        padding: 0;
+        margin: 0;
+    }
+    .topmenu a {
+        display: inline-block;
+        border: 0;
+        padding: 0 1rem;
+    }
+    .links section {
+        display: inline;
+    }
+    .searchLogin {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        column-gap: 1rem;
+        align-items: center;
+    }
+    .searchLogin input[type="search"]:focus {
+        width: 250px;
+    }
+    .searchLogin button {
+        width: 100%;
+        height: 40px;
+        margin: 0;
+        padding: 0 4px;
+    }
+    /* social media tákn */
+    .socialbutts a {
+        padding: 8px;
+    }
+
+}
+/* fartölvur + */
+@media screen and (min-width:1280px) {
+    .searchLogin input[type="search"]:focus {
+        width: 100%;
+    }
+}

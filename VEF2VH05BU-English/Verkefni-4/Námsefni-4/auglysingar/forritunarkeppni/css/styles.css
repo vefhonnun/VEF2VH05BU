@@ -1,0 +1,147 @@
+ /* thoughtbot (by thoughtbot.com)
+*******************************************************************************/
+button.thoughtbot {
+    background-color: #ee432e;
+    background-image: linear-gradient(to top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100 100%);
+    border: 1px solid #951100;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 0 1px 3px #333333;
+    color: #fff;
+    font: bold 1.4em/1 sans-serif;
+    padding: 12px 0 14px 0;
+    text-align: center;
+    text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.8);
+    width: 150px; 
+  }
+  button.thoughtbot:hover, button.thoughtbot:active  {
+    background-color: #f37873;
+    background-image: linear-gradient(to bottom, #f37873 0%, #db504d 50%, #cb0500 50%, #a20601 100%);
+    cursor: pointer; 
+  }
+  /* auglýsing í hliðardálk */
+  .ad {
+    text-align: center;
+    width: 100%;
+    margin-top: 1em;
+    padding: .5em;
+    background-color: #eee;
+    border-radius: .4em;
+    box-shadow: inset 0 0 3em #999;
+    overflow: hidden;   /* ATHUGIÐ Mikilvægt */ 
+  }
+  .augl {
+    text-decoration: none;
+  }
+  .innihald {
+    padding-bottom:1em;
+  }
+  .innihald h3, .innihald h4 {
+    font-family: sans-serif;
+      color: #900;
+  }
+  /***********animation***************/
+  .thoughtbot{
+    position: relative;
+    animation: kvikun 4s 1; /* "breyta" er lykillinn að tímarammanum "keyframes"*/
+                          /* "4s" tíminn sem atvikið tekur. "1" fjöldi endurtekninga */
+  }
+  
+  @keyframes kvikun {
+    0% {
+      left: 0;
+      top: -20em; 
+    }
+    80% {
+      left: 0;
+      top: 2em; 
+    }
+    100% {
+      left: 0;
+      top: 0; 
+    } 
+  }
+  #intro {
+    position: relative;
+    animation: intro 10s infinite; 
+    animation-direction: alternate; /* fer fram og til baka - */
+  }
+  @keyframes intro {
+    0% {
+      left: -15em;
+    }
+    10% {
+      left: 0;
+    }
+    90% {
+      left: 0;
+    }
+    100% {
+      left: 55em;
+    }
+  }
+  #pepp {
+    position: relative;
+    animation: pepp 20s infinite; 
+    animation-direction: reverse; /* lúppar - "reverse" öfug stefna */
+  }
+  @keyframes pepp {
+    0% {
+      left: -15em;
+    }
+    20% {
+      left: 0;
+    }
+    80% {
+      left: 0;
+    }
+    100% {
+      left: 55em;
+    }
+  }
+  
+    /***********myndin í aside***************/
+    #fadeIn {
+    border-radius: .4em;
+    animation-name: imgFadeIn;
+    animation-duration: 7s;
+  }
+  
+  @keyframes imgFadeIn {
+    0% {
+      opacity:0;
+    }
+    60% {       /* sést ekki í ca 3 sek*/
+      opacity: 0.01;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  /*bakgrunnur í Jimmy Hendrix dálki*/
+  
+  .rainbow {
+    width: 100%;
+    height:auto;
+    animation-name: example;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  
+  /* Standard syntax */
+  @keyframes example {
+    0%  {background-color: rgb(156, 51, 255);}
+    20%  {background-color: #f63;}
+    40%   {background-color: #6f6;}
+    60%  {background-color: rgb(255, 102, 102);}
+    80%  {background-color: #ff6;}
+    100%  {background-color: rgb(106, 108, 255);}
+  }
+  /*  auglýsingaramminn getur verið svegjanlegur
+      Það fer bara eftir því hvar auglýsingin á að birtast */
+  
+  .augl-rammi {
+      width: 48em; /* ~ 320px */
+      margin: auto;
+  }

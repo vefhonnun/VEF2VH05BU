@@ -1,0 +1,125 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+/* auglýsingaborði fyrir minni skjái -48em */
+
+#scroll-phone {
+  display: block;
+  width: 100%;
+  height: 9em;
+  overflow: hidden;
+  background-color: #7efafa;
+  padding: 0;
+  text-align: center;
+  position: relative; /* ath */
+}
+/* Ad txt 1 */
+#scroll-txt1 {
+  position: absolute; /* ath */
+  bottom:-7em;
+  animation:  scrolltxt1 25s linear infinite;
+}
+@keyframes scrolltxt1 {
+  0% {
+    bottom: -25em;
+  }
+  4% {
+    bottom: -17em;
+  } /* pása */
+  28% {
+    bottom: -17em;
+  }
+  32% { 
+    bottom: -9em;
+  } /* pása */
+  58% { 
+    bottom: -9em;
+  }
+  62% { 
+    bottom: -1em;
+  } /* pása */
+  96% { 
+    bottom: -1em;
+  }
+  100% {
+    bottom: 7em;
+  }
+}
+
+#scroll-container { 
+  display: none;
+}
+
+/* auglýsingaborði fyrir stærrri skjái +48em */
+
+@media screen and (min-width:48em) {
+  #scroll-phone {
+    display: none;
+  }
+  #scroll-container {
+    display: block;
+    width: 100%;
+    height: 3em;
+    overflow: hidden;
+    background-color: #7efafa;
+    position: relative; /* ath */
+  }
+  #scroll-container a{
+    text-decoration: none;
+  }
+  /* Ad one */
+  #scroll-text1 {
+    position: absolute; /* ath */
+    top:0;
+    width: 145em;
+    animation:  animation 30s linear infinite;
+  }
+
+  @keyframes animation {
+      from {
+        left: 110em;
+      }
+      to {
+        left: -45em;
+      }
+    }
+  
+  /* Ad two */
+  #scroll-text2 {
+    position: absolute; 
+    width: 40em;
+    top:0;
+    left: 110em; /*ath!*/
+    width: 45em;
+    animation: animation2 30s linear infinite;
+    animation-delay: 9s;
+  }
+  @keyframes animation2 {
+    from {
+      left: 110em;
+    }
+    to {
+      left: -45em;
+    }
+  }
+  /* Ad three */
+  #scroll-text3 {
+    position: absolute; 
+    width: 40em;
+    top:0;
+    left: 110em; 
+    width: 60em;
+    animation: animation3 30s linear infinite;
+    animation-delay: 18s;
+  }
+  @keyframes animation3 {
+    from {
+      left: 110em;
+    }
+    to {
+      left: -45em;
+    }
+  }
+}

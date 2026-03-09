@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider</title>
+</head>
+<style>
+    /*= based on https://codepen.io/simonestic/pen/bvLKMP =*/
+    * {
+        box-sizing: border-box;
+    }
+    .slidecontainer {
+        background: rgb(216, 216, 216);
+        position: relative;
+        height: 22em; /* verður að vera föst hæð */
+        max-width: 48em;
+        margin: 1em auto;
+        padding: 2em;
+        overflow: hidden;
+    }
+    .slide-roll {
+        display: flex;
+        flex-flow: row;
+    }
+    #slide-role {
+        background: inherit;
+        position: absolute;
+        top: 3.5em;
+        left: 0;
+        width: 500%;
+        height: 100%;
+        z-index: 100;
+        transition: left .5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    }
+    .slide {
+        width:100%;
+        height: 100%;
+    }
+    .slide fieldset {
+        width: 45em; /* verður að vera föst breidd */
+        height: 60%;
+        margin:2em 1em;
+    }
+
+    /* slide logic */
+    .trigger[type="radio"]:checked#slide-1-trigger~div.slide-wrapper>div#slide-role {
+        left: 0%;
+    }
+
+    .trigger[type="radio"]:checked#slide-2-trigger~div.slide-wrapper>div#slide-role {
+        left: -100%;
+    }
+    .trigger[type="radio"]:checked#slide-3-trigger~div.slide-wrapper>div#slide-role {
+        left: -200%;
+    }
+    .trigger[type="radio"]:checked#slide-4-trigger~div.slide-wrapper>div#slide-role {
+        left: -300%;
+    }
+    .trigger[type="radio"]:checked#slide-5-trigger~div.slide-wrapper>div#slide-role {
+        left: -400%;
+    }
+
+    /* backgrounds */
+    .slide-1 {
+        background-color: rgb(250, 253, 235);
+    }
+    .slide-2 {
+        background-color: rgb(240, 253, 181);
+    }
+    .slide-3 {
+        background-color: rgb(235, 253, 152);
+    }
+    .slide-4 {
+        background-color: rgb(224, 255, 85);   
+    }
+    .slide-5 {
+        background-color: rgb(211, 255, 16);
+    }
+
+    /* buttons */
+    .trigger[type="radio"] {
+        display: none;
+    }
+    .btn {
+        border-radius: 4px 4px 0 0;
+        background-color: rgb(250, 253, 235);
+        margin: .5em;
+        padding: .5em;
+        cursor: pointer;
+    }
+    /* button on */
+    .trigger[type="radio"]:checked+label.btn {
+        border: 2px solid rgb(211, 255, 16);
+        font-weight: 700;
+    }
+
+    /* MEDIA QUERIES */
+    /* hér þarf að útfæra farsíma lausnir fyrir 20, 30 og 37,5em */
+</style>
+<body>
+<form action="#" method="get"><!--undir venjulegum kringumstæðum þá sendum við form með POST-->
+    <div class="slidecontainer">
+        <!-- BUTTONS (input/labels) -->
+        <input type="radio" name="slider" id="slide-1-trigger" class="trigger">
+        <label class="btn" for="slide-1-trigger">1. spurning</label>
+        <input type="radio" name="slider" id="slide-2-trigger" class="trigger">
+        <label class="btn" for="slide-2-trigger">2. spurning</label>
+        <input type="radio" name="slider" id="slide-3-trigger" class="trigger">
+        <label class="btn" for="slide-3-trigger">3. spurning</label>
+        <input type="radio" name="slider" id="slide-4-trigger" class="trigger">
+        <label class="btn" for="slide-4-trigger">4. spurning</label>
+        <input type="radio" name="slider" id="slide-5-trigger" class="trigger">
+        <label class="btn" for="slide-5-trigger">Senda svör</label>
+
+        <!-- SLIDES -->
+        <div class="slide-wrapper">
+            <div id="slide-role" class="slide-roll">
+                <div class="slide slide-1">
+                    <fieldset>
+                        <legend> Hvað er mikilvægasta efnið sem notað er í AlgoBonus drykkinn? </legend>
+                        <p>
+                            <input type="radio" name="svar1" value="0" id="a1"> <label for="a1">Sykur</label> | 
+                            <input type="radio" name="svar1" value="1" id="b1"> <label for="b1">Þang</label> | 
+                            <input type="radio" name="svar1" value="0" id="c1"> <label for="c1">C vítamín</label> | 
+                            <input type="radio" name="svar1" value="0" id="d1"> <label for="d1">Mjólk</label> 
+                        </p>
+                    </fieldset>
+                </div>
+                <div class="slide slide-2">
+                    <fieldset>
+                        <legend> Hvaða drykk fær Ásgeir Trausti sér með morgunmatnum? </legend>
+                        <p>
+                          <input type="radio" name="svar2" value="0" id="2a"> <label for="2a">Kaffi</label> | 
+                          <input type="radio" name="svar2" value="0" id="2b"> <label for="2b">Mjólk</label> | 
+                          <input type="radio" name="svar2" value="1" id="2c"> <label for="2c">AlgoBonus heilsudrykkinn</label> | 
+                          <input type="radio" name="svar2" value="0" id="2d"> <label for="2d">Kaldan bjór</label> 
+                      </p>
+                    </fieldset>
+                </div>
+                <div class="slide slide-3">
+                    <fieldset>
+                        <legend> Hvað er AlgoBonus? </legend>
+                        <p>
+                            <input type="radio" name="svar3" value="1" id="3a"> <label for="3a">Heilsudrykkur fyrir alla</label> | 
+                            <input type="radio" name="svar3" value="0" id="3b"> <label for="3b">Súkkulaðidrykkur</label> | 
+                            <input type="radio" name="svar3" value="0" id="3c"> <label for="3c">Gosdrykkur handa gamalmennum</label> | 
+                            <input type="radio" name="svar3" value="0" id="3d"> <label for="3d">Orkudrykkur stútfullur af kaffi og sykri</label> 
+                        </p>
+                    </fieldset>
+                </div>
+                <div class="slide slide-4">
+                    <fieldset>
+                        <legend> Hvar verða stórtónleikar Ásgeirs Trausta haldnir? </legend>
+                        <p>
+                          <input type="radio" name="svar4" value="0" id="4a"> <label for="4a">Bitruhálsi 9, 17. maí </label> | 
+                          <input type="radio" name="svar4" value="0" id="4b"> <label for="4b">Perlunni Reykjavík 17. ágúst</label> | 
+                          <input type="radio" name="svar4" value="0" id="4c"> <label for="4c">Alþingishúsinu 17. júlí</label> | 
+                          <input type="radio" name="svar4" value="1" id="4d"> <label for="4d">Eldborg Hörpu 17. júní</label> 
+                      </p>
+                    </fieldset>
+                </div>
+                <div class="slide slide-5">
+                    <fieldset>
+                        <legend> Ég vil fara á tónleikana með Ásgeiri Trausta </legend>
+                        <p>Nafn: <input type="text" name="nafn" required> </p>
+                        <p>Heimili: <input type="text" name="heimili" required> </p>
+                        <p>Tölvupóstur: <input type="email" name="email" required> </p>
+                        <p>
+                            <input type="checkbox" name="subscript" value="1" id="6a"> <label for="6a">Viltu gerast áskrifandi að Heilbrigðum lífstíl?</label> <br> 
+                            <input type="checkbox" name="offers" value="0" id="6b"> <label for="6b">Sendið mér vörutilboð og afslætti sem AlgoPro býður</label> 
+                        </p>
+                        <p style="text-align: center; margin-top:2em"><input type="submit" value="Senda svor"></p>                        
+                    </fieldset>
+                </div><!--slide-5-->
+            </div><!--slide role-->
+        </div><!--slide wrapper-->
+    </div><!--slidecontainer-->
+</form>
+</body>
+</html>

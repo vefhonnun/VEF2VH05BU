@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 150 70"
+   height="70mm"
+   width="150mm">
+
+  <g
+     transform="translate(0,-227)"
+     id="layer1">
+    <path
+       id="path815"
+       d="m 145.83667,228.53781 -112.852162,0.0212 c 0,0 1.052909,0.10829 -1.218864,0.1443 -18.376812,0.29128 -31.59999246,11.70237 -31.45652704,31.97222 0.22161424,31.31129 23.29978904,36.59189 32.63274304,36.59189 9.332966,0 116.95262,-0.32869 116.95262,-0.32869 l 0.36077,-36.28743 -52.451896,0.0768 -13.891501,11.85973 49.662037,0.0238 -0.0246,12.24466 H 40.26243 c -16.086916,0 -22.690695,-12.7307 -22.656698,-24.07319 0.03775,-12.59456 7.549857,-20.37742 22.722993,-20.47771 8.288683,-0.0548 92.116955,0.10024 92.116955,0.10024 z"
+       style="fill:#ffffff;stroke:none;stroke-width:0.2920377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
