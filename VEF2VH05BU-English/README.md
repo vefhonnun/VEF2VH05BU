@@ -1,7 +1,5 @@
 #  VEFÞ2VH05AU - Assignments
 
-> [VEFÞ2VH05AU Assignment descriptions in English](VEFÞ2VH05AU-English/README.md)
-
 1. [Assignment](Verkefni-1/) Framework, tables, and forms
 1. [Assignment](Verkefni-2/) Advanced styling
 1. [Assignment](Verkefni-3/) SVG vector graphics
