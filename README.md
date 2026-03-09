@@ -1,6 +1,6 @@
 #  VEFÞ2VH05AU - verkefni
 
-> [VEFÞ2VH05AU Assignment descriptions in english](VEFÞ2VH05AU-English/README.md)
+> [VEFÞ2VH05AU Assignment descriptions in english](https://github.com/vefhonnun/VEF2VH05BU/tree/main/VEF2VH05BU-English)
 
 1. [Verkefni](Verkefni-1/) Vinnurammi, töflur og form
 1. [Verkefni](Verkefni-2/) Flókin stílbrögð
