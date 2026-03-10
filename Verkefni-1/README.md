@@ -152,7 +152,13 @@ _Gangi þér vel_
 * [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 * [input date, time fix](https://stackoverflow.com/questions/14946091/are-there-any-style-options-for-the-html5-date-picker?newreg=23b233a466f14c6e851d6e948e96d7ee)
 
-#### Annað
+#### Upprifjun
+
+* [Dálkaskipulag 4. verkefni VEFÞ1VG](https://github.com/vefgrunnur/VEF1VG05AU/tree/main/Verkefni-4/Namsefni-4)
+* [Myndvinnsla, 6. verkefni VEFÞ1VG](https://github.com/vefgrunnur/VEF1VG05AU/tree/main/Verkefni-6)
+
+#### Annað efni
+
 * [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
 
 
