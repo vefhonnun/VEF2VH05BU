@@ -1,7 +1,4 @@
-Hér er uppfærð útgáfa af skránni með íslenskri þýðingu **fyrir ofan** enska textann:
 # HTML role -eigindið
-
----
 
 **role-eigindið** í HTML veitir tögum merkingarfræðilega þýðingu, sérstaklega ósérhæfðum tögum eins og `<div>` eða `<span>`, og hjálpar hjálpartækjum (eins og skjálesurum) að skilja tilgang og virkni tags. Það er hluti af WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications) staðlinum, sem bætir aðgengi fyrir notendur með fötlun.
 
@@ -36,8 +33,6 @@ Rétt notkun `role` eigindisins tryggir að vefefni sé meira inngildandi og not
 ---
 
 # HTML Role Attribute
-
----
 
 The **role attribute** in HTML provides semantic meaning to elements, especially non-semantic ones like `<div>` or `<span>`, helping assistive technologies (such as screen readers) understand the purpose and function of an element. It is part of the WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications) specification, which enhances accessibility for users with disabilities.
 
