@@ -4,7 +4,7 @@
 
 Pico comes with 380 manually crafted colors to help you personalize your brand design system.
 
-In the Pico css folder there is a stylesheet named *pico.colors* This stylesheet is almost the same size as the entire Pico library.
+In the Pico css folder there is a stylesheet named *pico.colors*. **This stylesheet is almost the same size as the entire Pico library**.
 
 > We do not recommend including all colors on a production site. You should include only the color families and shades that you use. 
 
