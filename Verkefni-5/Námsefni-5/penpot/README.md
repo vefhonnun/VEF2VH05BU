@@ -38,10 +38,9 @@ Vettvangurinn er sérstaklega hannaður til að **brúa bilið á milli hönnuna
 
 ## Nánari upplýsingar
 
-- [Penpot Documentation](https://docs.penpot.app/)  
-- [Penpot Tutorials](https://docs.penpot.app/tutorials/)
-- [Penpot YouTube Channel](https://www.youtube.com/c/PenpotApp)
-- [Penpot Community Forum](https://forum.penpot.app/)
-- [Penpot GitHub Repository](https://github.com/penpot)
-- [Penpot Blog](https://penpot.app/blog/)
+- [Penpot - heimasíða](https://penpot.app/)
+- [Penpot - Github](https://github.com/penpot/penpot)
+- [Penpot User guide - teamwork](https://help.penpot.app/user-guide/account-teams/)
+  - [Penpot - Youtube courses](https://www.youtube.com/@Penpot)
+- [Penpot.app/courses/ (í vinnslu)](https://penpot.app/courses/)
 
