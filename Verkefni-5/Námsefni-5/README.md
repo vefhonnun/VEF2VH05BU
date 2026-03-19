@@ -11,12 +11,13 @@
 > Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
 
 1. [Hugmyndavinna](Hugmyndavinna/README.md)
-1. [Skipulagning og undirbúningur](Skipulagning og undirbúningur/README.md)
-    1. [Skipurit (_Site map_)](Skipulagning og undirbúningur/sitemap/README.md)
-    1. [Tengirammi (_Wireframe_)](Skipulagning og undirbúningur/wireframe/README.md)
-    1. [Stílbragð, Style-tyle](Skipulagning og undirbúningur/style-tyle/README.md)
-    1. [Litaþema fyrir vef](Skipulagning og undirbúningur/colortheme/Readme.md)
+1. [Skipulagning og undirbúningur](Skipulagning/README.md)
+    1. [Skipurit (_Site map_)](Skipulagning/sitemap/README.md)
+    1. [Tengirammi (_Wireframe_)](Skipulagning/wireframe/README.md)
+    1. [Stílbragð, Style-tyle](Skipulagning/style-tyle/README.md)
+    1. [Litaþema fyrir vef](Skipulagning/colortheme/Readme.md)
 1. [Notendaviðmótshönnun (UI Design, _Prototype_)](Frumhönnun - prototype/README.md)
+
 ---
 
 Næsta skref er notendaviðmótshönnun (UI Design, _Prototype_):
