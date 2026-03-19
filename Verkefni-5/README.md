@@ -1,5 +1,7 @@
 # Vefur fyrir viðburð
 
+> „Áætlanir eru einskis virði, en skipulagning skiptir öllu máli.“ <br> _Dwight Eisenhover_
+
 ### Markmið:
 
 * Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs. 
