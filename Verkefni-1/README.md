@@ -161,4 +161,8 @@ _Gangi þér vel_
 
 * [11 New CSS Features Every Browser Supports in 2025](https://www.youtube.com/watch?v=55uUK-iJeNM)
 
+#### Video, verkefni áfangans útskýrð í máli og myndum
+
+* [VEFÞ2VH05AU - video](https://vefhonnun.github.io/video/)
+
 
