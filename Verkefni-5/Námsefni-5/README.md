@@ -16,7 +16,7 @@
     1. [Tengirammi (_Wireframe_)](Skipulagning/wireframe/README.md)
     1. [Stílbragð, Style-tyle](Skipulagning/style-tyle/README.md)
     1. [Litaþema fyrir vef](Skipulagning/colortheme/Readme.md)
-1. [Notendaviðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
+1. [Viðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
 
 ---
 
