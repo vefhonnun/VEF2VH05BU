@@ -67,3 +67,7 @@ _Gangi þér vel_
 * [Shayhowe, Flóknar stílsetningar (_Complex Selectors_)](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 * [Sprettigluggi (_Modal_)](https://picocss.com/docs/modal)
 * [Harmonikkulisti **Details & Summary**](https://picocss.com/docs/accordion)
+
+#### Video, verkefni áfangans útskýrð í máli og myndum
+
+* [VEFÞ2VH05AU - video](https://vefhonnun.github.io/video/)
