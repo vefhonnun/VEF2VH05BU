@@ -28,13 +28,8 @@ Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðal
 * Fastur „Bæta í körfu“ hnappur: Gakktu úr skugga um að aðgerðahnappur sé alltaf sýnilegur, annað hvort efst á síðunni eða sem borði sem fylgir notandanum þegar hann skrunar niður.
 * Beint í greiðslu: Íhugaðu að sleppa körfusíðunni alveg og senda notendur beint í greiðsluferlið til að lágmarka mótstöðu.
 
-4. Veldu réttan tæknibúnað
+4. Lokaskoðun og prófanir [1] 
 
-* Shopify: Tilvalið fyrir byrjendur; býður upp á sérstök þemu fyrir eina vöru (eins og Refresh eða Narrative) og gervigreindartól sem geta búið til skipulag verslunarinnar á nokkrum mínútum.
-* WordPress + WooCommerce: Best fyrir algjöra sérstillingu og lægri langtímakostnað. Notaðu viðbætur eins og EasyCommerce eða Elementor til að smíða sérsniðið skipulag.
-* Wix: Notendavænn valkostur með gervigreindarsniðmátum sem eru sérstaklega hönnuð fyrir sérhæfðar verslanir.
-
-5. Lokaskoðun og prófanir [1] 
 Áður en þú opnar skaltu athuga þessi tæknilegu atriði:
 
 * Gæði í snjalltækjum: Yfir 50% umferðar kemur úr farsímum. Gakktu úr skugga um að auðvelt sé að smella á alla hnappa og að myndir skali rétt.

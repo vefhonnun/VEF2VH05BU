@@ -1,4 +1,7 @@
+# Planning
+
 Organizing a single-product website requires a focused structure that removes distractions and guides users directly toward a single goal: purchasing your "hero" product. Unlike multi-category stores, you should treat your entire site as a high-converting sales funnel. [1, 2, 3, 4] 
+
 1. Define Your Core Site Structure
 Even with only one product, you need a few essential pages to build trust and meet legal requirements: [2, 5] 
 
@@ -24,13 +27,7 @@ Reduce the number of clicks required to buy by streamlining the user journey: [7
 * Sticky "Add to Cart": Ensure a CTA button is always visible, either above the fold or as a sticky bar that follows the user as they scroll.
 * Direct Checkout: Consider skipping the "Cart" page entirely and redirecting users straight to "Checkout" to minimize friction. [2, 7, 10, 12, 13] 
 
-4. Choose the Right Tech Stack
-
-* Shopify: Ideal for beginners; offers dedicated one-product themes (like Refresh or Narrative) and AI builders that can generate a store structure in minutes.
-* WordPress + WooCommerce: Best for total customization and lower long-term costs. Use plugins like EasyCommerce or Elementor to build a custom single-product layout.
-* Wix: A user-friendly alternative with AI-driven templates specifically for niche stores. [5, 6, 12, 14, 15, 16, 17] 
-
-5. Final Check & Testing
+4. Final Check & Testing
 Before launching, verify these technical details: [2, 5] 
 
 * Mobile Excellence: Over 50% of traffic is mobile. Ensure all buttons are easy to tap and images scale correctly.
