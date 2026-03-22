@@ -11,33 +11,31 @@
 > Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
 
 1. [Hugmyndavinna](Hugmyndavinna/README.md)
-1. [Skipulagning og undirbúningur](Skipulagning/README.md)
+1. Skipulagning og undirbúningur
     1. [Skipurit (_Site map_)](Skipulagning/sitemap/README.md)
     1. [Tengirammi (_Wireframe_)](Skipulagning/wireframe/README.md)
     1. [Stílbragð, Style-tyle](Skipulagning/style-tyle/README.md)
     1. [Litaþema fyrir vef](Skipulagning/colortheme/Readme.md)
-1. [Notendaviðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
+1. [Viðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
 
 ---
 
-Næsta skref er notendaviðmótshönnun (UI Design, _Prototype_):
+#### Viðmótshönnun (UI Design, _Prototype_):
 
 - Útlit og tilfinning: Hönnunin ætti að vera sjónrænt aðlaðandi og samræmast vörumerkinu þínu.
 - Notendaupplifun (UX): Tryggðu að notendur geti auðveldlega skilið og notað appið. Þetta felur í sér að huga að leiðsögn, hnöppum, og öðrum samskiptum.
 
-Prófanir og endurgjöf:
+#### Prófanir og endurgjöf:
 
 - Notendaprófanir: Láttu raunverulega notendur prófa prototýpuna og gefa endurgjöf.
 - Endurbætur: Notaðu endurgjöfina til að bæta hönnunina og leysa vandamál sem koma upp.
 
-Lokahönnun:
+#### Lokahönnun:
 
 Þegar þú ert ánægður með prototýpuna og hefur fengið jákvæða endurgjöf, geturðu farið í að hanna lokahönnunina með öllum smáatriðum.
 Hönnunarferlið er oft ítrekað, þar sem þú gætir þurft að fara aftur og endurbæta ýmsa þætti eftir því sem þú færð meiri innsýn og endurgjöf.
 
-### Bjargir
-
-#### Undirbúningur
+#### Lesefni og verkfæri
 
 * [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
 * [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
