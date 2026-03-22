@@ -1,5 +1,8 @@
-Hér er þýðing á textanum yfir á íslensku:
-Skipulag vefsíðu fyrir eina vöru krefst markvissrar uppbyggingar sem lágmarkar truflanir og leiðir notendur beint að einu markmiði: að kaupa „hetjuvöruna“ þína. Ólíkt verslunum með marga vöruflokka ættir þú að líta á alla síðuna sem söluferli með háu umbreytingarhlutfalli.
+# Skipulagning vefs
+
+
+Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggingar sem lágmarkar truflanir og leiðir notendur beint að einu markmiði: að kaupa „vöruna“ þína. Ólíkt verslunum með marga vöruflokka ættir þú að líta á alla síðuna sem söluferli með háu umbreytingarhlutfalli.
+
 1. Skilgreindu grunnskipulag síðunnar
 Jafnvel þótt þú sért aðeins með eina vöru, þarftu nokkrar nauðsynlegar síður til að byggja upp traust og uppfylla lagalegar kröfur:
 
