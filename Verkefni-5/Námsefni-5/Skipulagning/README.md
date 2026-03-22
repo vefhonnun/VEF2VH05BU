@@ -34,10 +34,4 @@ Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðal
 
 * Gæði í snjalltækjum: Yfir 50% umferðar kemur úr farsímum. Gakktu úr skugga um að auðvelt sé að smella á alla hnappa og að myndir skali rétt.
 * Hraði síðunnar: Notaðu Google PageSpeed Insights tólið til að tryggja að hágæða myndir hægi ekki á síðunni.
-* Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. [2, 3] 
-
----
-
-[1] [https://www.youtube.com](https://www.youtube.com/watch?v=xWS9Xe3R1kQ)
-[2] [https://locatheart.com](https://locatheart.com/translating-an-online-store/)
-[3] [https://www.youtube.com](https://www.youtube.com/watch?v=odKgZiX6tE8&t=59)
+* Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. 

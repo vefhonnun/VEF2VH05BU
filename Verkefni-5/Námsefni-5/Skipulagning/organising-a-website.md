@@ -32,11 +32,5 @@ Before launching, verify these technical details: [2, 5]
 
 * Mobile Excellence: Over 50% of traffic is mobile. Ensure all buttons are easy to tap and images scale correctly.
 * Page Speed: Use the Google PageSpeed Insights tool to ensure your high-quality visuals aren't slowing down the site.
-* Trust Signals: Confirm SSL certificates are active and payment gateways (PayPal, Stripe) are functional. [2, 5, 10, 13, 18] 
-
----
-
-[1] [https://www.youtube.com](https://www.youtube.com/watch?v=xWS9Xe3R1kQ)
-[2] [https://locatheart.com](https://locatheart.com/translating-an-online-store/)
-[3] [https://www.youtube.com](https://www.youtube.com/watch?v=odKgZiX6tE8&t=59)
+* Trust Signals: Confirm SSL certificates are active and payment gateways (PayPal, Stripe) are functional. 
 
