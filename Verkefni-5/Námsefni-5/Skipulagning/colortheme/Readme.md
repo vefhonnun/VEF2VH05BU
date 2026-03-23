@@ -14,7 +14,7 @@ Pico stílsíðusafnið býður upp á litaþemu sem hægt er að nýta í lokav
 1. **Gradient Pop** <br> ![litaþema 9](images/9.jpg)
 1. **Cosmic Artistry** <br> ![litaþema 10](images/10.jpg)
 1. **Vibrant but Calm** <br> ![litaþema 11](images/11.jpg)
-1. **Lively and Inviting** <br> ![litaþema 12](images/12.jpg)
+1. **Lively and Inviting** <br> ![litaþema 12](images/111.jpg)
 1. **Striking and Simple** <br> ![litaþema 12](images/12.jpg)
 1. **Red and Lively** <br> ![litaþema 13](images/13.jpg)
 1. **Artsy and Creative** <br> ![litaþema 14](images/14.jpg)
