@@ -19,6 +19,6 @@ Pico stílsíðusafnið býður upp á litaþemu sem hægt er að nýta í lokav
 1. **Red and Lively** <br> ![litaþema 13](images/13.jpg)
 1. **Artsy and Creative** <br> ![litaþema 14](images/14.jpg)
 1. **Elegant Yet Approachable** <br> ![litaþema 15](images/15.jpg)
-1. **Sleek and Futuristic** <br> ![litaþema 16](16.jpg)
+1. **Sleek and Futuristic** <br> ![litaþema 16](images/16.jpg)
 
 Heimild: https://visme.co/blog/website-color-schemes/ 
