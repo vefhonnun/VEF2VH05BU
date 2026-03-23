@@ -7,12 +7,6 @@
 1. [Stílbragð, Style-tyle](Skipulagning/style-tyle/README.md)
 1. [Litaþema fyrir vef](Skipulagning/colortheme/Readme.md)
 
-#### Lesefni
-
-* [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
-* [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
-# Skipulagning vefs
-
 
 Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggingar sem lágmarkar truflanir og leiðir notendur beint að einu markmiði: að kaupa „vöruna“ þína. Ólíkt verslunum með marga vöruflokka ættir þú að líta á alla síðuna sem söluferli með háu umbreytingarhlutfalli.
 
@@ -48,3 +42,11 @@ Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðal
 * Gæði í snjalltækjum: Yfir 50% umferðar kemur úr farsímum. Gakktu úr skugga um að auðvelt sé að smella á alla hnappa og að myndir skali rétt.
 * Hraði síðunnar: Notaðu Google PageSpeed Insights tólið til að tryggja að hágæða myndir hægi ekki á síðunni.
 * Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. 
+
+
+#### Lesefni
+
+* [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
+* [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
+# Skipulagning vefs
+
