@@ -48,5 +48,4 @@ Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðal
 
 * [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
 * [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
-# Skipulagning vefs
 
