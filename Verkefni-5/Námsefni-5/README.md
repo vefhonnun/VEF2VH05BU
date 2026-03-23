@@ -5,8 +5,9 @@
 - Verktaki og verkkaupi gera með sér samkomulag
   - innihald vefs (texti og myndefni) er tilbúið
   - Leiðarkerfi og flæðirit klárt
-  - Fyrirmynd er til staðar (_prototype_)
   - Litaval og letur er í lagi
+  - Fyrirmynd er til staðar (_prototype_)
+
 
 > Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
 
