@@ -2,10 +2,10 @@
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.  Ávinningur af slíku vinnulagi er mikill.
 
-1. [Skipurit (_Site map_)](Skipulagning/sitemap/README.md)
-1. [Tengirammi (_Wireframe_)](Skipulagning/wireframe/README.md)
-1. [Stílbragð, Style-tyle](Skipulagning/style-tyle/README.md)
-1. [Litaþema fyrir vef](Skipulagning/colortheme/Readme.md)
+1. [Skipurit (_Site map_)](sitemap/README.md)
+1. [Tengirammi (_Wireframe_)](wireframe/README.md)
+1. [Stílbragð, Style-tyle](style-tyle/README.md)
+1. [Litaþema fyrir vef](colortheme/Readme.md)
 
 
 Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggingar sem lágmarkar truflanir og leiðir notendur beint að einu markmiði: að kaupa „vöruna“ þína. Ólíkt verslunum með marga vöruflokka ættir þú að líta á alla síðuna sem söluferli með háu umbreytingarhlutfalli.
