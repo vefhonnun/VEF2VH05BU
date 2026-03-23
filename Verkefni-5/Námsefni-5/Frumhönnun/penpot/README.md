@@ -2,9 +2,6 @@
 
 ## Prototyping with Penpot
 
-> Þessi skrá er Í VINNSLU! Hún inniheldur upplýsingar um hvernig á að nota Penpot til að skipuleggja og hanna vef (Verkefni 6).
-Hér er það helsta sem kemur fram í núverandi heimildum:
-
 *   **„Sign up for free“:** Á aðalsíðu Penpot er hægt að smella á hnappinn **„Sign up for free“** til að hefja ferlið.
 *   **Veldu leið:** Þú getur annaðhvort notað Penpot beint í **vafranum** eða valið að setja það upp á **eigin netþjóni** (self-host).
 *   **Umsjón með aðgangi:** Þegar búið er að skrá sig, er hægt að nota hlutann **„Account & teams“** í notendahandbókinni til að stýra aðgangnum og vinna með öðrum.

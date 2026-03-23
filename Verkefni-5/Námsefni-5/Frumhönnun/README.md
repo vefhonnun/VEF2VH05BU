@@ -23,11 +23,12 @@ Hönnunarferlið er oft ítrekað, þar sem þú gætir þurft að fara aftur og
 
 #### Frumhönnunartól (_Prototype tool_)
 
+* [Penpot](penpot/README.md)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
 * [inVision](https://www.invisionapp.com/product/prototype)
 * [Figma](https://www.figma.com/)
 * [Sketch - Mac](https://www.sketch.com/)
 * [Webflow](https://webflow.com/)
-* [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
 
 #### Notendaupplifun
 

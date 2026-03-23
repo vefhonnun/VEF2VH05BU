@@ -48,6 +48,6 @@ Með 16px grid er auðvelt að skilgreina stærðir.
 
 ![Grid 16px](images/Skjámynd1280x800.jpg)
 
-[Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)
+[Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
 
 
