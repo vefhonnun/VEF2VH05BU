@@ -2,7 +2,7 @@
 
 Pico stílsíðusafnið býður upp á litaþemu sem hægt er að nýta í lokaverkefninu, [sjá nánar hér.](https://picocss.com/docs/colors)
 
-1. Rétt litaval getur aukið sjónræn áhrif vefsíðu. Hér eru litaþemu sem hægt er að hafa til hliðsjónar þegar efni vefs hefur verið valið. 
+1. Hér eru vefsíður þar sem litaval gefur innihaldi þeirra meira vægi.   
 
 1. **Metallic Chic** <br> ![img/litaþema 2](2.jpg)
 1. **Deep Vintage Mood** <br> ![img/litaþema 3](3.jpg)
