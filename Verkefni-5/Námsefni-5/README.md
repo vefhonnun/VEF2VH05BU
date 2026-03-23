@@ -14,3 +14,10 @@
 1. [Skipulagning og undirbúningur](Skipulagning/README.md)
 1. [Viðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
 
+---
+
+### Lesefni
+
+* [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
+* [Vefhönnun í 3 þáttum](https://webflow.com/blog/3-tools-to-power-your-design-review-process)
+* [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)

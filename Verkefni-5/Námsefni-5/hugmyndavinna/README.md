@@ -8,3 +8,5 @@
 1. Hér eru hugmyndir um viðburð sem hægt er að nota sem grunn 
    * [Hugmynd 1. Viðburður sumar](Hugmyndavinna%20sumar.md)
    * [Hugmynd 2. Viðburður vetur](Hugmyndavinna%20vetur.md)
+
+#### [Sýnidæmi, lokaverkefni nemenda](https://vefhonnun.github.io/synidaemi/)

@@ -54,33 +54,3 @@
 
 #### _Einkunn verður birt í Innu_
 
-#### [Lokaverkefni nemenda](https://vefhonnun.github.io/synidaemi/)
-
----
-
-#### Undirbúningur
-
-* [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
-* [Vefhönnun í 3 þáttum](https://webflow.com/blog/3-tools-to-power-your-design-review-process)
-* [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
-
-#### Skipulagning 
-
-* [Gloomap skipurit](https://www.gloomaps.com/)
-* [Flæðirit - Diagram](https://www.drawio.com/)
-
----
-
-#### Tól fyrir skipulagningu <br> _(Wireframe)_ og frumhönnun _(Prototype)_
-
-* [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ)
-* [Frumhönnun vefs](https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/)
-* [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)
-* [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
-
-#### Notendaupplifun
-
-* [7 Interactive Elements That Will Help You Get Users Attention](https://bamboolab.eu/blog/development/7-interactive-elements-that-will-help-you-get-users-attention)
-* [How to Create a Landing Page That Will Sell Your Software Product](https://bamboolab.eu/blog/development/how-to-create-a-landing-page-that-will-sell-your-software-product)
-* [UX Checklist](https://uxchecklist.github.io/)
-* [52 weeks of UX](http://52weeksofux.com/post/475093254/10-principles-of-ux) 
