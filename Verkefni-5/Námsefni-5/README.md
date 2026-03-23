@@ -11,7 +11,6 @@
 > Ef undirbúningi er ábótavant þá eru töluverðar líkur á misskilningi og endurvinnslu. Vertakinn lendir í tímahraki og verkkaupi neitar að borga yfirvinnu.
 
 1. [Hugmyndavinna](Hugmyndavinna/README.md)
-1. Skipulagning og undirbúningur
-
+1. [Skipulagning og undirbúningur](Skipulagning/README.md)
 1. [Viðmótshönnun (UI Design, _Prototype_)](Frumhönnun/README.md)
 
