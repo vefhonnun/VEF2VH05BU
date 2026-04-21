@@ -9,8 +9,6 @@ Hér eru tveir meginhlutar sem þarf til að búa til kvikun:
 ### 1. @keyframes (Handritið)
 Þetta er staðurinn þar sem þú skilgreinir „lykilrammana“. Þú segir vafranum hvernig hluturinn á að líta út á ákveðnum tímapunktum (t.d. í byrjun, miðju og enda).
 
-
-
 * **0% (eða `from`):** Upphafsstaða.
 * **50%:** Miðja hreyfingarinnar.
 * **100% (eða `to`):** Lokastaða.
