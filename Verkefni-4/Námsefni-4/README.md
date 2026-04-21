@@ -1,105 +1,127 @@
-# HTML & CSS3 Kvikun
+CSS **transform** eiginleikinn er notaður til að breyta útliti og staðsetningu staka í tvívíðu (2D) eða þrívíðu (3D) rými án þess að hafa áhrif á skipulag annarra hluta á síðunni. Þegar við tölum um **kvikun** (animation), þýðir það að við látum þessar breytingar gerast smám saman yfir ákveðinn tíma.
 
-```HTML
-<div class="kvikun"></div>
+Hér eru helstu leiðirnar til að nota transform:
+
+---
+
+### Helstu tegundir transform
+* **`rotate()`**: Snýr stakinu um miðju sína (t.d. `rotate(45deg)`).
+* **`scale()`**: Stækkar eða minnkar stakið (t.d. `scale(1.5)` gerir hlutinn 50% stærri).
+* **`translate()`**: Færir stakið til hliðar eða upp og niður (t.d. `translateX(50px)`).
+* **`skew()`**: Skekkir stakið (lætur það hallast).
+
+
+
+---
+
+### Hvernig verður þetta að kvikun?
+Til þess að breytingin sé ekki hvellstök (e. eins og smellt sé á rofa), notum við yfirleitt annað af tvennu:
+
+1.  **`transition`**: Notast þegar hlutur breytist við ákveðinn atburð, t.d. þegar músin fer yfir hnapp (*hover*).
+    * *Dæmi:* Hnappur stækkar mjúklega þegar þú bendir á hann.
+2.  **`@keyframes`**: Notað fyrir flóknari hreyfingar sem eiga að ganga sjálfkrafa eða í lykkju.
+    * *Dæmi:* Merki (logo) sem snýst stöðugt í hringi.
+
+### Af hverju að nota transform?
+Stærsti kosturinn við transform er **afköst** (performance). Vafrinn vinnur úr transform-breytingum á grafíkörgjörvanum (GPU) í stað aðalörgjörvans. Það þýðir að hreyfingarnar verða „mjúkar“ og valda síður hCalculation-lagi eða harki í vafranum miðað við að breyta gildum eins og `top`, `left` eða `width`.
+
+Hér er einfalt dæmi þar sem við búum til hnapp sem **stækkar** og **snýst** smávegis þegar músin er sett yfir hann (*hover*).
+
+Til að gera þetta mjúkt notum við `transition` ásamt `transform`.
+
+---
+
+### HTML
+Fyrst búum við til einfaldan hnapp:
+```html
+<button class="minn-hnappur">Sjáðu mig!</button>
 ```
-### CSS
 
-```CSS
-.kvikun {
+### CSS
+Hér gerist galdurinn. Við skilgreinum hvernig hnappurinn á að líta út í grunninn og hvernig hann á að „transformast“:
+
+```css
+.minn-hnappur {
+  padding: 15px 30px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+  
+  /* Hér segjum við vafranum að allar breytingar eigi að taka 0.3 sekúndur */
+  transition: transform 0.3s ease;
+}
+
+/* Hvað gerist þegar músin fer yfir? */
+.minn-hnappur:hover {
+  /* Hér stækkum við hnappinn um 10% og snúum honum um 5 gráður */
+  transform: scale(1.1) rotate(5deg);
+}
+```
+
+---
+
+### Hvað er að gerast í kóðanum?
+
+* **`scale(1.1)`**: Stækkar hnappinn úr 100% í 110%.
+* **`rotate(5deg)`**: Hallar hnappnum örlítið til hægri.
+* **`transition`**: Þetta er mikilvægasta skrefið fyrir kvikunina sjálfa. Án þess myndi hnappurinn „skoppa“ samstundis í nýja lögun. Með því að gefa honum tímann **0.3s** rennur hann mjúklega í nýju stöðuna.
+
+---
+
+Til þess að búa til hreyfingu sem keyrir sjálfkrafa og stöðugt notum við **`@keyframes`**. Í stað þess að bíða eftir að notandinn geri eitthvað (eins og að setja músina yfir), þá skilgreinum við ákveðna „lykilramma“ sem vafrinn fylgir í lykkju.
+
+Hér er dæmi um einfaldan hring sem svífur upp og niður og breytir um lit.
+
+---
+
+### HTML
+```html
+<div class="bolti"></div>
+```
+
+### CSS
+Hér skilgreinum við hreyfimynstrið með `@keyframes` og tengjum það svo við boltann:
+
+```css
+/* 1. Við búum til hreyfinguna og skírum hana "svif" */
+@keyframes svif {
+  0% {
+    transform: translateY(0px); /* Upphafsstaða */
+  }
+  50% {
+    transform: translateY(-50px) scale(1.1); /* Miðja: fer upp og stækkar */
+  }
+  100% {
+    transform: translateY(0px); /* Endar aftur í sömu stöðu */
+  }
+}
+
+/* 2. Við búum til boltann og ræsum hreyfinguna */
+.bolti {
   width: 100px;
   height: 100px;
-  background-color: red;
-  position: relative;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
+  background-color: #e74c3c;
+  border-radius: 50%; /* Gerir hlutinn hringlaga */
+  margin: 100px auto;
 
-@keyframes example {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-  50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
+  /* Hér tengjum við hreyfinguna: */
+  animation-name: svif;        /* Nafnið á @keyframes */
+  animation-duration: 2s;      /* Hversu lengi hver hringur tekur */
+  animation-iteration-count: infinite; /* Keyra endalaust */
+  animation-timing-function: ease-in-out; /* Gera hreyfinguna mýkri */
 }
 ```
 
-| Value  |  Description |
-| ---- | ---- |
-| animation-name: | Specifies the name of the keyframe you want to bind to  the selector   |
-| animation-duration  | Specifies how many seconds or milliseconds an animation takes to complete  |
-| animation-timing-function	| Specifies the speed curve of the animation  |
-| animation-delay  | Specifies a delay before the animation will start  |
-| animation-iteration-count	| Specifies how many times an animation should be played  |
-| animation-direction  | Specifies whether or not the animation should play in reverse on alternate cycles  |
-| animation-fill-mode  | Specifies what values are applied by the animation outside the time it is executing  |
-| animation-play-state  | Specifies whether the animation is running or paused  |
-
-**Animation** is actually a shorthand for eight subproperties:
-
-` animation: duration timing delay iteration direction fill play name; `
-
-```CSS
-    /* @keyframes duration | easing-function | delay |
-    iteration-count | direction | fill-mode | play-state | name */
-    animation: 3s ease-in 1s 2 reverse both paused slide-in;
-    
-    /* @keyframes duration | easing-function | delay | name */
-    animation: 3s linear 1s slide-in;
-    
-    /* two animations */
-    animation:
-      3s linear slide-in,
-      3s ease-out 5s slide-out;
-```
-
-> Note: for the shorthand to work properly, make sure you list the values in the same order as listed above. As you're using the shorthand, there's no need to list the subproperties – you just need to define the values you need. You don't need to use all of the subproperties, but animation-name and animation-duration are necessary for the CSS animation property to work as intended.
-
-heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation.asp)
-
 ---
 
-### Aðgengi, til umhugsunar
+### Útskýring á helstu skipunum:
 
-Þó svo að hreyfing hluta á vefsíðu skapi hrifningu og aðstoði notendur þá þarf alltaf að fara meðalveginn og vera ekki með of mikið áreiti á skjánum.  Auglýsingar sem blikka eða með ágengu myndefni truflar fólk.  
+* **`@keyframes`**: Þetta er handritið. Við segjum hvað á að gerast við $0\%$, $50\%$ og $100\%$ af tímanum.
+* **`animation-iteration-count: infinite`**: Þetta er mikilvægasta skipunin fyrir „stöðuga“ hreyfingu. Án hennar myndi hreyfingin bara gerast einu sinni og stoppa svo.
+* **`translateY(-50px)`**: Færir boltann upp um 50 pixla á Y-ásnum.
 
-Nú er hægt að stjórna því hvort kvikun sé í gangi í vöfrum eða ekki í notendastillingum tölvunnar. CSS staðallinn styður það eins og litaþema og skjástærðir með @media reglu sem nefnist **` @media (prefers-reduced-motion: reduce) {...} `**. Í PICO stílsíðusafninu er er þessi regla neðst í kóðanum.
+### Af hverju er þetta betra en að færa hlutinn með `top` eða `margin`?
+Eins og áður sagði þá notar **`transform`** grafíkhraðalinn þinn. Ef þú ert með marga hluti sem hreyfast stöðugt (eins og snjókorn eða stjörnur í bakgrunni), þá mun síðan ennþá keyra mjúklega á meðan aðrar aðferðir gætu látið vafrann „hökta“.
 
-Í Windows 11 er hægt að velja um hvort kvikun sé virk eða ekki
-
-![Win-11](Accessibility-VisualEffects.png)
-
-Sjá nánar á: https://web.dev/articles/prefers-reduced-motion
-
----
-
-### Sýnidæmi
-
-1. [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
-1.  [Code pen](https://codepen.io/maheshambure21/pen/qZZrxy)
-1.  [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
-1.  [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav)
-
-#### Kvikun - Animation
-
-* [W3Schools CSS Animation](https://www.w3schools.com/css/css3_animations.asp)
-* [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-* [Animate Style](https://animate.style/)
-* [Slideshow w3.org](https://www.w3.org/Style/Examples/007/slideshow.en.html#top)
-* [Slideshow CSS](https://css-tricks.com/css-only-carousel/)
-* [CSS Scrolling text](https://blog.hubspot.com/website/scrolling-text-css)
-* [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
-* [Cubic Bezier](https://cubic-bezier.com/)
-* Safnsíður
-  * [CSS Text Animations](https://freefrontend.com/css-text-animations/)
-  * [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
-  * [28 Slideshow dæmi](https://freefrontend.com/css-slideshows/)
-  * [skjá-skvettur (Splash-screens)](https://speckyboy.com/splash-screen-design/)
-
-#### SVG kvikun (_Animation_)
-
-* [Góð byrjun í SVG kvikun](https://artificial.design/archives/2018/05/23/svg-animation.html)
-* [CSS Tricks - SVG kvikun](https://css-tricks.com/animating-svg-css/)
-* [SVG Icons](https://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658)
-
+Viltu prófa að búa til eitthvað flóknara, eins og snúning í þrívídd (3D)?
