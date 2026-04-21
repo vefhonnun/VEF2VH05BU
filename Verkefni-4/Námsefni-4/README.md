@@ -32,7 +32,7 @@ Hér eru tveir meginhlutar sem þarf til að búa til kvikun:
 * **Afköst:** CSS kvikanir eru keyrðar beint af vafranum og eru yfirleitt mun mýkri en kvikanir sem nota JavaScript.
 * **Engin flækjustig:** Þú þarft ekkert utanaðkomandi safn eða flókinn kóða; allt sem þú þarft er innbyggt í vafrann.
 
-Viltu sjá hvernig maður lætur hlut hreyfast í hringi eða blikka stöðugt?
+Dæmi:
 
 ```HTML
 <div class="kvikun"></div>
@@ -58,6 +58,8 @@ Viltu sjá hvernig maður lætur hlut hreyfast í hringi eða blikka stöðugt?
   100% {background-color:red; left:0px; top:0px;}
 }
 ```
+
+### Eiginleikar (properties)
 
 | Value  |  Description |
 | ---- | ---- |
@@ -94,9 +96,7 @@ heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation
 
 ---
 
-### [CSS transfom](transition-form.md)
-
-CSS trans
+#### Önnur leið til að koma hlutum á hreyfingu með CSS er með [transition og transform](transition-form.md) 
 
 ---
 
