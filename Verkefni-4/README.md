@@ -35,9 +35,9 @@ Búðu til þitt eigið SVG spunatákn (_Spinner_), þú getur notað CSS kvikun
 Tengdu stóra mynd við vefsíðu og bættu við kviktákni sem birtist á meðan myndin er að hlaðast inn í vafrann. 
 Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að sjá spunatáknið verðum við að stilla vafrann á **"Slow 4G"** tengingu til að líkja eftir lélegu netsambandi. Farðu í ` Inspector > Network >` og veldu  [Slow 4G] úr [ _No trottling_ ] fellilistanum.
 
-![skýringarmynd](Námsefni-4/4g-trottling.jpg)
+![skýringarmynd](Námsefni-4/img/4g-trottling.jpg)
 
-- [Dæmi um spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-4/img-loader.html)
+- [Dæmi um spunatákn (_spinner_) sem birtist meðan mynd er að hlaðast í vafrann](Námsefni-4/ýmislegt/img-loader.html)
 - [Dæmi um hvernig hægt er að búa til spinner í SVG skjali](https://www.fffuel.co/svg-spinner/)
 
 #### Námsmat 5%
