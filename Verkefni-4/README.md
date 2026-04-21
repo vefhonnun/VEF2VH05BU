@@ -22,7 +22,7 @@ Settu viðbragðshreyfingu á hnapp í formið á forsíðunni
 
 - [Sjá nánar, transition og transform](Námsefni-4/transition-form.md)
 - [Safn, animista.net/](https://animista.net/) (nýtt)
-- [Safn, animete.style](https://animate.style/)
+- [Safn, animate.style](https://animate.style/)
 
 ### Spunatákn (_spinner_) 
 
