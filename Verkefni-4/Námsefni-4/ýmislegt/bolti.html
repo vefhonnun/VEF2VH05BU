@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boltinn skoppar</title>
+    <style>
+        /* Geymirinn sem boltinn er í */
+        .stage {
+        width: 100%;
+        height: 300px;
+        position: relative;
+        background: #f0f0f0;
+        border-bottom: 5px solid #333; /* Gólfið */
+        overflow: hidden;
+        }
+
+        /* Boltinn */
+        .ball {
+        width: 50px;
+        height: 50px;
+        background-color: #ff4757;
+        border-radius: 50%;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        
+        /* Hér gerist töfrarnir */
+        animation: bounce 1.5s infinite;
+        }
+
+        /* Skilgreining á hreyfingunni */
+        @keyframes bounce {
+        /* Upphafsstaða: Boltinn er efst */
+        0% {
+            top: 0;
+            /* Flýtir á sér þegar hann fellur */
+            animation-timing-function: cubic-bezier(0.42, 0, 1.0, 0.7);
+        }
+        
+        /* Boltinn lendir á botninum */
+        40% {
+            top: 250px; /* (Hæð sviðs - hæð bolta) */
+            transform: translateX(-50%) scaleY(1); /* Engin skekkja ennþá */
+        }
+        
+        /* "Kreistist" þegar hann lendir */
+        50% {
+            top: 260px; /* Fer örlítið neðar vegna kreistingar */
+            transform: translateX(-50%) scaleY(0.7) scaleX(1.3); /* Kreistur saman */
+            /* Byrjar rólega að skoppa upp */
+            animation-timing-function: cubic-bezier(0, 0.3, 0.5, 1.0);
+        }
+        
+        /* Helmingur skoppsins upp */
+        70% {
+            top: 150px;
+            transform: translateX(-50%) scaleY(1); /* Endurheimtir lögun */
+            animation-timing-function: cubic-bezier(0, 0.3, 0.5, 1.0);
+        }
+
+        /* Boltinn er næstum kominn aftur upp */
+        100% {
+            top: 0;
+            transform: translateX(-50%) scaleY(1);
+        }
+        }
+    </style>
+</head>
+<body>
+    <div class="stage">
+        <section class="ball"></section>
+    </div>
+</body>
+</html>
