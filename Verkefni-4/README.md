@@ -24,6 +24,8 @@ Settu viðbragðshreyfingu á hnapp í formið á forsíðunni
 - [Safn, animista.net/](https://animista.net/) (nýtt)
 - [Safn, animate.style](https://animate.style/)
 
+> Hér er síðan nánari umfjöllun um hvernig ["Cubic Bezier" kúrfan virkar](Námsefni-4/CSS-Cubic-Bezier.md)
+
 ### Spunatákn (_spinner_) 
 
 Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með SVG tákni sem hreyfist. 
