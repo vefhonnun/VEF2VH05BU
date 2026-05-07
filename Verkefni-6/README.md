@@ -18,7 +18,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 > Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
-### Námsmat 25% - _Lykilmatsþáttur_
+### Námsmat 25% 
 
 -	**7%** Innihald  
    	* SVG lógo er í &lt;header>
