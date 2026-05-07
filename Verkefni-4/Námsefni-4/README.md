@@ -130,6 +130,7 @@ Sjá nánar á: https://web.dev/articles/prefers-reduced-motion
 * [CSS &#9776; - X icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
 * [Cubic Bezier](https://cubic-bezier.com/)
 * Safnsíður
+  * [Slideshow 40 dæmi. 2026](https://prismic.io/blog/css-sliders)
   * [CSS Text Animations](https://freefrontend.com/css-text-animations/)
   * [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
   * [28 Slideshow dæmi](https://freefrontend.com/css-slideshows/)
