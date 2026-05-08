@@ -42,7 +42,7 @@ Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggin
 			<li>Fastur „Bæta í körfu“ hnappur: Gakktu úr skugga um að aðgerðahnappur sé alltaf sýnilegur, annað hvort efst á síðunni eða sem borði sem fylgir notandanum þegar hann skrunar niður.</li>
 			<li>Beint í greiðslu: Íhugaðu að sleppa körfusíðunni alveg og senda notendur beint í greiðsluferlið til að lágmarka mótstöðu.</li>
 		</ul>
-	<details>
+	</details>
 4. Lokaskoðun og prófanir 
 	- <details>
 		<summary>Áður en þú opnar skaltu athuga þessi tæknilegu atriði:</summary>
