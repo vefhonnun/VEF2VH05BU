@@ -61,14 +61,14 @@
 
  ### Námsmat
 
-1. Vinnurammi, töflur og form 5% 
-1. Flókin stílbrögð 5%
-   - stöðumat 25%
+1. Vinnurammi, töflur og form. 5% 
+1. Flókin stílbrögð. 5%
+1. Stöðupróf 1. 25%
 1. SVG vigurteikningar 5%
 1. CSS kvikun 5%
-   - stöðumat 25% **_Lykilmatsþáttur_**
-1. Undirbúningur vefs 10% 
-1. Framleiðsla vefs 20% 
+1. Stöðupróf 2. 25% **_Lykilmatsþáttur_**
+1. Undirbúningur vefs 5% 
+1. Framleiðsla vefs 25% 
 
 > _Lágmarkseinkun lykilmatsþáttar er 5. Ef einkunn er undir 4.9 þá stendur hún sem lokaeinkun úr áfanganum_
 
