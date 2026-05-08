@@ -23,9 +23,9 @@ Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggin
 			<li>Stillingasíður: Nauðsynlegar fyrir traust og lagalegt samræmi; þar á meðal upplýsingar um sendingar, skilafrest og þjónustuskilmála.</li>
 		</ul>
 2. Bestaðu uppsetningu forsíðunnar
-		- Í verslun sem selur eina vöru er forsíðan oft eina síðan sem viðskiptavinurinn þarf að skoða. 
-		<details>
-		<summary>Skipuleggðu hana í þessa áhrifamiklu hluta:</summary>
+		- <details>
+			<summary>Í verslun sem selur eina vöru er forsíðan oft eina síðan sem viðskiptavinurinn þarf að skoða.</summary> 
+			Skipuleggðu hana í þessa áhrifamiklu hluta:
 			<ul>
 				<li>Hetjuhluti (Hero Section): Gríptu athyglina á innan við 5 sekúndum með hágæða mynd eða myndbandi af vörunni, fyrirsögn sem leggur áherslu á ávinning og skýrum kalli til aðgerða (CTA) eins og „Versla núna“.</li>
 				<li>Vandamál/Lausn: Tilgreindu skýrt það vandamál sem markhópurinn glímir við og hvernig varan þín er hin fullkomna lausn.</li>
@@ -50,7 +50,7 @@ Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggin
 		<li>Hraði síðunnar: Notaðu Google PageSpeed Insights tólið til að tryggja að hágæða myndir hægi ekki á síðunni.</li>
 		<li>Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. </li>
 		</ul>
-	<details>
+	</details>
 
 #### Lesefni
 
