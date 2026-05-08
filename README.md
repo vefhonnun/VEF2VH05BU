@@ -63,10 +63,10 @@
 
 1. Vinnurammi, töflur og form. **5%** 
 1. Flókin stílbrögð. **5%** 
-1. Stöðupróf 1. 25%
+1. Stöðupróf 1. **25%**
 1. SVG vigurteikningar **5%** 
 1. CSS kvikun 5%
-1. Stöðupróf 2 **_Lykilmatsþáttur_. 25%**
+1. Stöðupróf 2. _Lykilmatsþáttur_. **25%**
 1. Undirbúningur vefs. **5%**  
 1. Framleiðsla vefs. **25%**  
 
