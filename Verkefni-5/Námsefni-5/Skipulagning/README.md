@@ -11,13 +11,17 @@
 Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggingar sem lágmarkar truflanir og leiðir notendur beint að einu markmiði: að kaupa „vöruna“ þína. Ólíkt verslunum með marga vöruflokka ættir þú að líta á alla síðuna sem söluferli með háu umbreytingarhlutfalli.
 
 1. Skilgreindu grunnskipulag síðunnar
-Jafnvel þótt þú sért aðeins með eina vöru, þarftu nokkrar nauðsynlegar síður til að byggja upp traust og uppfylla lagalegar kröfur:
-  * Forsíða (Aðalsölusíða): Þetta er aðallendingarsíðan þín. Hún ætti að þjóna sem ítarleg sýning á vörunni þinni.
-  * Vörusíða: Ítarleg útlistun með tæknilegum upplýsingum, öllum útgáfum (litum, stærðum) og aðalhnappnum „Bæta í körfu“.
-  * Um okkur: Segðu sögu vörumerkisins, útskýrðu vandamálið sem varan leysir og deildu markmiðum þínum til að skapa tilfinningaleg tengsl.
-  * Hafa samband: Bjóddu upp á skýra leið fyrir viðskiptavini til að ná sambandi, hvort sem er með tölvupósti, eyðublaði eða spjalli.
-  * Stillingasíður: Nauðsynlegar fyrir traust og lagalegt samræmi; þar á meðal upplýsingar um sendingar, skilafrest og þjónustuskilmála.
-
+  - Jafnvel þótt þú sért aðeins með eina vöru, þarftu nokkrar nauðsynlegar síður til að byggja upp traust og uppfylla lagalegar kröfur:
+		<details>
+	<summary>Forsíða (Aðalsölusíða): </summary>
+	Hér er listinn þinn kominn yfir á HTML snið:
+	<ul>
+		<li>Þetta er aðallendingarsíðan þín. Hún ætti að þjóna sem ítarleg sýning á vörunni þinni.</li>
+		<li>Vörusíða: Ítarleg útlistun með tæknilegum upplýsingum, öllum útgáfum (litum, stærðum) og aðalhnappnum „Bæta í körfu“.</li>
+		<li>Um okkur: Segðu sögu vörumerkisins, útskýrðu vandamálið sem varan leysir og deildu markmiðum þínum til að skapa tilfinningaleg tengsl.</li>
+		<li>Hafa samband: Bjóddu upp á skýra leið fyrir viðskiptavini til að ná sambandi, hvort sem er með tölvupósti, eyðublaði eða spjalli.</li>
+		<li>Stillingasíður: Nauðsynlegar fyrir traust og lagalegt samræmi; þar á meðal upplýsingar um sendingar, skilafrest og þjónustuskilmála.</li>
+	</ul>
 2. Bestaðu uppsetningu forsíðunnar
   - Í verslun sem selur eina vöru er forsíðan oft eina síðan sem viðskiptavinurinn þarf að skoða. 
 	<details>
