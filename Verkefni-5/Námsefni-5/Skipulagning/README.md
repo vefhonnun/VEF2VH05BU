@@ -35,16 +35,22 @@ Skipulag vefsíðu fyrir eina vöru eða þjónustu krefst markvissrar uppbyggin
 			</ul>
 		</details>
 3. Einfaldaðu leiðsögn og greiðsluferli
-	- Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðalag notandans:
-	* Lágmarksstíll í valmynd: Hafðu valmyndina einfalda. Einbeittu þér að fáum hlekkjum eins og „Heim,“ „Umsagnir“ og „Hafa samband,“ þar sem varan er áberandi.
-	* Fastur „Bæta í körfu“ hnappur: Gakktu úr skugga um að aðgerðahnappur sé alltaf sýnilegur, annað hvort efst á síðunni eða sem borði sem fylgir notandanum þegar hann skrunar niður.
-	* Beint í greiðslu: Íhugaðu að sleppa körfusíðunni alveg og senda notendur beint í greiðsluferlið til að lágmarka mótstöðu.
+	- <details>
+		<summary>Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðalag notandans:</summary>
+		<ul>
+			<li>Lágmarksstíll í valmynd: Hafðu valmyndina einfalda. Einbeittu þér að fáum hlekkjum eins og „Heim,“ „Umsagnir“ og „Hafa samband,“ þar sem varan er áberandi.</li>
+			<li>Fastur „Bæta í körfu“ hnappur: Gakktu úr skugga um að aðgerðahnappur sé alltaf sýnilegur, annað hvort efst á síðunni eða sem borði sem fylgir notandanum þegar hann skrunar niður.</li>
+			<li>Beint í greiðslu: Íhugaðu að sleppa körfusíðunni alveg og senda notendur beint í greiðsluferlið til að lágmarka mótstöðu.</li>
+		</ul>
+	<details>
 4. Lokaskoðun og prófanir 
-	- Áður en þú opnar skaltu athuga þessi tæknilegu atriði:
-  * Gæði í snjalltækjum: Yfir 50% umferðar kemur úr farsímum. Gakktu úr skugga um að auðvelt sé að smella á alla hnappa og að myndir skali rétt.
-  * Hraði síðunnar: Notaðu Google PageSpeed Insights tólið til að tryggja að hágæða myndir hægi ekki á síðunni.
-  * Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. 
-
+	- <details>
+		<summary>Áður en þú opnar skaltu athuga þessi tæknilegu atriði:</summary>
+		<li>Gæði í snjalltækjum: Yfir 50% umferðar kemur úr farsímum. Gakktu úr skugga um að auðvelt sé að smella á alla hnappa og að myndir skali rétt.</li>
+		<li>Hraði síðunnar: Notaðu Google PageSpeed Insights tólið til að tryggja að hágæða myndir hægi ekki á síðunni.</li>
+		<li>Öryggismerki: Staðfestu að SSL-skírteini séu virk og að greiðslugáttir (PayPal, Stripe) virki sem skyldi. </li>
+		</ul>
+	<details>
 
 #### Lesefni
 
