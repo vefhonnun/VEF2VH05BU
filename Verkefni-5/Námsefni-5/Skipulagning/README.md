@@ -19,12 +19,16 @@ Jafnvel þótt þú sért aðeins með eina vöru, þarftu nokkrar nauðsynlegar
   * Stillingasíður: Nauðsynlegar fyrir traust og lagalegt samræmi; þar á meðal upplýsingar um sendingar, skilafrest og þjónustuskilmála.
 
 2. Bestaðu uppsetningu forsíðunnar
-Í verslun sem selur eina vöru er forsíðan oft eina síðan sem viðskiptavinurinn þarf að skoða. Skipuleggðu hana í þessa áhrifamiklu hluta:
+Í verslun sem selur eina vöru er forsíðan oft eina síðan sem viðskiptavinurinn þarf að skoða. 
+<details>
+ <summary>Skipuleggðu hana í þessa áhrifamiklu hluta:</summary>
   * Hetjuhluti (Hero Section): Gríptu athyglina á innan við 5 sekúndum með hágæða mynd eða myndbandi af vörunni, fyrirsögn sem leggur áherslu á ávinning og skýrum kalli til aðgerða (CTA) eins og „Versla núna“.
   * Vandamál/Lausn: Tilgreindu skýrt það vandamál sem markhópurinn glímir við og hvernig varan þín er hin fullkomna lausn.
   * Eiginleikar: Notaðu tákn og stutta textabúta til að draga fram 5–7 helstu kosti (t.d. „Umhverfisvæn,“ „Vatnsheld“).
   * Umsagnir og traust: Birtu umsagnir viðskiptavina, stjörnugjöf eða efni frá notendum á TikTok eða Instagram til að skapa strax trúverðugleika.
   * Algengar spurningar (FAQ): Svaraðu algengum mótbárum eða spurningum (t.d. „Hvað tekur sendingin langan tíma?“) til að eyða óvissu fyrir kaup.
+</details>
+
 
 3. Einfaldaðu leiðsögn og greiðsluferli
 Fækkaðu smellum sem þarf til að kaupa með því að straumlínulaga ferðalag notandans:
