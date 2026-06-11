@@ -21,7 +21,7 @@
 | 4 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
 | 5 | Kvikun | Transform - transition | @keyframe animation | **Stöðumat** |
 | 6 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
-| 7 -8 | Vefhönnun | Framleiðsla | Framleiðsla | Framleiðsla |  
+| 7 - 8 | Vefhönnun | Framleiðsla | Framleiðsla | Framleiðsla |  
 | 9 | Frágangur | Vefur á Github.io | - | - |
 
 ### Verklýsing
