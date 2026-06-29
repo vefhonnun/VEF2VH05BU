@@ -43,10 +43,10 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 #### Verkefnaskil
 
-- Öllum vinnugögnum skal skilað í Verkefni 6 í Innu 
+- Öllum vinnugögnum skal skilað í Verkefni 6 í Canvas 
 - Tengill á vefinn https://(_notandi_).github.io/(_undirlén_) skráð í _athugasemd til kennara_
 
-#### Einkunn verður birt í Innu
+#### Einkunn verður birt í Canvas
 
 _Gangi þér vel_ 😊
 
