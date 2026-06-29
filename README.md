@@ -9,7 +9,7 @@
 
 ## Námsáætlun
 
-- [Námsáætlun og námsmat VEFÞ2VH05BU er í Canvas]()
+- [Námsáætlun og námsmat VEFÞ2VH05BU er í Canvas](https://canvas.tskoli.is/)
 
 ### Vikuáætlun
 
