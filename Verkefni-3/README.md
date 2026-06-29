@@ -33,9 +33,9 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 #### Verkefnaskil
 
 - SVG tákn  
-- Vefsíðu og stílsíðum er skilað í Innu/VEFÞ1VG/Verkefni-3 í **.zip** skrá.
+- Vefsíðu og stílsíðum er skilað í Canvas/VEFÞ1VG/Verkefni-3 í **.zip** skrá.
 
-#### Einkunn verður birt í Innu
+#### Einkunn verður birt í Canvas
 
 _Gangi þér vel_
 
