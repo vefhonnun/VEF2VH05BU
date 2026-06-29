@@ -49,9 +49,9 @@ Yfirleitt er Wi-Fi tengingar góðar hér á höfuðborgarsvæðinu svo til að 
 
 #### Vekefnaskil
 
-Vefsíðu og stílsíðum er skilað í Innu/VEFÞ2VH05AU/Verkefni-4 í **.zip** skrá. 
+Vefsíðu og stílsíðum er skilað í Canvas/VEFÞ2VH05AU/Verkefni-4 í **.zip** skrá. 
 
-#### Einkunn verður birt í Innu
+#### Einkunn verður birt í Canvas
 
 _Gangi þér vel_
 
