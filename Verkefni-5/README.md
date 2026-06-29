@@ -50,7 +50,7 @@
 
 ### Verkefnaskil
 
-- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 5
+- Öllum undirbúningsgögnum er skilað í Canvas/VEFÞ2VH05BU/Verkefni 5
 
-#### _Einkunn verður birt í Innu_
+#### _Einkunn verður birt í Canvas_
 
