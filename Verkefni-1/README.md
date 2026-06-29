@@ -113,9 +113,9 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * Form	
   * innsláttarreitir eru skilyrtir (_required_)	
 
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ2VH05BU/Verkefni-2_ í **.zip** skrá. 
+Vefsíðu og stílsíðu er skilað í **.zip** skrá. 
 
-#### Einkunn verður birt í Innu
+#### Einkunn verður birt í Canvas
 
 _Gangi þér vel_
 
